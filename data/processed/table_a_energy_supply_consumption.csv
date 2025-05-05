@@ -1,0 +1,485 @@
+flow_description,flow_type,period,fuel,petajoules
+Primary indigenous supply,primary_supply,2021-22,black_coal,11215.668
+  plus all imports,imports,2021-22,black_coal,2.636
+  less all exports,exports,2021-22,black_coal,10173.475
+  less stock changes,stock_changes,2021-22,black_coal,-202.904
+  less discrepancies,statistical_discrepancies,2021-22,black_coal,66.587
+  Coke ovens,conversion,2021-22,black_coal,98.753
+  Electricity generation,conversion,2021-22,black_coal,985.685
+  Other conversion c,conversion,2021-22,black_coal,0.982
+  Mining e,sector_mining,2021-22,black_coal,np
+"  Food, beverages, textiles",sector_industry,2021-22,black_coal,6.308
+"  Wood, paper And printing",sector_industry,2021-22,black_coal,2.984
+  Chemical,sector_industry,2021-22,black_coal,np
+  Iron and steel,sector_industry,2021-22,black_coal,np
+  Non-ferrous metals,sector_industry,2021-22,black_coal,57.13
+  Other industry,sector_industry,2021-22,black_coal,17.781
+  Rail transport,sector_transport,2021-22,black_coal,0
+  Commercial and services,sector_commercial,2021-22,black_coal,np
+  Residential,sector_residential,2021-22,black_coal,0
+Primary indigenous supply,primary_supply,2021-22,brown_coal,415.677
+  less discrepancies,statistical_discrepancies,2021-22,brown_coal,5.738
+  Electricity generation,conversion,2021-22,brown_coal,409.939
+"  Food, beverages, textiles",sector_industry,2021-22,brown_coal,np
+  Other industry,sector_industry,2021-22,brown_coal,np
+  Water and waste f,sector_services,2021-22,brown_coal,np
+  plus all imports,imports,2021-22,met_coke,12.687
+  less all exports,exports,2021-22,met_coke,22.118
+  less discrepancies,statistical_discrepancies,2021-22,met_coke,-4.292
+  Coke ovens,conversion,2021-22,met_coke,-62.114
+  Other conversion c,conversion,2021-22,met_coke,49.213
+  Mining e,sector_mining,2021-22,met_coke,1.148
+  Chemical,sector_industry,2021-22,met_coke,0.176
+  Iron and steel,sector_industry,2021-22,met_coke,3.45
+  Non-ferrous metals,sector_industry,2021-22,met_coke,2.889
+  Other industry,sector_industry,2021-22,met_coke,0.1
+  plus all imports,imports,2021-22,coal_byproducts_a,0
+  less discrepancies,statistical_discrepancies,2021-22,coal_byproducts_a,-0.809
+  Coke ovens,conversion,2021-22,coal_byproducts_a,-5.491
+  Petroleum refining,conversion,2021-22,coal_byproducts_a,0
+  Gas manufacturing,conversion,2021-22,coal_byproducts_a,0
+  Electricity generation,conversion,2021-22,coal_byproducts_a,0.18
+  Other conversion c,conversion,2021-22,coal_byproducts_a,5.288
+  Fuel use in conversion,conversion_losses,2021-22,coal_byproducts_a,0
+  Mining e,sector_mining,2021-22,coal_byproducts_a,np
+"  Food, beverages, textiles",sector_industry,2021-22,coal_byproducts_a,0.01
+"  Wood, paper And printing",sector_industry,2021-22,coal_byproducts_a,0.089
+  Chemical,sector_industry,2021-22,coal_byproducts_a,np
+  Iron and steel,sector_industry,2021-22,coal_byproducts_a,np
+  Non-ferrous metals,sector_industry,2021-22,coal_byproducts_a,0.271
+  Other industry,sector_industry,2021-22,coal_byproducts_a,0.368
+  Water and waste f,sector_services,2021-22,coal_byproducts_a,0
+  Construction,sector_services,2021-22,coal_byproducts_a,0
+  Commercial and services,sector_commercial,2021-22,coal_byproducts_a,np
+  Residential,sector_residential,2021-22,coal_byproducts_a,0
+Primary indigenous supply,primary_supply,2021-22,natural_gas,6149.479
+  plus all imports,imports,2021-22,natural_gas,152.051
+  less all exports,exports,2021-22,natural_gas,4636.772
+  less stock changes,stock_changes,2021-22,natural_gas,-27.835
+  less discrepancies,statistical_discrepancies,2021-22,natural_gas,133.249
+  LNG plants,conversion,2021-22,natural_gas,349.875
+  Petroleum refining,conversion,2021-22,natural_gas,4.023
+  Gas manufacturing,conversion,2021-22,natural_gas,0.758
+  Electricity generation,conversion,2021-22,natural_gas,514.897
+  Other conversion c,conversion,2021-22,natural_gas,74.097
+  Fuel use in conversion,conversion_losses,2021-22,natural_gas,24.492
+  Agriculture,sector_agriculture,2021-22,natural_gas,1.225
+  Mining e,sector_mining,2021-22,natural_gas,66.679
+"  Food, beverages, textiles",sector_industry,2021-22,natural_gas,37.833
+"  Wood, paper And printing",sector_industry,2021-22,natural_gas,16.329
+  Chemical,sector_industry,2021-22,natural_gas,61.793
+  Iron and steel,sector_industry,2021-22,natural_gas,10.384
+  Non-ferrous metals,sector_industry,2021-22,natural_gas,130.582
+  Other industry,sector_industry,2021-22,natural_gas,49.408
+  Water and waste f,sector_services,2021-22,natural_gas,1.184
+  Construction,sector_services,2021-22,natural_gas,2.684
+  Road transport,sector_transport,2021-22,natural_gas,0.893
+  Rail transport,sector_transport,2021-22,natural_gas,0.047
+"  Other transport, services and storage",sector_transport,2021-22,natural_gas,0.929
+  Commercial and services,sector_commercial,2021-22,natural_gas,46.869
+  Residential,sector_residential,2021-22,natural_gas,164.363
+Primary indigenous supply,primary_supply,2021-22,crude_oil_and_orf,722.958
+  plus all imports,imports,2021-22,crude_oil_and_orf,386.593
+  less all exports,exports,2021-22,crude_oil_and_orf,622.885
+  less stock changes,stock_changes,2021-22,crude_oil_and_orf,-3.502
+  less discrepancies,statistical_discrepancies,2021-22,crude_oil_and_orf,-110.234
+  Petroleum refining,conversion,2021-22,crude_oil_and_orf,599.233
+  Gas manufacturing,conversion,2021-22,crude_oil_and_orf,0
+  Electricity generation,conversion,2021-22,crude_oil_and_orf,0.479
+  Mining e,sector_mining,2021-22,crude_oil_and_orf,0.689
+Primary indigenous supply,primary_supply,2021-22,lpg,168.283
+  plus all imports,imports,2021-22,lpg,20.524
+  less all exports,exports,2021-22,lpg,149.16
+  less stock changes,stock_changes,2021-22,lpg,-1.895
+  less discrepancies,statistical_discrepancies,2021-22,lpg,5.784
+  LNG plants,conversion,2021-22,lpg,0.019
+  Petroleum refining,conversion,2021-22,lpg,-8.571
+  Gas manufacturing,conversion,2021-22,lpg,0
+  Electricity generation,conversion,2021-22,lpg,0.011
+  Other conversion c,conversion,2021-22,lpg,0.153
+  Fuel use in conversion,conversion_losses,2021-22,lpg,0.001
+  Agriculture,sector_agriculture,2021-22,lpg,2.708
+  Mining e,sector_mining,2021-22,lpg,1.9
+"  Food, beverages, textiles",sector_industry,2021-22,lpg,1.224
+"  Wood, paper And printing",sector_industry,2021-22,lpg,0.158
+  Chemical,sector_industry,2021-22,lpg,5.998
+  Iron and steel,sector_industry,2021-22,lpg,0.024
+  Non-ferrous metals,sector_industry,2021-22,lpg,0.04
+  Other industry,sector_industry,2021-22,lpg,4.961
+  Water and waste f,sector_services,2021-22,lpg,0.013
+  Construction,sector_services,2021-22,lpg,0.214
+  Road transport,sector_transport,2021-22,lpg,10.494
+  Rail transport,sector_transport,2021-22,lpg,0.043
+"  Other transport, services and storage",sector_transport,2021-22,lpg,0.196
+  Commercial and services,sector_commercial,2021-22,lpg,0.659
+  Residential,sector_residential,2021-22,lpg,15.511
+  plus all imports,imports,2021-22,refined_products,1554.559
+  less all exports,exports,2021-22,refined_products,18.821
+  less stock changes,stock_changes,2021-22,refined_products,0.607
+  less discrepancies,statistical_discrepancies,2021-22,refined_products,64.399
+  LNG plants,conversion,2021-22,refined_products,0.567
+  Petroleum refining,conversion,2021-22,refined_products,-582.124
+  Gas manufacturing,conversion,2021-22,refined_products,0
+  Electricity generation,conversion,2021-22,refined_products,44.678
+  Other conversion c,conversion,2021-22,refined_products,-2.204
+  Fuel use in conversion,conversion_losses,2021-22,refined_products,47.242
+  Agriculture,sector_agriculture,2021-22,refined_products,104.304
+  Mining e,sector_mining,2021-22,refined_products,280.227
+"  Food, beverages, textiles",sector_industry,2021-22,refined_products,4.856
+"  Wood, paper And printing",sector_industry,2021-22,refined_products,2.54
+  Chemical,sector_industry,2021-22,refined_products,41.646
+  Iron and steel,sector_industry,2021-22,refined_products,1.921
+  Non-ferrous metals,sector_industry,2021-22,refined_products,30.826
+  Other industry,sector_industry,2021-22,refined_products,4.041
+  Water and waste f,sector_services,2021-22,refined_products,1.343
+  Construction,sector_services,2021-22,refined_products,26.825
+  Road transport,sector_transport,2021-22,refined_products,1100.457
+  Rail transport,sector_transport,2021-22,refined_products,51.659
+  Air transport g,sector_transport,2021-22,refined_products,168.044
+  Water transport h,sector_transport,2021-22,refined_products,58.012
+"  Other transport, services and storage",sector_transport,2021-22,refined_products,10.122
+  Commercial and services,sector_commercial,2021-22,refined_products,30.231
+  Residential,sector_residential,2021-22,refined_products,0
+"  Lubes, bitumen, solvents",sector_other,2021-22,refined_products,45.518
+Primary indigenous supply,primary_supply,2021-22,liquidgas_biofuels,24.599
+  less discrepancies,statistical_discrepancies,2021-22,liquidgas_biofuels,0
+  Petroleum refining,conversion,2021-22,liquidgas_biofuels,0
+  Gas manufacturing,conversion,2021-22,liquidgas_biofuels,0
+  Electricity generation,conversion,2021-22,liquidgas_biofuels,16.333
+  Fuel use in conversion,conversion_losses,2021-22,liquidgas_biofuels,0
+  Mining e,sector_mining,2021-22,liquidgas_biofuels,np
+"  Food, beverages, textiles",sector_industry,2021-22,liquidgas_biofuels,1.028
+"  Wood, paper And printing",sector_industry,2021-22,liquidgas_biofuels,0.707
+  Chemical,sector_industry,2021-22,liquidgas_biofuels,0.188
+  Other industry,sector_industry,2021-22,liquidgas_biofuels,0.372
+  Water and waste f,sector_services,2021-22,liquidgas_biofuels,0.87
+  Construction,sector_services,2021-22,liquidgas_biofuels,0.143
+  Road transport,sector_transport,2021-22,liquidgas_biofuels,4.955
+  Rail transport,sector_transport,2021-22,liquidgas_biofuels,0
+"  Other transport, services and storage",sector_transport,2021-22,liquidgas_biofuels,0
+  Commercial and services,sector_commercial,2021-22,liquidgas_biofuels,np
+Primary indigenous supply,primary_supply,2021-22,biomass__wood,90.879
+  less discrepancies,statistical_discrepancies,2021-22,biomass__wood,0
+  Electricity generation,conversion,2021-22,biomass__wood,8.357
+  Other conversion c,conversion,2021-22,biomass__wood,0.153
+  Mining e,sector_mining,2021-22,biomass__wood,0.012
+"  Food, beverages, textiles",sector_industry,2021-22,biomass__wood,2.178
+"  Wood, paper And printing",sector_industry,2021-22,biomass__wood,26.772
+  Chemical,sector_industry,2021-22,biomass__wood,0.394
+  Non-ferrous metals,sector_industry,2021-22,biomass__wood,1.729
+  Other industry,sector_industry,2021-22,biomass__wood,3.857
+  Water and waste f,sector_services,2021-22,biomass__wood,0
+  Commercial and services,sector_commercial,2021-22,biomass__wood,0.184
+  Residential,sector_residential,2021-22,biomass__wood,47.243
+Primary indigenous supply,primary_supply,2021-22,biomass__bagasse,84.442
+  less discrepancies,statistical_discrepancies,2021-22,biomass__bagasse,0
+  Electricity generation,conversion,2021-22,biomass__bagasse,12.023
+  Mining e,sector_mining,2021-22,biomass__bagasse,0
+"  Food, beverages, textiles",sector_industry,2021-22,biomass__bagasse,72.419
+Primary indigenous supply,primary_supply,2021-22,wind_electricity,104.788
+  less discrepancies,statistical_discrepancies,2021-22,wind_electricity,0
+  Electricity generation,conversion,2021-22,wind_electricity,104.788
+Primary indigenous supply,primary_supply,2021-22,solar_electricity,124.872
+  less discrepancies,statistical_discrepancies,2021-22,solar_electricity,0
+  Electricity generation,conversion,2021-22,solar_electricity,124.872
+Primary indigenous supply,primary_supply,2021-22,hydroelectricity,61.239
+  less discrepancies,statistical_discrepancies,2021-22,hydroelectricity,0
+  Electricity generation,conversion,2021-22,hydroelectricity,61.239
+  Coke ovens,conversion,2021-22,total_electricity,0.438
+  LNG plants,conversion,2021-22,total_electricity,28.669
+  Petroleum refining,conversion,2021-22,total_electricity,2.097
+  Gas manufacturing,conversion,2021-22,total_electricity,0.372
+  Electricity generation,conversion,2021-22,total_electricity,-977.514
+  Other conversion c,conversion,2021-22,total_electricity,1.039
+  Fuel use in conversion,conversion_losses,2021-22,total_electricity,100.986
+  Agriculture,sector_agriculture,2021-22,total_electricity,6.351
+  Mining e,sector_mining,2021-22,total_electricity,131.628
+"  Food, beverages, textiles",sector_industry,2021-22,total_electricity,22.928
+"  Wood, paper And printing",sector_industry,2021-22,total_electricity,14.422
+  Chemical,sector_industry,2021-22,total_electricity,13.239
+  Iron and steel,sector_industry,2021-22,total_electricity,12.398
+  Non-ferrous metals,sector_industry,2021-22,total_electricity,110.452
+  Other industry,sector_industry,2021-22,total_electricity,20.567
+  Water and waste f,sector_services,2021-22,total_electricity,14.435
+  Construction,sector_services,2021-22,total_electricity,7.346
+  Road transport,sector_transport,2021-22,total_electricity,0.454
+  Rail transport,sector_transport,2021-22,total_electricity,11.787
+"  Other transport, services and storage",sector_transport,2021-22,total_electricity,11.012
+  Commercial and services,sector_commercial,2021-22,total_electricity,217.443
+  Residential,sector_residential,2021-22,total_electricity,249.449
+Primary indigenous supply,primary_supply,2021-22,solar_hotwater,21.328
+  less discrepancies,statistical_discrepancies,2021-22,solar_hotwater,0
+"  Wood, paper And printing",sector_industry,2021-22,solar_hotwater,0
+  Commercial and services,sector_commercial,2021-22,solar_hotwater,0.557
+  Residential,sector_residential,2021-22,solar_hotwater,20.771
+Primary indigenous supply,primary_supply,2021-22,total,19184.212
+  plus all imports,imports,2021-22,total,2129.049
+  less all exports,exports,2021-22,total,15623.23
+  less stock changes,stock_changes,2021-22,total,-235.529
+  less discrepancies,statistical_discrepancies,2021-22,total,160.422
+  Coke ovens,conversion,2021-22,total,31.586
+  LNG plants,conversion,2021-22,total,379.13
+  Petroleum refining,conversion,2021-22,total,14.659
+  Gas manufacturing,conversion,2021-22,total,1.131
+  Electricity generation,conversion,2021-22,total,1305.968
+  Other conversion c,conversion,2021-22,total,128.72
+  Fuel use in conversion,conversion_losses,2021-22,total,172.721
+  Agriculture,sector_agriculture,2021-22,total,114.588
+  Mining e,sector_mining,2021-22,total,486.763
+"  Food, beverages, textiles",sector_industry,2021-22,total,148.786
+"  Wood, paper And printing",sector_industry,2021-22,total,64.002
+  Chemical,sector_industry,2021-22,total,130.054
+  Iron and steel,sector_industry,2021-22,total,28.545
+  Non-ferrous metals,sector_industry,2021-22,total,333.92
+  Other industry,sector_industry,2021-22,total,101.455
+  Water and waste f,sector_services,2021-22,total,17.845
+  Construction,sector_services,2021-22,total,37.212
+  Road transport,sector_transport,2021-22,total,1117.255
+  Rail transport,sector_transport,2021-22,total,63.536
+  Air transport g,sector_transport,2021-22,total,168.044
+  Water transport h,sector_transport,2021-22,total,58.012
+"  Other transport, services and storage",sector_transport,2021-22,total,22.259
+  Commercial and services,sector_commercial,2021-22,total,296.092
+  Residential,sector_residential,2021-22,total,497.336
+"  Lubes, bitumen, solvents",sector_other,2021-22,total,45.518
+Primary indigenous supply,primary_supply,2022-23,black_coal,10783.538
+  plus all imports,imports,2022-23,black_coal,5.068
+  less all exports,exports,2022-23,black_coal,9606.136
+  less stock changes,stock_changes,2022-23,black_coal,208.401
+  less discrepancies,statistical_discrepancies,2022-23,black_coal,-155.047
+  Coke ovens,conversion,2022-23,black_coal,91.947
+  Electricity generation,conversion,2022-23,black_coal,945.94
+  Other conversion c,conversion,2022-23,black_coal,0.155
+  Mining e,sector_mining,2022-23,black_coal,np
+"  Food, beverages, textiles",sector_industry,2022-23,black_coal,5.166
+"  Wood, paper And printing",sector_industry,2022-23,black_coal,2.77
+  Chemical,sector_industry,2022-23,black_coal,np
+  Iron and steel,sector_industry,2022-23,black_coal,np
+  Non-ferrous metals,sector_industry,2022-23,black_coal,56.423
+  Other industry,sector_industry,2022-23,black_coal,14.752
+  Commercial and services,sector_commercial,2022-23,black_coal,np
+  Residential,sector_residential,2022-23,black_coal,0
+Primary indigenous supply,primary_supply,2022-23,brown_coal,400.868
+  less discrepancies,statistical_discrepancies,2022-23,brown_coal,3.422
+  Electricity generation,conversion,2022-23,brown_coal,397.445
+"  Food, beverages, textiles",sector_industry,2022-23,brown_coal,np
+  Other industry,sector_industry,2022-23,brown_coal,np
+  Water and waste f,sector_services,2022-23,brown_coal,np
+  plus all imports,imports,2022-23,met_coke,11.625
+  less all exports,exports,2022-23,met_coke,19.718
+  less discrepancies,statistical_discrepancies,2022-23,met_coke,-4.987
+  Coke ovens,conversion,2022-23,met_coke,-57.833
+  Other conversion c,conversion,2022-23,met_coke,47.005
+  Mining e,sector_mining,2022-23,met_coke,1.119
+  Chemical,sector_industry,2022-23,met_coke,0.179
+  Iron and steel,sector_industry,2022-23,met_coke,3.42
+  Non-ferrous metals,sector_industry,2022-23,met_coke,2.911
+  Other industry,sector_industry,2022-23,met_coke,0.094
+  plus all imports,imports,2022-23,coal_byproducts_a,0
+  less discrepancies,statistical_discrepancies,2022-23,coal_byproducts_a,-1.574
+  Coke ovens,conversion,2022-23,coal_byproducts_a,-5.112
+  Petroleum refining,conversion,2022-23,coal_byproducts_a,0
+  Gas manufacturing,conversion,2022-23,coal_byproducts_a,0
+  Electricity generation,conversion,2022-23,coal_byproducts_a,0.217
+  Other conversion c,conversion,2022-23,coal_byproducts_a,5.634
+  Fuel use in conversion,conversion_losses,2022-23,coal_byproducts_a,0
+  Mining e,sector_mining,2022-23,coal_byproducts_a,np
+"  Food, beverages, textiles",sector_industry,2022-23,coal_byproducts_a,0.013
+"  Wood, paper And printing",sector_industry,2022-23,coal_byproducts_a,0.106
+  Chemical,sector_industry,2022-23,coal_byproducts_a,np
+  Iron and steel,sector_industry,2022-23,coal_byproducts_a,np
+  Non-ferrous metals,sector_industry,2022-23,coal_byproducts_a,0.255
+  Other industry,sector_industry,2022-23,coal_byproducts_a,0.339
+  Water and waste f,sector_services,2022-23,coal_byproducts_a,0
+  Construction,sector_services,2022-23,coal_byproducts_a,0
+  Commercial and services,sector_commercial,2022-23,coal_byproducts_a,np
+  Residential,sector_residential,2022-23,coal_byproducts_a,0
+Primary indigenous supply,primary_supply,2022-23,natural_gas,6200.477
+  plus all imports,imports,2022-23,natural_gas,48.095
+  less all exports,exports,2022-23,natural_gas,4540.948
+  less stock changes,stock_changes,2022-23,natural_gas,-0.846
+  less discrepancies,statistical_discrepancies,2022-23,natural_gas,190.342
+  LNG plants,conversion,2022-23,natural_gas,340.194
+  Petroleum refining,conversion,2022-23,natural_gas,2.395
+  Gas manufacturing,conversion,2022-23,natural_gas,0.723
+  Electricity generation,conversion,2022-23,natural_gas,516.23
+  Other conversion c,conversion,2022-23,natural_gas,74.813
+  Fuel use in conversion,conversion_losses,2022-23,natural_gas,22.727
+  Agriculture,sector_agriculture,2022-23,natural_gas,2.109
+  Mining e,sector_mining,2022-23,natural_gas,64.819
+"  Food, beverages, textiles",sector_industry,2022-23,natural_gas,38.5
+"  Wood, paper And printing",sector_industry,2022-23,natural_gas,16.042
+  Chemical,sector_industry,2022-23,natural_gas,52.028
+  Iron and steel,sector_industry,2022-23,natural_gas,10.086
+  Non-ferrous metals,sector_industry,2022-23,natural_gas,125.622
+  Other industry,sector_industry,2022-23,natural_gas,49.445
+  Water and waste f,sector_services,2022-23,natural_gas,1.677
+  Construction,sector_services,2022-23,natural_gas,2.74
+  Road transport,sector_transport,2022-23,natural_gas,0.808
+  Rail transport,sector_transport,2022-23,natural_gas,0.037
+"  Other transport, services and storage",sector_transport,2022-23,natural_gas,0.931
+  Commercial and services,sector_commercial,2022-23,natural_gas,49.132
+  Residential,sector_residential,2022-23,natural_gas,147.069
+Primary indigenous supply,primary_supply,2022-23,crude_oil_and_orf,625.837
+  plus all imports,imports,2022-23,crude_oil_and_orf,362.381
+  less all exports,exports,2022-23,crude_oil_and_orf,604.444
+  less stock changes,stock_changes,2022-23,crude_oil_and_orf,-2.38
+  less discrepancies,statistical_discrepancies,2022-23,crude_oil_and_orf,-186.321
+  Petroleum refining,conversion,2022-23,crude_oil_and_orf,571.346
+  Gas manufacturing,conversion,2022-23,crude_oil_and_orf,0
+  Electricity generation,conversion,2022-23,crude_oil_and_orf,0.407
+  Mining e,sector_mining,2022-23,crude_oil_and_orf,0.723
+Primary indigenous supply,primary_supply,2022-23,lpg,145.561
+  plus all imports,imports,2022-23,lpg,20.32
+  less all exports,exports,2022-23,lpg,120.014
+  less stock changes,stock_changes,2022-23,lpg,2.019
+  less discrepancies,statistical_discrepancies,2022-23,lpg,8.014
+  LNG plants,conversion,2022-23,lpg,0.035
+  Petroleum refining,conversion,2022-23,lpg,-7.636
+  Gas manufacturing,conversion,2022-23,lpg,0
+  Electricity generation,conversion,2022-23,lpg,0.017
+  Other conversion c,conversion,2022-23,lpg,0.159
+  Fuel use in conversion,conversion_losses,2022-23,lpg,0
+  Agriculture,sector_agriculture,2022-23,lpg,1.929
+  Mining e,sector_mining,2022-23,lpg,1.572
+"  Food, beverages, textiles",sector_industry,2022-23,lpg,1.413
+"  Wood, paper And printing",sector_industry,2022-23,lpg,0.174
+  Chemical,sector_industry,2022-23,lpg,6.099
+  Iron and steel,sector_industry,2022-23,lpg,0.023
+  Non-ferrous metals,sector_industry,2022-23,lpg,0.036
+  Other industry,sector_industry,2022-23,lpg,4.765
+  Water and waste f,sector_services,2022-23,lpg,0.013
+  Construction,sector_services,2022-23,lpg,0.212
+  Road transport,sector_transport,2022-23,lpg,9.993
+  Rail transport,sector_transport,2022-23,lpg,0.034
+"  Other transport, services and storage",sector_transport,2022-23,lpg,0.414
+  Commercial and services,sector_commercial,2022-23,lpg,0.822
+  Residential,sector_residential,2022-23,lpg,15.762
+  plus all imports,imports,2022-23,refined_products,1825.801
+  less all exports,exports,2022-23,refined_products,12.608
+  less stock changes,stock_changes,2022-23,refined_products,0.757
+  less discrepancies,statistical_discrepancies,2022-23,refined_products,135.257
+  LNG plants,conversion,2022-23,refined_products,0.64
+  Petroleum refining,conversion,2022-23,refined_products,-557.003
+  Gas manufacturing,conversion,2022-23,refined_products,0
+  Electricity generation,conversion,2022-23,refined_products,47.081
+  Other conversion c,conversion,2022-23,refined_products,-2.065
+  Fuel use in conversion,conversion_losses,2022-23,refined_products,42.468
+  Agriculture,sector_agriculture,2022-23,refined_products,94.527
+  Mining e,sector_mining,2022-23,refined_products,302.701
+"  Food, beverages, textiles",sector_industry,2022-23,refined_products,4.855
+"  Wood, paper And printing",sector_industry,2022-23,refined_products,2.514
+  Chemical,sector_industry,2022-23,refined_products,38.681
+  Iron and steel,sector_industry,2022-23,refined_products,0.641
+  Non-ferrous metals,sector_industry,2022-23,refined_products,31.277
+  Other industry,sector_industry,2022-23,refined_products,4.493
+  Water and waste f,sector_services,2022-23,refined_products,1.408
+  Construction,sector_services,2022-23,refined_products,26.452
+  Road transport,sector_transport,2022-23,refined_products,1157.716
+  Rail transport,sector_transport,2022-23,refined_products,51.851
+  Air transport g,sector_transport,2022-23,refined_products,277.544
+  Water transport h,sector_transport,2022-23,refined_products,65.072
+"  Other transport, services and storage",sector_transport,2022-23,refined_products,10.267
+  Commercial and services,sector_commercial,2022-23,refined_products,31.607
+  Residential,sector_residential,2022-23,refined_products,0
+"  Lubes, bitumen, solvents",sector_other,2022-23,refined_products,44.451
+Primary indigenous supply,primary_supply,2022-23,liquidgas_biofuels,24.189
+  less discrepancies,statistical_discrepancies,2022-23,liquidgas_biofuels,0
+  Petroleum refining,conversion,2022-23,liquidgas_biofuels,0
+  Gas manufacturing,conversion,2022-23,liquidgas_biofuels,0
+  Electricity generation,conversion,2022-23,liquidgas_biofuels,16.042
+  Fuel use in conversion,conversion_losses,2022-23,liquidgas_biofuels,0
+  Mining e,sector_mining,2022-23,liquidgas_biofuels,np
+"  Food, beverages, textiles",sector_industry,2022-23,liquidgas_biofuels,0.976
+"  Wood, paper And printing",sector_industry,2022-23,liquidgas_biofuels,0.699
+  Chemical,sector_industry,2022-23,liquidgas_biofuels,0.191
+  Other industry,sector_industry,2022-23,liquidgas_biofuels,0.292
+  Water and waste f,sector_services,2022-23,liquidgas_biofuels,0.808
+  Construction,sector_services,2022-23,liquidgas_biofuels,0.028
+  Road transport,sector_transport,2022-23,liquidgas_biofuels,5.148
+  Rail transport,sector_transport,2022-23,liquidgas_biofuels,0
+"  Other transport, services and storage",sector_transport,2022-23,liquidgas_biofuels,0
+  Commercial and services,sector_commercial,2022-23,liquidgas_biofuels,np
+Primary indigenous supply,primary_supply,2022-23,biomass__wood,89.548
+  less discrepancies,statistical_discrepancies,2022-23,biomass__wood,0
+  Electricity generation,conversion,2022-23,biomass__wood,8.92
+  Mining e,sector_mining,2022-23,biomass__wood,0.017
+"  Food, beverages, textiles",sector_industry,2022-23,biomass__wood,2.288
+"  Wood, paper And printing",sector_industry,2022-23,biomass__wood,23.451
+  Chemical,sector_industry,2022-23,biomass__wood,0.401
+  Non-ferrous metals,sector_industry,2022-23,biomass__wood,1.606
+  Other industry,sector_industry,2022-23,biomass__wood,4.036
+  Water and waste f,sector_services,2022-23,biomass__wood,0
+  Commercial and services,sector_commercial,2022-23,biomass__wood,0.197
+  Residential,sector_residential,2022-23,biomass__wood,48.633
+Primary indigenous supply,primary_supply,2022-23,biomass__bagasse,92.273
+  less discrepancies,statistical_discrepancies,2022-23,biomass__bagasse,0
+  Electricity generation,conversion,2022-23,biomass__bagasse,10.677
+  Mining e,sector_mining,2022-23,biomass__bagasse,0
+"  Food, beverages, textiles",sector_industry,2022-23,biomass__bagasse,81.597
+Primary indigenous supply,primary_supply,2022-23,wind_electricity,112.986
+  less discrepancies,statistical_discrepancies,2022-23,wind_electricity,0
+  Electricity generation,conversion,2022-23,wind_electricity,112.986
+Primary indigenous supply,primary_supply,2022-23,solar_electricity,151.087
+  less discrepancies,statistical_discrepancies,2022-23,solar_electricity,0
+  Electricity generation,conversion,2022-23,solar_electricity,151.087
+Primary indigenous supply,primary_supply,2022-23,hydroelectricity,59.998
+  less discrepancies,statistical_discrepancies,2022-23,hydroelectricity,0
+  Electricity generation,conversion,2022-23,hydroelectricity,59.998
+  Coke ovens,conversion,2022-23,total_electricity,0.429
+  LNG plants,conversion,2022-23,total_electricity,28.056
+  Petroleum refining,conversion,2022-23,total_electricity,1.993
+  Gas manufacturing,conversion,2022-23,total_electricity,0.426
+  Electricity generation,conversion,2022-23,total_electricity,-988.109
+  Other conversion c,conversion,2022-23,total_electricity,0.982
+  Fuel use in conversion,conversion_losses,2022-23,total_electricity,100.358
+  Agriculture,sector_agriculture,2022-23,total_electricity,7.293
+  Mining e,sector_mining,2022-23,total_electricity,136.198
+"  Food, beverages, textiles",sector_industry,2022-23,total_electricity,23.437
+"  Wood, paper And printing",sector_industry,2022-23,total_electricity,14.049
+  Chemical,sector_industry,2022-23,total_electricity,12.502
+  Iron and steel,sector_industry,2022-23,total_electricity,12.348
+  Non-ferrous metals,sector_industry,2022-23,total_electricity,110.941
+  Other industry,sector_industry,2022-23,total_electricity,19.854
+  Water and waste f,sector_services,2022-23,total_electricity,12.777
+  Construction,sector_services,2022-23,total_electricity,7.208
+  Road transport,sector_transport,2022-23,total_electricity,0.793
+  Rail transport,sector_transport,2022-23,total_electricity,12.189
+"  Other transport, services and storage",sector_transport,2022-23,total_electricity,10.848
+  Commercial and services,sector_commercial,2022-23,total_electricity,225.584
+  Residential,sector_residential,2022-23,total_electricity,249.845
+Primary indigenous supply,primary_supply,2022-23,solar_hotwater,23.479
+  less discrepancies,statistical_discrepancies,2022-23,solar_hotwater,0
+"  Wood, paper And printing",sector_industry,2022-23,solar_hotwater,0
+  Commercial and services,sector_commercial,2022-23,solar_hotwater,0.619
+  Residential,sector_residential,2022-23,solar_hotwater,22.86
+Primary indigenous supply,primary_supply,2022-23,total,18709.84
+  plus all imports,imports,2022-23,total,2273.291
+  less all exports,exports,2022-23,total,14903.868
+  less stock changes,stock_changes,2022-23,total,207.951
+  less discrepancies,statistical_discrepancies,2022-23,total,-10.893
+  Coke ovens,conversion,2022-23,total,29.43
+  LNG plants,conversion,2022-23,total,368.925
+  Petroleum refining,conversion,2022-23,total,11.095
+  Gas manufacturing,conversion,2022-23,total,1.149
+  Electricity generation,conversion,2022-23,total,1278.935
+  Other conversion c,conversion,2022-23,total,126.682
+  Fuel use in conversion,conversion_losses,2022-23,total,165.554
+  Agriculture,sector_agriculture,2022-23,total,105.859
+  Mining e,sector_mining,2022-23,total,514.146
+"  Food, beverages, textiles",sector_industry,2022-23,total,158.245
+"  Wood, paper And printing",sector_industry,2022-23,total,59.804
+  Chemical,sector_industry,2022-23,total,114.706
+  Iron and steel,sector_industry,2022-23,total,26.833
+  Non-ferrous metals,sector_industry,2022-23,total,329.073
+  Other industry,sector_industry,2022-23,total,98.071
+  Water and waste f,sector_services,2022-23,total,16.682
+  Construction,sector_services,2022-23,total,36.64
+  Road transport,sector_transport,2022-23,total,1174.457
+  Rail transport,sector_transport,2022-23,total,64.112
+  Air transport g,sector_transport,2022-23,total,277.544
+  Water transport h,sector_transport,2022-23,total,65.072
+"  Other transport, services and storage",sector_transport,2022-23,total,22.46
+  Commercial and services,sector_commercial,2022-23,total,308.112
+  Residential,sector_residential,2022-23,total,484.169
+"  Lubes, bitumen, solvents",sector_other,2022-23,total,44.451
