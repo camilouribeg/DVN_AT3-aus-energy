@@ -1,0 +1,109 @@
+fuel,activity,consumption,unit
+Bagasse,Renewable energy production a,92.273,PJ
+Wood and other biomass,Renewable energy production a,84.945,PJ
+Municipal and industrial waste,Renewable energy production a,4.604,PJ
+Biogas and biofuels,Renewable energy production a,24.189,PJ
+Wind power,Renewable energy production a,112.986,PJ
+Hydro power,Renewable energy production a,59.998,PJ
+Solar PV,Renewable energy production a,151.087,PJ
+Solar hot water,Renewable energy production a,23.479,PJ
+Notes:,Renewable energy production a,,PJ
+Totals may not add due to rounding,Renewable energy production a,,PJ
+"a Renewable energy production is the sum of Fuel inputs, Manufacturing, Other industry, Transport and Residential consumption.",Renewable energy production a,,PJ
+b Electricity generated is the amount of electricity generated from each fuel type in the Renewable energy production column.,Renewable energy production a,,PJ
+Bagasse,Unnamed_3,,PJ
+Wood and other biomass,Unnamed_3,,PJ
+Municipal and industrial waste,Unnamed_3,,PJ
+Biogas and biofuels,Unnamed_3,,PJ
+Wind power,Unnamed_3,,PJ
+Hydro power,Unnamed_3,,PJ
+Solar PV,Unnamed_3,,PJ
+Solar hot water,Unnamed_3,,PJ
+Notes:,Unnamed_3,,PJ
+Totals may not add due to rounding,Unnamed_3,,PJ
+"a Renewable energy production is the sum of Fuel inputs, Manufacturing, Other industry, Transport and Residential consumption.",Unnamed_3,,PJ
+b Electricity generated is the amount of electricity generated from each fuel type in the Renewable energy production column.,Unnamed_3,,PJ
+Bagasse,Electricity supply - Fuel inputs,10.677,PJ
+Wood and other biomass,Electricity supply - Fuel inputs,6.874,PJ
+Municipal and industrial waste,Electricity supply - Fuel inputs,2.046,PJ
+Biogas and biofuels,Electricity supply - Fuel inputs,16.042,PJ
+Wind power,Electricity supply - Fuel inputs,112.986,PJ
+Hydro power,Electricity supply - Fuel inputs,59.998,PJ
+Solar PV,Electricity supply - Fuel inputs,151.087,PJ
+Solar hot water,Electricity supply - Fuel inputs,,PJ
+Notes:,Electricity supply - Fuel inputs,,PJ
+Totals may not add due to rounding,Electricity supply - Fuel inputs,,PJ
+"a Renewable energy production is the sum of Fuel inputs, Manufacturing, Other industry, Transport and Residential consumption.",Electricity supply - Fuel inputs,,PJ
+b Electricity generated is the amount of electricity generated from each fuel type in the Renewable energy production column.,Electricity supply - Fuel inputs,,PJ
+Bagasse,Electricity generated b,3.636,PJ
+Wood and other biomass,Electricity generated b,2.182,PJ
+Municipal and industrial waste,Electricity generated b,0.257,PJ
+Biogas and biofuels,Electricity generated b,5.07,PJ
+Wind power,Electricity generated b,112.986,PJ
+Hydro power,Electricity generated b,59.998,PJ
+Solar PV,Electricity generated b,151.087,PJ
+Solar hot water,Electricity generated b,,PJ
+Notes:,Electricity generated b,,PJ
+Totals may not add due to rounding,Electricity generated b,,PJ
+"a Renewable energy production is the sum of Fuel inputs, Manufacturing, Other industry, Transport and Residential consumption.",Electricity generated b,,PJ
+b Electricity generated is the amount of electricity generated from each fuel type in the Renewable energy production column.,Electricity generated b,,PJ
+Bagasse,Unnamed_6,,PJ
+Wood and other biomass,Unnamed_6,,PJ
+Municipal and industrial waste,Unnamed_6,,PJ
+Biogas and biofuels,Unnamed_6,,PJ
+Wind power,Unnamed_6,,PJ
+Hydro power,Unnamed_6,,PJ
+Solar PV,Unnamed_6,,PJ
+Solar hot water,Unnamed_6,,PJ
+Notes:,Unnamed_6,,PJ
+Totals may not add due to rounding,Unnamed_6,,PJ
+"a Renewable energy production is the sum of Fuel inputs, Manufacturing, Other industry, Transport and Residential consumption.",Unnamed_6,,PJ
+b Electricity generated is the amount of electricity generated from each fuel type in the Renewable energy production column.,Unnamed_6,,PJ
+Bagasse,Direct consumption of renewable energy - Manufacturing,81.597,PJ
+Wood and other biomass,Direct consumption of renewable energy - Manufacturing,29.224,PJ
+Municipal and industrial waste,Direct consumption of renewable energy - Manufacturing,2.557,PJ
+Biogas and biofuels,Direct consumption of renewable energy - Manufacturing,2.158,PJ
+Wind power,Direct consumption of renewable energy - Manufacturing,,PJ
+Hydro power,Direct consumption of renewable energy - Manufacturing,,PJ
+Solar PV,Direct consumption of renewable energy - Manufacturing,,PJ
+Solar hot water,Direct consumption of renewable energy - Manufacturing,0,PJ
+Notes:,Direct consumption of renewable energy - Manufacturing,,PJ
+Totals may not add due to rounding,Direct consumption of renewable energy - Manufacturing,,PJ
+"a Renewable energy production is the sum of Fuel inputs, Manufacturing, Other industry, Transport and Residential consumption.",Direct consumption of renewable energy - Manufacturing,,PJ
+b Electricity generated is the amount of electricity generated from each fuel type in the Renewable energy production column.,Direct consumption of renewable energy - Manufacturing,,PJ
+Bagasse,Other industry ,0,PJ
+Wood and other biomass,Other industry ,0.214,PJ
+Municipal and industrial waste,Other industry ,0,PJ
+Biogas and biofuels,Other industry ,0.841,PJ
+Wind power,Other industry ,,PJ
+Hydro power,Other industry ,,PJ
+Solar PV,Other industry ,,PJ
+Solar hot water,Other industry ,0.619,PJ
+Notes:,Other industry ,,PJ
+Totals may not add due to rounding,Other industry ,,PJ
+"a Renewable energy production is the sum of Fuel inputs, Manufacturing, Other industry, Transport and Residential consumption.",Other industry ,,PJ
+b Electricity generated is the amount of electricity generated from each fuel type in the Renewable energy production column.,Other industry ,,PJ
+Bagasse,Transport,,PJ
+Wood and other biomass,Transport,,PJ
+Municipal and industrial waste,Transport,,PJ
+Biogas and biofuels,Transport,5.148,PJ
+Wind power,Transport,,PJ
+Hydro power,Transport,,PJ
+Solar PV,Transport,,PJ
+Solar hot water,Transport,,PJ
+Notes:,Transport,,PJ
+Totals may not add due to rounding,Transport,,PJ
+"a Renewable energy production is the sum of Fuel inputs, Manufacturing, Other industry, Transport and Residential consumption.",Transport,,PJ
+b Electricity generated is the amount of electricity generated from each fuel type in the Renewable energy production column.,Transport,,PJ
+Bagasse,Residential,,PJ
+Wood and other biomass,Residential,48.633,PJ
+Municipal and industrial waste,Residential,,PJ
+Biogas and biofuels,Residential,,PJ
+Wind power,Residential,,PJ
+Hydro power,Residential,,PJ
+Solar PV,Residential,,PJ
+Solar hot water,Residential,22.86,PJ
+Notes:,Residential,,PJ
+Totals may not add due to rounding,Residential,,PJ
+"a Renewable energy production is the sum of Fuel inputs, Manufacturing, Other industry, Transport and Residential consumption.",Residential,,PJ
+b Electricity generated is the amount of electricity generated from each fuel type in the Renewable energy production column.,Residential,,PJ

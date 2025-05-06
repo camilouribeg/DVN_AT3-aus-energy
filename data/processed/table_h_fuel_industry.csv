@@ -1,0 +1,2206 @@
+year,sector,fuel,energy_PJ,state
+2002,Agriculture,Coal,,Australia
+2002,Agriculture,Gas,0.098,Australia
+2002,Agriculture,Oil,87.726,Australia
+2002,Agriculture,Electricity,9.92,Australia
+2002,Agriculture,Renewables,,Australia
+2002,Mining,Coal,0.54,Australia
+2002,Mining,Gas,62.955,Australia
+2002,Mining,Oil,98.979,Australia
+2002,Mining,Electricity,48.16,Australia
+2002,Mining,Renewables,0.137,Australia
+2002,"Food, beverage, textiles",Coal,18.904,Australia
+2002,"Food, beverage, textiles",Gas,34.101,Australia
+2002,"Food, beverage, textiles",Oil,3.223,Australia
+2002,"Food, beverage, textiles",Electricity,22.733,Australia
+2002,"Food, beverage, textiles",Renewables,33.843,Australia
+2002,"Wood, paper and printing",Coal,5.519,Australia
+2002,"Wood, paper and printing",Gas,18.768,Australia
+2002,"Wood, paper and printing",Oil,0.557,Australia
+2002,"Wood, paper and printing",Electricity,15.48,Australia
+2002,"Wood, paper and printing",Renewables,23.487,Australia
+2002,Chemical,Coal,7.001,Australia
+2002,Chemical,Gas,83.52,Australia
+2002,Chemical,Oil,40.378,Australia
+2002,Chemical,Electricity,16.976,Australia
+2002,Chemical,Renewables,0.451,Australia
+2002,Iron and steel,Coal,32.365,Australia
+2002,Iron and steel,Gas,18.47,Australia
+2002,Iron and steel,Oil,0.69,Australia
+2002,Iron and steel,Electricity,11.614,Australia
+2002,Iron and steel,Renewables,,Australia
+2002,Non-ferrous metals,Coal,50.811,Australia
+2002,Non-ferrous metals,Gas,121.341,Australia
+2002,Non-ferrous metals,Oil,56.951,Australia
+2002,Non-ferrous metals,Electricity,127.5,Australia
+2002,Non-ferrous metals,Renewables,2.252,Australia
+2002,Other industry,Coal,31.199,Australia
+2002,Other industry,Gas,66.438,Australia
+2002,Other industry,Oil,9.03,Australia
+2002,Other industry,Electricity,34.043,Australia
+2002,Other industry,Renewables,3.437,Australia
+2002,Total Manufacturing,Coal,145.8,Australia
+2002,Total Manufacturing,Gas,342.638,Australia
+2002,Total Manufacturing,Oil,110.828,Australia
+2002,Total Manufacturing,Electricity,228.347,Australia
+2002,Total Manufacturing,Renewables,63.47,Australia
+2002,Water and waste b,Coal,0,Australia
+2002,Water and waste b,Gas,0.523,Australia
+2002,Water and waste b,Oil,0.477,Australia
+2002,Water and waste b,Electricity,8.579,Australia
+2002,Water and waste b,Renewables,0.172,Australia
+2002,Construction,Coal,,Australia
+2002,Construction,Gas,2.526,Australia
+2002,Construction,Oil,24.879,Australia
+2002,Construction,Electricity,0.301,Australia
+2002,Construction,Renewables,0,Australia
+2002,Road transport,Coal,,Australia
+2002,Road transport,Gas,1.181,Australia
+2002,Road transport,Oil,985.749,Australia
+2002,Road transport,Electricity,0,Australia
+2002,Road transport,Renewables,0,Australia
+2002,Rail transport,Coal,0,Australia
+2002,Rail transport,Gas,0.02,Australia
+2002,Rail transport,Oil,23.427,Australia
+2002,Rail transport,Electricity,8.136,Australia
+2002,Rail transport,Renewables,0,Australia
+2002,Air transport c,Coal,,Australia
+2002,Air transport c,Gas,,Australia
+2002,Air transport c,Oil,159.308,Australia
+2002,Air transport c,Electricity,,Australia
+2002,Air transport c,Renewables,,Australia
+2002,Water transport d,Coal,5,Australia
+2002,Water transport d,Gas,0.055,Australia
+2002,Water transport d,Oil,59.045,Australia
+2002,Water transport d,Electricity,,Australia
+2002,Water transport d,Renewables,,Australia
+2002,Other transport,Coal,0,Australia
+2002,Other transport,Gas,1.535,Australia
+2002,Other transport,Oil,4.509,Australia
+2002,Other transport,Electricity,4.123,Australia
+2002,Other transport,Renewables,0,Australia
+2002,Total Transport,Coal,5,Australia
+2002,Total Transport,Gas,2.792,Australia
+2002,Total Transport,Oil,1232.039,Australia
+2002,Total Transport,Electricity,12.26,Australia
+2002,Total Transport,Renewables,0,Australia
+2002,Commercial and services,Coal,4.148,Australia
+2002,Commercial and services,Gas,43.484,Australia
+2002,Commercial and services,Oil,19.421,Australia
+2002,Commercial and services,Electricity,183.081,Australia
+2002,Commercial and services,Renewables,0.588,Australia
+2002,Residential,Coal,1.03,Australia
+2002,Residential,Gas,124.943,Australia
+2002,Residential,Oil,15.745,Australia
+2002,Residential,Electricity,194.042,Australia
+2002,Residential,Renewables,75.844,Australia
+2002,"Lubricants, bitumen, solvents",Coal,,Australia
+2002,"Lubricants, bitumen, solvents",Gas,,Australia
+2002,"Lubricants, bitumen, solvents",Oil,59.8,Australia
+2002,"Lubricants, bitumen, solvents",Electricity,,Australia
+2002,"Lubricants, bitumen, solvents",Renewables,,Australia
+2002,Total final consumption,Coal,156.518,Australia
+2002,Total final consumption,Gas,579.958,Australia
+2002,Total final consumption,Oil,1649.894,Australia
+2002,Total final consumption,Electricity,684.69,Australia
+2002,Total final consumption,Renewables,140.211,Australia
+2003,Agriculture,Coal,,Australia
+2003,Agriculture,Gas,0.098,Australia
+2003,Agriculture,Oil,87.897,Australia
+2003,Agriculture,Electricity,9.64,Australia
+2003,Agriculture,Renewables,,Australia
+2003,Mining,Coal,0.434,Australia
+2003,Mining,Gas,65.547,Australia
+2003,Mining,Oil,103.822,Australia
+2003,Mining,Electricity,50.977,Australia
+2003,Mining,Renewables,0.142,Australia
+2003,"Food, beverage, textiles",Coal,15.125,Australia
+2003,"Food, beverage, textiles",Gas,34.87,Australia
+2003,"Food, beverage, textiles",Oil,3.294,Australia
+2003,"Food, beverage, textiles",Electricity,23.128,Australia
+2003,"Food, beverage, textiles",Renewables,35.636,Australia
+2003,"Wood, paper and printing",Coal,6.041,Australia
+2003,"Wood, paper and printing",Gas,20.034,Australia
+2003,"Wood, paper and printing",Oil,0.628,Australia
+2003,"Wood, paper and printing",Electricity,15.78,Australia
+2003,"Wood, paper and printing",Renewables,23.205,Australia
+2003,Chemical,Coal,6.675,Australia
+2003,Chemical,Gas,83.392,Australia
+2003,Chemical,Oil,52.737,Australia
+2003,Chemical,Electricity,15.76,Australia
+2003,Chemical,Renewables,0.451,Australia
+2003,Iron and steel,Coal,35.413,Australia
+2003,Iron and steel,Gas,19.261,Australia
+2003,Iron and steel,Oil,0.772,Australia
+2003,Iron and steel,Electricity,11.747,Australia
+2003,Iron and steel,Renewables,,Australia
+2003,Non-ferrous metals,Coal,51.725,Australia
+2003,Non-ferrous metals,Gas,126.026,Australia
+2003,Non-ferrous metals,Oil,56.43,Australia
+2003,Non-ferrous metals,Electricity,128.436,Australia
+2003,Non-ferrous metals,Renewables,2.305,Australia
+2003,Other industry,Coal,31.999,Australia
+2003,Other industry,Gas,66.972,Australia
+2003,Other industry,Oil,10.05,Australia
+2003,Other industry,Electricity,34.392,Australia
+2003,Other industry,Renewables,2.562,Australia
+2003,Total Manufacturing,Coal,146.977,Australia
+2003,Total Manufacturing,Gas,350.555,Australia
+2003,Total Manufacturing,Oil,123.912,Australia
+2003,Total Manufacturing,Electricity,229.243,Australia
+2003,Total Manufacturing,Renewables,64.159,Australia
+2003,Water and waste b,Coal,0,Australia
+2003,Water and waste b,Gas,0.569,Australia
+2003,Water and waste b,Oil,0.519,Australia
+2003,Water and waste b,Electricity,9.063,Australia
+2003,Water and waste b,Renewables,0.23,Australia
+2003,Construction,Coal,,Australia
+2003,Construction,Gas,2.555,Australia
+2003,Construction,Oil,24.534,Australia
+2003,Construction,Electricity,0.299,Australia
+2003,Construction,Renewables,0,Australia
+2003,Road transport,Coal,,Australia
+2003,Road transport,Gas,1.192,Australia
+2003,Road transport,Oil,1022.261,Australia
+2003,Road transport,Electricity,0,Australia
+2003,Road transport,Renewables,0,Australia
+2003,Rail transport,Coal,0,Australia
+2003,Rail transport,Gas,0.02,Australia
+2003,Rail transport,Oil,25.964,Australia
+2003,Rail transport,Electricity,8.586,Australia
+2003,Rail transport,Renewables,0,Australia
+2003,Air transport c,Coal,,Australia
+2003,Air transport c,Gas,,Australia
+2003,Air transport c,Oil,179.898,Australia
+2003,Air transport c,Electricity,,Australia
+2003,Air transport c,Renewables,,Australia
+2003,Water transport d,Coal,5.8,Australia
+2003,Water transport d,Gas,0.06,Australia
+2003,Water transport d,Oil,60.639,Australia
+2003,Water transport d,Electricity,,Australia
+2003,Water transport d,Renewables,,Australia
+2003,Other transport,Coal,0,Australia
+2003,Other transport,Gas,0.571,Australia
+2003,Other transport,Oil,4.766,Australia
+2003,Other transport,Electricity,4.186,Australia
+2003,Other transport,Renewables,0,Australia
+2003,Total Transport,Coal,5.8,Australia
+2003,Total Transport,Gas,1.843,Australia
+2003,Total Transport,Oil,1293.527,Australia
+2003,Total Transport,Electricity,12.772,Australia
+2003,Total Transport,Renewables,0,Australia
+2003,Commercial and services,Coal,2.967,Australia
+2003,Commercial and services,Gas,43.77,Australia
+2003,Commercial and services,Oil,21.292,Australia
+2003,Commercial and services,Electricity,187.287,Australia
+2003,Commercial and services,Renewables,0.584,Australia
+2003,Residential,Coal,0.911,Australia
+2003,Residential,Gas,125.343,Australia
+2003,Residential,Oil,14.226,Australia
+2003,Residential,Electricity,201.517,Australia
+2003,Residential,Renewables,73.034,Australia
+2003,"Lubricants, bitumen, solvents",Coal,,Australia
+2003,"Lubricants, bitumen, solvents",Gas,,Australia
+2003,"Lubricants, bitumen, solvents",Oil,62.9,Australia
+2003,"Lubricants, bitumen, solvents",Electricity,,Australia
+2003,"Lubricants, bitumen, solvents",Renewables,,Australia
+2003,Total final consumption,Coal,157.089,Australia
+2003,Total final consumption,Gas,590.279,Australia
+2003,Total final consumption,Oil,1732.631,Australia
+2003,Total final consumption,Electricity,700.798,Australia
+2003,Total final consumption,Renewables,138.149,Australia
+2004,Agriculture,Coal,,Australia
+2004,Agriculture,Gas,0.099,Australia
+2004,Agriculture,Oil,92.685,Australia
+2004,Agriculture,Electricity,8.668,Australia
+2004,Agriculture,Renewables,,Australia
+2004,Mining,Coal,0.44,Australia
+2004,Mining,Gas,59.774,Australia
+2004,Mining,Oil,117.642,Australia
+2004,Mining,Electricity,51.345,Australia
+2004,Mining,Renewables,0.16,Australia
+2004,"Food, beverage, textiles",Coal,19.177,Australia
+2004,"Food, beverage, textiles",Gas,36.592,Australia
+2004,"Food, beverage, textiles",Oil,3.879,Australia
+2004,"Food, beverage, textiles",Electricity,22.19,Australia
+2004,"Food, beverage, textiles",Renewables,37.935,Australia
+2004,"Wood, paper and printing",Coal,6.636,Australia
+2004,"Wood, paper and printing",Gas,21.879,Australia
+2004,"Wood, paper and printing",Oil,0.65,Australia
+2004,"Wood, paper and printing",Electricity,15.415,Australia
+2004,"Wood, paper and printing",Renewables,22.896,Australia
+2004,Chemical,Coal,7.319,Australia
+2004,Chemical,Gas,73.13,Australia
+2004,Chemical,Oil,56.276,Australia
+2004,Chemical,Electricity,15.899,Australia
+2004,Chemical,Renewables,0.46,Australia
+2004,Iron and steel,Coal,33.841,Australia
+2004,Iron and steel,Gas,21.473,Australia
+2004,Iron and steel,Oil,0.783,Australia
+2004,Iron and steel,Electricity,13.747,Australia
+2004,Iron and steel,Renewables,,Australia
+2004,Non-ferrous metals,Coal,57.56,Australia
+2004,Non-ferrous metals,Gas,136.764,Australia
+2004,Non-ferrous metals,Oil,58.173,Australia
+2004,Non-ferrous metals,Electricity,133.858,Australia
+2004,Non-ferrous metals,Renewables,2.318,Australia
+2004,Other industry,Coal,30.53,Australia
+2004,Other industry,Gas,63.965,Australia
+2004,Other industry,Oil,10.845,Australia
+2004,Other industry,Electricity,32.548,Australia
+2004,Other industry,Renewables,2.538,Australia
+2004,Total Manufacturing,Coal,155.063,Australia
+2004,Total Manufacturing,Gas,353.802,Australia
+2004,Total Manufacturing,Oil,130.607,Australia
+2004,Total Manufacturing,Electricity,233.657,Australia
+2004,Total Manufacturing,Renewables,66.146,Australia
+2004,Water and waste b,Coal,0,Australia
+2004,Water and waste b,Gas,0.578,Australia
+2004,Water and waste b,Oil,0.528,Australia
+2004,Water and waste b,Electricity,8.836,Australia
+2004,Water and waste b,Renewables,0.46,Australia
+2004,Construction,Coal,,Australia
+2004,Construction,Gas,3.108,Australia
+2004,Construction,Oil,24.436,Australia
+2004,Construction,Electricity,0.294,Australia
+2004,Construction,Renewables,0,Australia
+2004,Road transport,Coal,,Australia
+2004,Road transport,Gas,1.452,Australia
+2004,Road transport,Oil,1027.631,Australia
+2004,Road transport,Electricity,0,Australia
+2004,Road transport,Renewables,0,Australia
+2004,Rail transport,Coal,0,Australia
+2004,Rail transport,Gas,0.02,Australia
+2004,Rail transport,Oil,27.058,Australia
+2004,Rail transport,Electricity,8.321,Australia
+2004,Rail transport,Renewables,0,Australia
+2004,Air transport c,Coal,,Australia
+2004,Air transport c,Gas,,Australia
+2004,Air transport c,Oil,202.454,Australia
+2004,Air transport c,Electricity,,Australia
+2004,Air transport c,Renewables,,Australia
+2004,Water transport d,Coal,8,Australia
+2004,Water transport d,Gas,0.062,Australia
+2004,Water transport d,Oil,58.498,Australia
+2004,Water transport d,Electricity,,Australia
+2004,Water transport d,Renewables,,Australia
+2004,Other transport,Coal,0,Australia
+2004,Other transport,Gas,0.702,Australia
+2004,Other transport,Oil,4.962,Australia
+2004,Other transport,Electricity,4.177,Australia
+2004,Other transport,Renewables,0,Australia
+2004,Total Transport,Coal,8,Australia
+2004,Total Transport,Gas,2.236,Australia
+2004,Total Transport,Oil,1320.604,Australia
+2004,Total Transport,Electricity,12.498,Australia
+2004,Total Transport,Renewables,0,Australia
+2004,Commercial and services,Coal,3.341,Australia
+2004,Commercial and services,Gas,44.03,Australia
+2004,Commercial and services,Oil,21.201,Australia
+2004,Commercial and services,Electricity,187.314,Australia
+2004,Commercial and services,Renewables,0.536,Australia
+2004,Residential,Coal,0.949,Australia
+2004,Residential,Gas,128.395,Australia
+2004,Residential,Oil,12.77,Australia
+2004,Residential,Electricity,198.495,Australia
+2004,Residential,Renewables,70.268,Australia
+2004,"Lubricants, bitumen, solvents",Coal,,Australia
+2004,"Lubricants, bitumen, solvents",Gas,,Australia
+2004,"Lubricants, bitumen, solvents",Oil,60.4,Australia
+2004,"Lubricants, bitumen, solvents",Electricity,,Australia
+2004,"Lubricants, bitumen, solvents",Renewables,,Australia
+2004,Total final consumption,Coal,167.792,Australia
+2004,Total final consumption,Gas,592.021,Australia
+2004,Total final consumption,Oil,1780.872,Australia
+2004,Total final consumption,Electricity,701.108,Australia
+2004,Total final consumption,Renewables,137.57,Australia
+2005,Agriculture,Coal,,Australia
+2005,Agriculture,Gas,0.098,Australia
+2005,Agriculture,Oil,87.762,Australia
+2005,Agriculture,Electricity,9.042,Australia
+2005,Agriculture,Renewables,,Australia
+2005,Mining,Coal,0.397,Australia
+2005,Mining,Gas,58.752,Australia
+2005,Mining,Oil,112.334,Australia
+2005,Mining,Electricity,60.924,Australia
+2005,Mining,Renewables,0.154,Australia
+2005,"Food, beverage, textiles",Coal,18.435,Australia
+2005,"Food, beverage, textiles",Gas,36.133,Australia
+2005,"Food, beverage, textiles",Oil,4.034,Australia
+2005,"Food, beverage, textiles",Electricity,22.746,Australia
+2005,"Food, beverage, textiles",Renewables,38.165,Australia
+2005,"Wood, paper and printing",Coal,6.829,Australia
+2005,"Wood, paper and printing",Gas,21.631,Australia
+2005,"Wood, paper and printing",Oil,0.65,Australia
+2005,"Wood, paper and printing",Electricity,15.79,Australia
+2005,"Wood, paper and printing",Renewables,23.564,Australia
+2005,Chemical,Coal,7.725,Australia
+2005,Chemical,Gas,71.799,Australia
+2005,Chemical,Oil,57.176,Australia
+2005,Chemical,Electricity,16.531,Australia
+2005,Chemical,Renewables,0.42,Australia
+2005,Iron and steel,Coal,32.158,Australia
+2005,Iron and steel,Gas,20.238,Australia
+2005,Iron and steel,Oil,0.913,Australia
+2005,Iron and steel,Electricity,12.941,Australia
+2005,Iron and steel,Renewables,,Australia
+2005,Non-ferrous metals,Coal,56.8,Australia
+2005,Non-ferrous metals,Gas,140.352,Australia
+2005,Non-ferrous metals,Oil,58.078,Australia
+2005,Non-ferrous metals,Electricity,132.266,Australia
+2005,Non-ferrous metals,Renewables,2.324,Australia
+2005,Other industry,Coal,30.751,Australia
+2005,Other industry,Gas,58.719,Australia
+2005,Other industry,Oil,11.892,Australia
+2005,Other industry,Electricity,30.563,Australia
+2005,Other industry,Renewables,2.422,Australia
+2005,Total Manufacturing,Coal,152.699,Australia
+2005,Total Manufacturing,Gas,348.872,Australia
+2005,Total Manufacturing,Oil,132.743,Australia
+2005,Total Manufacturing,Electricity,230.836,Australia
+2005,Total Manufacturing,Renewables,66.896,Australia
+2005,Water and waste b,Coal,0,Australia
+2005,Water and waste b,Gas,0.628,Australia
+2005,Water and waste b,Oil,0.573,Australia
+2005,Water and waste b,Electricity,9.232,Australia
+2005,Water and waste b,Renewables,0.601,Australia
+2005,Construction,Coal,,Australia
+2005,Construction,Gas,3.109,Australia
+2005,Construction,Oil,22.926,Australia
+2005,Construction,Electricity,0.299,Australia
+2005,Construction,Renewables,0,Australia
+2005,Road transport,Coal,,Australia
+2005,Road transport,Gas,1.549,Australia
+2005,Road transport,Oil,1044.859,Australia
+2005,Road transport,Electricity,0,Australia
+2005,Road transport,Renewables,0,Australia
+2005,Rail transport,Coal,0,Australia
+2005,Rail transport,Gas,0.017,Australia
+2005,Rail transport,Oil,27.125,Australia
+2005,Rail transport,Electricity,8.596,Australia
+2005,Rail transport,Renewables,0,Australia
+2005,Air transport c,Coal,,Australia
+2005,Air transport c,Gas,,Australia
+2005,Air transport c,Oil,209.382,Australia
+2005,Air transport c,Electricity,,Australia
+2005,Air transport c,Renewables,,Australia
+2005,Water transport d,Coal,6.9,Australia
+2005,Water transport d,Gas,0.068,Australia
+2005,Water transport d,Oil,62.195,Australia
+2005,Water transport d,Electricity,,Australia
+2005,Water transport d,Renewables,,Australia
+2005,Other transport,Coal,0,Australia
+2005,Other transport,Gas,0.902,Australia
+2005,Other transport,Oil,6.413,Australia
+2005,Other transport,Electricity,4.748,Australia
+2005,Other transport,Renewables,0,Australia
+2005,Total Transport,Coal,6.9,Australia
+2005,Total Transport,Gas,2.536,Australia
+2005,Total Transport,Oil,1349.975,Australia
+2005,Total Transport,Electricity,13.343,Australia
+2005,Total Transport,Renewables,0,Australia
+2005,Commercial and services,Coal,2.608,Australia
+2005,Commercial and services,Gas,42.595,Australia
+2005,Commercial and services,Oil,24.471,Australia
+2005,Commercial and services,Electricity,189.2,Australia
+2005,Commercial and services,Renewables,0.503,Australia
+2005,Residential,Coal,0.879,Australia
+2005,Residential,Gas,132.512,Australia
+2005,Residential,Oil,15.226,Australia
+2005,Residential,Electricity,201.49,Australia
+2005,Residential,Renewables,67.859,Australia
+2005,"Lubricants, bitumen, solvents",Coal,,Australia
+2005,"Lubricants, bitumen, solvents",Gas,,Australia
+2005,"Lubricants, bitumen, solvents",Oil,63.4,Australia
+2005,"Lubricants, bitumen, solvents",Electricity,,Australia
+2005,"Lubricants, bitumen, solvents",Renewables,,Australia
+2005,Total final consumption,Coal,163.481,Australia
+2005,Total final consumption,Gas,589.101,Australia
+2005,Total final consumption,Oil,1809.409,Australia
+2005,Total final consumption,Electricity,714.368,Australia
+2005,Total final consumption,Renewables,136.012,Australia
+2006,Agriculture,Coal,,Australia
+2006,Agriculture,Gas,0.099,Australia
+2006,Agriculture,Oil,84.778,Australia
+2006,Agriculture,Electricity,9.276,Australia
+2006,Agriculture,Renewables,,Australia
+2006,Mining,Coal,0.365,Australia
+2006,Mining,Gas,55.868,Australia
+2006,Mining,Oil,107.536,Australia
+2006,Mining,Electricity,62.026,Australia
+2006,Mining,Renewables,0.151,Australia
+2006,"Food, beverage, textiles",Coal,14.758,Australia
+2006,"Food, beverage, textiles",Gas,36.001,Australia
+2006,"Food, beverage, textiles",Oil,4.065,Australia
+2006,"Food, beverage, textiles",Electricity,23.395,Australia
+2006,"Food, beverage, textiles",Renewables,38.878,Australia
+2006,"Wood, paper and printing",Coal,5.699,Australia
+2006,"Wood, paper and printing",Gas,22.441,Australia
+2006,"Wood, paper and printing",Oil,0.602,Australia
+2006,"Wood, paper and printing",Electricity,17.402,Australia
+2006,"Wood, paper and printing",Renewables,25.581,Australia
+2006,Chemical,Coal,7.658,Australia
+2006,Chemical,Gas,61.513,Australia
+2006,Chemical,Oil,60.122,Australia
+2006,Chemical,Electricity,17.895,Australia
+2006,Chemical,Renewables,0.431,Australia
+2006,Iron and steel,Coal,33.8,Australia
+2006,Iron and steel,Gas,22.024,Australia
+2006,Iron and steel,Oil,0.931,Australia
+2006,Iron and steel,Electricity,13.754,Australia
+2006,Iron and steel,Renewables,,Australia
+2006,Non-ferrous metals,Coal,59.18,Australia
+2006,Non-ferrous metals,Gas,145.141,Australia
+2006,Non-ferrous metals,Oil,57.356,Australia
+2006,Non-ferrous metals,Electricity,138.377,Australia
+2006,Non-ferrous metals,Renewables,2.342,Australia
+2006,Other industry,Coal,31.487,Australia
+2006,Other industry,Gas,71.266,Australia
+2006,Other industry,Oil,11.393,Australia
+2006,Other industry,Electricity,32.72,Australia
+2006,Other industry,Renewables,2.346,Australia
+2006,Total Manufacturing,Coal,152.582,Australia
+2006,Total Manufacturing,Gas,358.386,Australia
+2006,Total Manufacturing,Oil,134.47,Australia
+2006,Total Manufacturing,Electricity,243.541,Australia
+2006,Total Manufacturing,Renewables,69.578,Australia
+2006,Water and waste b,Coal,0,Australia
+2006,Water and waste b,Gas,0.643,Australia
+2006,Water and waste b,Oil,0.587,Australia
+2006,Water and waste b,Electricity,9.678,Australia
+2006,Water and waste b,Renewables,0.62,Australia
+2006,Construction,Coal,,Australia
+2006,Construction,Gas,3.133,Australia
+2006,Construction,Oil,22.904,Australia
+2006,Construction,Electricity,0.31,Australia
+2006,Construction,Renewables,0,Australia
+2006,Road transport,Coal,,Australia
+2006,Road transport,Gas,1.586,Australia
+2006,Road transport,Oil,1059.419,Australia
+2006,Road transport,Electricity,0,Australia
+2006,Road transport,Renewables,0.956,Australia
+2006,Rail transport,Coal,0,Australia
+2006,Rail transport,Gas,0.016,Australia
+2006,Rail transport,Oil,27.663,Australia
+2006,Rail transport,Electricity,8.945,Australia
+2006,Rail transport,Renewables,0,Australia
+2006,Air transport c,Coal,,Australia
+2006,Air transport c,Gas,,Australia
+2006,Air transport c,Oil,229.896,Australia
+2006,Air transport c,Electricity,,Australia
+2006,Air transport c,Renewables,,Australia
+2006,Water transport d,Coal,7.4,Australia
+2006,Water transport d,Gas,0.073,Australia
+2006,Water transport d,Oil,61.033,Australia
+2006,Water transport d,Electricity,,Australia
+2006,Water transport d,Renewables,,Australia
+2006,Other transport,Coal,0,Australia
+2006,Other transport,Gas,0.943,Australia
+2006,Other transport,Oil,6.741,Australia
+2006,Other transport,Electricity,4.989,Australia
+2006,Other transport,Renewables,0,Australia
+2006,Total Transport,Coal,7.4,Australia
+2006,Total Transport,Gas,2.618,Australia
+2006,Total Transport,Oil,1384.751,Australia
+2006,Total Transport,Electricity,13.934,Australia
+2006,Total Transport,Renewables,0.956,Australia
+2006,Commercial and services,Coal,2.265,Australia
+2006,Commercial and services,Gas,42.509,Australia
+2006,Commercial and services,Oil,25.129,Australia
+2006,Commercial and services,Electricity,202.211,Australia
+2006,Commercial and services,Renewables,0.504,Australia
+2006,Residential,Coal,0.854,Australia
+2006,Residential,Gas,134.527,Australia
+2006,Residential,Oil,14.501,Australia
+2006,Residential,Electricity,207.684,Australia
+2006,Residential,Renewables,69.096,Australia
+2006,"Lubricants, bitumen, solvents",Coal,,Australia
+2006,"Lubricants, bitumen, solvents",Gas,,Australia
+2006,"Lubricants, bitumen, solvents",Oil,62.7,Australia
+2006,"Lubricants, bitumen, solvents",Electricity,,Australia
+2006,"Lubricants, bitumen, solvents",Renewables,,Australia
+2006,Total final consumption,Coal,163.467,Australia
+2006,Total final consumption,Gas,597.782,Australia
+2006,Total final consumption,Oil,1837.356,Australia
+2006,Total final consumption,Electricity,748.66,Australia
+2006,Total final consumption,Renewables,140.905,Australia
+2007,Agriculture,Coal,,Australia
+2007,Agriculture,Gas,0.099,Australia
+2007,Agriculture,Oil,85.749,Australia
+2007,Agriculture,Electricity,9.125,Australia
+2007,Agriculture,Renewables,,Australia
+2007,Mining,Coal,0.347,Australia
+2007,Mining,Gas,57.603,Australia
+2007,Mining,Oil,113.82,Australia
+2007,Mining,Electricity,62.167,Australia
+2007,Mining,Renewables,0.149,Australia
+2007,"Food, beverage, textiles",Coal,15.123,Australia
+2007,"Food, beverage, textiles",Gas,35.992,Australia
+2007,"Food, beverage, textiles",Oil,4.031,Australia
+2007,"Food, beverage, textiles",Electricity,23.27,Australia
+2007,"Food, beverage, textiles",Renewables,38.609,Australia
+2007,"Wood, paper and printing",Coal,5.419,Australia
+2007,"Wood, paper and printing",Gas,21.925,Australia
+2007,"Wood, paper and printing",Oil,0.518,Australia
+2007,"Wood, paper and printing",Electricity,17.511,Australia
+2007,"Wood, paper and printing",Renewables,26.594,Australia
+2007,Chemical,Coal,7.751,Australia
+2007,Chemical,Gas,66.588,Australia
+2007,Chemical,Oil,58.688,Australia
+2007,Chemical,Electricity,16.656,Australia
+2007,Chemical,Renewables,0.425,Australia
+2007,Iron and steel,Coal,36.333,Australia
+2007,Iron and steel,Gas,22.476,Australia
+2007,Iron and steel,Oil,1,Australia
+2007,Iron and steel,Electricity,13.649,Australia
+2007,Iron and steel,Renewables,,Australia
+2007,Non-ferrous metals,Coal,62.774,Australia
+2007,Non-ferrous metals,Gas,139.561,Australia
+2007,Non-ferrous metals,Oil,64.162,Australia
+2007,Non-ferrous metals,Electricity,136.847,Australia
+2007,Non-ferrous metals,Renewables,2.405,Australia
+2007,Other industry,Coal,32.447,Australia
+2007,Other industry,Gas,66.858,Australia
+2007,Other industry,Oil,14.355,Australia
+2007,Other industry,Electricity,33.074,Australia
+2007,Other industry,Renewables,2.414,Australia
+2007,Total Manufacturing,Coal,159.847,Australia
+2007,Total Manufacturing,Gas,353.4,Australia
+2007,Total Manufacturing,Oil,142.753,Australia
+2007,Total Manufacturing,Electricity,241.007,Australia
+2007,Total Manufacturing,Renewables,70.448,Australia
+2007,Water and waste b,Coal,0,Australia
+2007,Water and waste b,Gas,0.643,Australia
+2007,Water and waste b,Oil,0.659,Australia
+2007,Water and waste b,Electricity,11.451,Australia
+2007,Water and waste b,Renewables,0.669,Australia
+2007,Construction,Coal,,Australia
+2007,Construction,Gas,3.122,Australia
+2007,Construction,Oil,22.928,Australia
+2007,Construction,Electricity,0.303,Australia
+2007,Construction,Renewables,0,Australia
+2007,Road transport,Coal,,Australia
+2007,Road transport,Gas,1.683,Australia
+2007,Road transport,Oil,1072.026,Australia
+2007,Road transport,Electricity,0,Australia
+2007,Road transport,Renewables,2.765,Australia
+2007,Rail transport,Coal,0,Australia
+2007,Rail transport,Gas,0.016,Australia
+2007,Rail transport,Oil,33.087,Australia
+2007,Rail transport,Electricity,9.245,Australia
+2007,Rail transport,Renewables,0,Australia
+2007,Air transport c,Coal,,Australia
+2007,Air transport c,Gas,,Australia
+2007,Air transport c,Oil,236.043,Australia
+2007,Air transport c,Electricity,,Australia
+2007,Air transport c,Renewables,,Australia
+2007,Water transport d,Coal,8,Australia
+2007,Water transport d,Gas,0.078,Australia
+2007,Water transport d,Oil,65.088,Australia
+2007,Water transport d,Electricity,,Australia
+2007,Water transport d,Renewables,,Australia
+2007,Other transport,Coal,0,Australia
+2007,Other transport,Gas,1.006,Australia
+2007,Other transport,Oil,7.401,Australia
+2007,Other transport,Electricity,5.347,Australia
+2007,Other transport,Renewables,0,Australia
+2007,Total Transport,Coal,8,Australia
+2007,Total Transport,Gas,2.783,Australia
+2007,Total Transport,Oil,1413.646,Australia
+2007,Total Transport,Electricity,14.591,Australia
+2007,Total Transport,Renewables,2.765,Australia
+2007,Commercial and services,Coal,1.974,Australia
+2007,Commercial and services,Gas,43.171,Australia
+2007,Commercial and services,Oil,25.942,Australia
+2007,Commercial and services,Electricity,202.858,Australia
+2007,Commercial and services,Renewables,0.525,Australia
+2007,Residential,Coal,0.578,Australia
+2007,Residential,Gas,136.862,Australia
+2007,Residential,Oil,16.255,Australia
+2007,Residential,Electricity,210.203,Australia
+2007,Residential,Renewables,67.276,Australia
+2007,"Lubricants, bitumen, solvents",Coal,,Australia
+2007,"Lubricants, bitumen, solvents",Gas,,Australia
+2007,"Lubricants, bitumen, solvents",Oil,63.2,Australia
+2007,"Lubricants, bitumen, solvents",Electricity,,Australia
+2007,"Lubricants, bitumen, solvents",Renewables,,Australia
+2007,Total final consumption,Coal,170.747,Australia
+2007,Total final consumption,Gas,597.683,Australia
+2007,Total final consumption,Oil,1884.953,Australia
+2007,Total final consumption,Electricity,751.705,Australia
+2007,Total final consumption,Renewables,141.831,Australia
+2008,Agriculture,Coal,,Australia
+2008,Agriculture,Gas,0.12,Australia
+2008,Agriculture,Oil,85.462,Australia
+2008,Agriculture,Electricity,8.275,Australia
+2008,Agriculture,Renewables,,Australia
+2008,Mining,Coal,8.696,Australia
+2008,Mining,Gas,61.712,Australia
+2008,Mining,Oil,123.506,Australia
+2008,Mining,Electricity,67.286,Australia
+2008,Mining,Renewables,0.161,Australia
+2008,"Food, beverage, textiles",Coal,14.682,Australia
+2008,"Food, beverage, textiles",Gas,36.462,Australia
+2008,"Food, beverage, textiles",Oil,6.609,Australia
+2008,"Food, beverage, textiles",Electricity,21.612,Australia
+2008,"Food, beverage, textiles",Renewables,49.761,Australia
+2008,"Wood, paper and printing",Coal,4.821,Australia
+2008,"Wood, paper and printing",Gas,16.737,Australia
+2008,"Wood, paper and printing",Oil,0.533,Australia
+2008,"Wood, paper and printing",Electricity,17.532,Australia
+2008,"Wood, paper and printing",Renewables,20.896,Australia
+2008,Chemical,Coal,7.306,Australia
+2008,Chemical,Gas,64.09,Australia
+2008,Chemical,Oil,58.713,Australia
+2008,Chemical,Electricity,16.945,Australia
+2008,Chemical,Renewables,0.407,Australia
+2008,Iron and steel,Coal,5.558,Australia
+2008,Iron and steel,Gas,15.204,Australia
+2008,Iron and steel,Oil,0.621,Australia
+2008,Iron and steel,Electricity,12.463,Australia
+2008,Iron and steel,Renewables,,Australia
+2008,Non-ferrous metals,Coal,58.333,Australia
+2008,Non-ferrous metals,Gas,130.736,Australia
+2008,Non-ferrous metals,Oil,54.037,Australia
+2008,Non-ferrous metals,Electricity,144.306,Australia
+2008,Non-ferrous metals,Renewables,2.231,Australia
+2008,Other industry,Coal,27.933,Australia
+2008,Other industry,Gas,69.7,Australia
+2008,Other industry,Oil,12.842,Australia
+2008,Other industry,Electricity,32.42,Australia
+2008,Other industry,Renewables,3.103,Australia
+2008,Total Manufacturing,Coal,118.633,Australia
+2008,Total Manufacturing,Gas,332.929,Australia
+2008,Total Manufacturing,Oil,133.355,Australia
+2008,Total Manufacturing,Electricity,245.277,Australia
+2008,Total Manufacturing,Renewables,76.397,Australia
+2008,Water and waste b,Coal,0,Australia
+2008,Water and waste b,Gas,1.116,Australia
+2008,Water and waste b,Oil,1.762,Australia
+2008,Water and waste b,Electricity,10.439,Australia
+2008,Water and waste b,Renewables,0.292,Australia
+2008,Construction,Coal,,Australia
+2008,Construction,Gas,3.051,Australia
+2008,Construction,Oil,22.433,Australia
+2008,Construction,Electricity,7.04,Australia
+2008,Construction,Renewables,0,Australia
+2008,Road transport,Coal,,Australia
+2008,Road transport,Gas,2.017,Australia
+2008,Road transport,Oil,1080.078,Australia
+2008,Road transport,Electricity,0,Australia
+2008,Road transport,Renewables,5.649,Australia
+2008,Rail transport,Coal,0.027,Australia
+2008,Rail transport,Gas,0.017,Australia
+2008,Rail transport,Oil,34.679,Australia
+2008,Rail transport,Electricity,7.255,Australia
+2008,Rail transport,Renewables,0.002,Australia
+2008,Air transport c,Coal,,Australia
+2008,Air transport c,Gas,,Australia
+2008,Air transport c,Oil,241.083,Australia
+2008,Air transport c,Electricity,,Australia
+2008,Air transport c,Renewables,,Australia
+2008,Water transport d,Coal,4.84,Australia
+2008,Water transport d,Gas,0.1,Australia
+2008,Water transport d,Oil,62.33,Australia
+2008,Water transport d,Electricity,,Australia
+2008,Water transport d,Renewables,,Australia
+2008,Other transport,Coal,0,Australia
+2008,Other transport,Gas,0.677,Australia
+2008,Other transport,Oil,4.675,Australia
+2008,Other transport,Electricity,4.945,Australia
+2008,Other transport,Renewables,0,Australia
+2008,Total Transport,Coal,4.867,Australia
+2008,Total Transport,Gas,2.811,Australia
+2008,Total Transport,Oil,1422.844,Australia
+2008,Total Transport,Electricity,12.2,Australia
+2008,Total Transport,Renewables,5.651,Australia
+2008,Commercial and services,Coal,1.658,Australia
+2008,Commercial and services,Gas,45.479,Australia
+2008,Commercial and services,Oil,26.385,Australia
+2008,Commercial and services,Electricity,204.576,Australia
+2008,Commercial and services,Renewables,0.58,Australia
+2008,Residential,Coal,0.326,Australia
+2008,Residential,Gas,141.117,Australia
+2008,Residential,Oil,16.288,Australia
+2008,Residential,Electricity,213.474,Australia
+2008,Residential,Renewables,66.212,Australia
+2008,"Lubricants, bitumen, solvents",Coal,,Australia
+2008,"Lubricants, bitumen, solvents",Gas,,Australia
+2008,"Lubricants, bitumen, solvents",Oil,63,Australia
+2008,"Lubricants, bitumen, solvents",Electricity,,Australia
+2008,"Lubricants, bitumen, solvents",Renewables,,Australia
+2008,Total final consumption,Coal,134.18,Australia
+2008,Total final consumption,Gas,588.334,Australia
+2008,Total final consumption,Oil,1895.036,Australia
+2008,Total final consumption,Electricity,768.567,Australia
+2008,Total final consumption,Renewables,149.293,Australia
+2009,Agriculture,Coal,,Australia
+2009,Agriculture,Gas,0.123,Australia
+2009,Agriculture,Oil,87.58,Australia
+2009,Agriculture,Electricity,8.405,Australia
+2009,Agriculture,Renewables,,Australia
+2009,Mining,Coal,5.867,Australia
+2009,Mining,Gas,64.142,Australia
+2009,Mining,Oil,128.238,Australia
+2009,Mining,Electricity,69.713,Australia
+2009,Mining,Renewables,0.757,Australia
+2009,"Food, beverage, textiles",Coal,14.13,Australia
+2009,"Food, beverage, textiles",Gas,36.089,Australia
+2009,"Food, beverage, textiles",Oil,6.201,Australia
+2009,"Food, beverage, textiles",Electricity,21.863,Australia
+2009,"Food, beverage, textiles",Renewables,79.112,Australia
+2009,"Wood, paper and printing",Coal,4.254,Australia
+2009,"Wood, paper and printing",Gas,16.98,Australia
+2009,"Wood, paper and printing",Oil,0.521,Australia
+2009,"Wood, paper and printing",Electricity,18.082,Australia
+2009,"Wood, paper and printing",Renewables,22.689,Australia
+2009,Chemical,Coal,7.281,Australia
+2009,Chemical,Gas,64.438,Australia
+2009,Chemical,Oil,61.983,Australia
+2009,Chemical,Electricity,17.848,Australia
+2009,Chemical,Renewables,2.195,Australia
+2009,Iron and steel,Coal,5.58,Australia
+2009,Iron and steel,Gas,13.432,Australia
+2009,Iron and steel,Oil,0.338,Australia
+2009,Iron and steel,Electricity,12.742,Australia
+2009,Iron and steel,Renewables,,Australia
+2009,Non-ferrous metals,Coal,53.893,Australia
+2009,Non-ferrous metals,Gas,122.354,Australia
+2009,Non-ferrous metals,Oil,54.748,Australia
+2009,Non-ferrous metals,Electricity,150.49,Australia
+2009,Non-ferrous metals,Renewables,1.684,Australia
+2009,Other industry,Coal,26.723,Australia
+2009,Other industry,Gas,71.172,Australia
+2009,Other industry,Oil,15.078,Australia
+2009,Other industry,Electricity,31.163,Australia
+2009,Other industry,Renewables,2.968,Australia
+2009,Total Manufacturing,Coal,111.862,Australia
+2009,Total Manufacturing,Gas,324.465,Australia
+2009,Total Manufacturing,Oil,138.868,Australia
+2009,Total Manufacturing,Electricity,252.189,Australia
+2009,Total Manufacturing,Renewables,108.648,Australia
+2009,Water and waste b,Coal,0,Australia
+2009,Water and waste b,Gas,0.845,Australia
+2009,Water and waste b,Oil,1.9,Australia
+2009,Water and waste b,Electricity,9.898,Australia
+2009,Water and waste b,Renewables,0.254,Australia
+2009,Construction,Coal,,Australia
+2009,Construction,Gas,3.007,Australia
+2009,Construction,Oil,22.043,Australia
+2009,Construction,Electricity,7.562,Australia
+2009,Construction,Renewables,0,Australia
+2009,Road transport,Coal,,Australia
+2009,Road transport,Gas,2.158,Australia
+2009,Road transport,Oil,1098.397,Australia
+2009,Road transport,Electricity,0,Australia
+2009,Road transport,Renewables,7.384,Australia
+2009,Rail transport,Coal,0,Australia
+2009,Rail transport,Gas,0.03,Australia
+2009,Rail transport,Oil,34.304,Australia
+2009,Rail transport,Electricity,7.834,Australia
+2009,Rail transport,Renewables,0.003,Australia
+2009,Air transport c,Coal,,Australia
+2009,Air transport c,Gas,,Australia
+2009,Air transport c,Oil,255.186,Australia
+2009,Air transport c,Electricity,,Australia
+2009,Air transport c,Renewables,,Australia
+2009,Water transport d,Coal,4.13,Australia
+2009,Water transport d,Gas,0.1,Australia
+2009,Water transport d,Oil,58.62,Australia
+2009,Water transport d,Electricity,,Australia
+2009,Water transport d,Renewables,,Australia
+2009,Other transport,Coal,0.005,Australia
+2009,Other transport,Gas,0.653,Australia
+2009,Other transport,Oil,4.882,Australia
+2009,Other transport,Electricity,5.488,Australia
+2009,Other transport,Renewables,0.002,Australia
+2009,Total Transport,Coal,4.136,Australia
+2009,Total Transport,Gas,2.941,Australia
+2009,Total Transport,Oil,1451.388,Australia
+2009,Total Transport,Electricity,13.322,Australia
+2009,Total Transport,Renewables,7.388,Australia
+2009,Commercial and services,Coal,1.459,Australia
+2009,Commercial and services,Gas,47.815,Australia
+2009,Commercial and services,Oil,26.399,Australia
+2009,Commercial and services,Electricity,208.121,Australia
+2009,Commercial and services,Renewables,0.648,Australia
+2009,Residential,Coal,0.215,Australia
+2009,Residential,Gas,144.112,Australia
+2009,Residential,Oil,15.852,Australia
+2009,Residential,Electricity,218.363,Australia
+2009,Residential,Renewables,65.712,Australia
+2009,"Lubricants, bitumen, solvents",Coal,,Australia
+2009,"Lubricants, bitumen, solvents",Gas,,Australia
+2009,"Lubricants, bitumen, solvents",Oil,65,Australia
+2009,"Lubricants, bitumen, solvents",Electricity,,Australia
+2009,"Lubricants, bitumen, solvents",Renewables,,Australia
+2009,Total final consumption,Coal,123.538,Australia
+2009,Total final consumption,Gas,587.45,Australia
+2009,Total final consumption,Oil,1937.269,Australia
+2009,Total final consumption,Electricity,787.573,Australia
+2009,Total final consumption,Renewables,183.407,Australia
+2010,Agriculture,Coal,,Australia
+2010,Agriculture,Gas,0.125,Australia
+2010,Agriculture,Oil,88.013,Australia
+2010,Agriculture,Electricity,8.04,Australia
+2010,Agriculture,Renewables,,Australia
+2010,Mining,Coal,5.913,Australia
+2010,Mining,Gas,61.713,Australia
+2010,Mining,Oil,147.408,Australia
+2010,Mining,Electricity,79.033,Australia
+2010,Mining,Renewables,0.97,Australia
+2010,"Food, beverage, textiles",Coal,14.738,Australia
+2010,"Food, beverage, textiles",Gas,37.429,Australia
+2010,"Food, beverage, textiles",Oil,6.801,Australia
+2010,"Food, beverage, textiles",Electricity,25.254,Australia
+2010,"Food, beverage, textiles",Renewables,74.708,Australia
+2010,"Wood, paper and printing",Coal,2.923,Australia
+2010,"Wood, paper and printing",Gas,16.278,Australia
+2010,"Wood, paper and printing",Oil,0.427,Australia
+2010,"Wood, paper and printing",Electricity,19.051,Australia
+2010,"Wood, paper and printing",Renewables,24.087,Australia
+2010,Chemical,Coal,7,Australia
+2010,Chemical,Gas,65.88,Australia
+2010,Chemical,Oil,72.787,Australia
+2010,Chemical,Electricity,15.919,Australia
+2010,Chemical,Renewables,2.366,Australia
+2010,Iron and steel,Coal,7.725,Australia
+2010,Iron and steel,Gas,11.329,Australia
+2010,Iron and steel,Oil,0.185,Australia
+2010,Iron and steel,Electricity,14.739,Australia
+2010,Iron and steel,Renewables,,Australia
+2010,Non-ferrous metals,Coal,45.525,Australia
+2010,Non-ferrous metals,Gas,123.909,Australia
+2010,Non-ferrous metals,Oil,73.613,Australia
+2010,Non-ferrous metals,Electricity,138.579,Australia
+2010,Non-ferrous metals,Renewables,2.162,Australia
+2010,Other industry,Coal,26.603,Australia
+2010,Other industry,Gas,75.528,Australia
+2010,Other industry,Oil,13.301,Australia
+2010,Other industry,Electricity,27.516,Australia
+2010,Other industry,Renewables,2.915,Australia
+2010,Total Manufacturing,Coal,104.516,Australia
+2010,Total Manufacturing,Gas,330.353,Australia
+2010,Total Manufacturing,Oil,167.115,Australia
+2010,Total Manufacturing,Electricity,241.059,Australia
+2010,Total Manufacturing,Renewables,106.238,Australia
+2010,Water and waste b,Coal,0,Australia
+2010,Water and waste b,Gas,0.992,Australia
+2010,Water and waste b,Oil,1.733,Australia
+2010,Water and waste b,Electricity,9.56,Australia
+2010,Water and waste b,Renewables,0.829,Australia
+2010,Construction,Coal,,Australia
+2010,Construction,Gas,2.998,Australia
+2010,Construction,Oil,22.026,Australia
+2010,Construction,Electricity,7.494,Australia
+2010,Construction,Renewables,0,Australia
+2010,Road transport,Coal,,Australia
+2010,Road transport,Gas,2.361,Australia
+2010,Road transport,Oil,1126.268,Australia
+2010,Road transport,Electricity,0,Australia
+2010,Road transport,Renewables,8.731,Australia
+2010,Rail transport,Coal,0.005,Australia
+2010,Rail transport,Gas,0.028,Australia
+2010,Rail transport,Oil,35.417,Australia
+2010,Rail transport,Electricity,8.042,Australia
+2010,Rail transport,Renewables,0.003,Australia
+2010,Air transport c,Coal,,Australia
+2010,Air transport c,Gas,,Australia
+2010,Air transport c,Oil,262.704,Australia
+2010,Air transport c,Electricity,,Australia
+2010,Air transport c,Renewables,,Australia
+2010,Water transport d,Coal,2.94,Australia
+2010,Water transport d,Gas,0.1,Australia
+2010,Water transport d,Oil,55.93,Australia
+2010,Water transport d,Electricity,,Australia
+2010,Water transport d,Renewables,,Australia
+2010,Other transport,Coal,0,Australia
+2010,Other transport,Gas,0.625,Australia
+2010,Other transport,Oil,4.915,Australia
+2010,Other transport,Electricity,5.864,Australia
+2010,Other transport,Renewables,0.001,Australia
+2010,Total Transport,Coal,2.946,Australia
+2010,Total Transport,Gas,3.114,Australia
+2010,Total Transport,Oil,1485.234,Australia
+2010,Total Transport,Electricity,13.905,Australia
+2010,Total Transport,Renewables,8.735,Australia
+2010,Commercial and services,Coal,1.078,Australia
+2010,Commercial and services,Gas,49.747,Australia
+2010,Commercial and services,Oil,28.382,Australia
+2010,Commercial and services,Electricity,211.357,Australia
+2010,Commercial and services,Renewables,0.695,Australia
+2010,Residential,Coal,0.141,Australia
+2010,Residential,Gas,148.052,Australia
+2010,Residential,Oil,16.71,Australia
+2010,Residential,Electricity,225.134,Australia
+2010,Residential,Renewables,64.059,Australia
+2010,"Lubricants, bitumen, solvents",Coal,,Australia
+2010,"Lubricants, bitumen, solvents",Gas,,Australia
+2010,"Lubricants, bitumen, solvents",Oil,59.718,Australia
+2010,"Lubricants, bitumen, solvents",Electricity,,Australia
+2010,"Lubricants, bitumen, solvents",Renewables,,Australia
+2010,Total final consumption,Coal,114.594,Australia
+2010,Total final consumption,Gas,597.094,Australia
+2010,Total final consumption,Oil,2016.338,Australia
+2010,Total final consumption,Electricity,795.582,Australia
+2010,Total final consumption,Renewables,181.526,Australia
+2011,Agriculture,Coal,,Australia
+2011,Agriculture,Gas,0.573,Australia
+2011,Agriculture,Oil,89.261,Australia
+2011,Agriculture,Electricity,8.355,Australia
+2011,Agriculture,Renewables,,Australia
+2011,Mining,Coal,4.855,Australia
+2011,Mining,Gas,68.036,Australia
+2011,Mining,Oil,183.408,Australia
+2011,Mining,Electricity,81.33,Australia
+2011,Mining,Renewables,1.26,Australia
+2011,"Food, beverage, textiles",Coal,11.218,Australia
+2011,"Food, beverage, textiles",Gas,39.662,Australia
+2011,"Food, beverage, textiles",Oil,7.42,Australia
+2011,"Food, beverage, textiles",Electricity,24.936,Australia
+2011,"Food, beverage, textiles",Renewables,75.494,Australia
+2011,"Wood, paper and printing",Coal,2.718,Australia
+2011,"Wood, paper and printing",Gas,14.331,Australia
+2011,"Wood, paper and printing",Oil,0.592,Australia
+2011,"Wood, paper and printing",Electricity,17.996,Australia
+2011,"Wood, paper and printing",Renewables,22.92,Australia
+2011,Chemical,Coal,7.732,Australia
+2011,Chemical,Gas,70.583,Australia
+2011,Chemical,Oil,81.856,Australia
+2011,Chemical,Electricity,15.713,Australia
+2011,Chemical,Renewables,2.228,Australia
+2011,Iron and steel,Coal,5.212,Australia
+2011,Iron and steel,Gas,11.339,Australia
+2011,Iron and steel,Oil,0.156,Australia
+2011,Iron and steel,Electricity,12.018,Australia
+2011,Iron and steel,Renewables,,Australia
+2011,Non-ferrous metals,Coal,46.276,Australia
+2011,Non-ferrous metals,Gas,134.072,Australia
+2011,Non-ferrous metals,Oil,83.488,Australia
+2011,Non-ferrous metals,Electricity,138.272,Australia
+2011,Non-ferrous metals,Renewables,2.392,Australia
+2011,Other industry,Coal,24.766,Australia
+2011,Other industry,Gas,66.415,Australia
+2011,Other industry,Oil,14.382,Australia
+2011,Other industry,Electricity,27.468,Australia
+2011,Other industry,Renewables,2.931,Australia
+2011,Total Manufacturing,Coal,97.921,Australia
+2011,Total Manufacturing,Gas,336.404,Australia
+2011,Total Manufacturing,Oil,187.894,Australia
+2011,Total Manufacturing,Electricity,236.403,Australia
+2011,Total Manufacturing,Renewables,105.965,Australia
+2011,Water and waste b,Coal,0,Australia
+2011,Water and waste b,Gas,1.168,Australia
+2011,Water and waste b,Oil,3.385,Australia
+2011,Water and waste b,Electricity,9.769,Australia
+2011,Water and waste b,Renewables,1.227,Australia
+2011,Construction,Coal,,Australia
+2011,Construction,Gas,2.939,Australia
+2011,Construction,Oil,21.871,Australia
+2011,Construction,Electricity,6.717,Australia
+2011,Construction,Renewables,0,Australia
+2011,Road transport,Coal,,Australia
+2011,Road transport,Gas,2.985,Australia
+2011,Road transport,Oil,1132.751,Australia
+2011,Road transport,Electricity,0,Australia
+2011,Road transport,Renewables,8.539,Australia
+2011,Rail transport,Coal,0.004,Australia
+2011,Rail transport,Gas,0.031,Australia
+2011,Rail transport,Oil,39.138,Australia
+2011,Rail transport,Electricity,8.291,Australia
+2011,Rail transport,Renewables,0.003,Australia
+2011,Air transport c,Coal,,Australia
+2011,Air transport c,Gas,,Australia
+2011,Air transport c,Oil,272.757,Australia
+2011,Air transport c,Electricity,,Australia
+2011,Air transport c,Renewables,,Australia
+2011,Water transport d,Coal,2.52,Australia
+2011,Water transport d,Gas,0.1,Australia
+2011,Water transport d,Oil,57.45,Australia
+2011,Water transport d,Electricity,,Australia
+2011,Water transport d,Renewables,,Australia
+2011,Other transport,Coal,0,Australia
+2011,Other transport,Gas,0.427,Australia
+2011,Other transport,Oil,6.226,Australia
+2011,Other transport,Electricity,6.465,Australia
+2011,Other transport,Renewables,0.001,Australia
+2011,Total Transport,Coal,2.523,Australia
+2011,Total Transport,Gas,3.543,Australia
+2011,Total Transport,Oil,1508.322,Australia
+2011,Total Transport,Electricity,14.757,Australia
+2011,Total Transport,Renewables,8.543,Australia
+2011,Commercial and services,Coal,1.025,Australia
+2011,Commercial and services,Gas,49.528,Australia
+2011,Commercial and services,Oil,28.804,Australia
+2011,Commercial and services,Electricity,206.614,Australia
+2011,Commercial and services,Renewables,0.701,Australia
+2011,Residential,Coal,0.095,Australia
+2011,Residential,Gas,150.8,Australia
+2011,Residential,Oil,16.381,Australia
+2011,Residential,Electricity,221.298,Australia
+2011,Residential,Renewables,64.777,Australia
+2011,"Lubricants, bitumen, solvents",Coal,,Australia
+2011,"Lubricants, bitumen, solvents",Gas,,Australia
+2011,"Lubricants, bitumen, solvents",Oil,55.09,Australia
+2011,"Lubricants, bitumen, solvents",Electricity,,Australia
+2011,"Lubricants, bitumen, solvents",Renewables,,Australia
+2011,Total final consumption,Coal,106.419,Australia
+2011,Total final consumption,Gas,612.99,Australia
+2011,Total final consumption,Oil,2094.416,Australia
+2011,Total final consumption,Electricity,785.242,Australia
+2011,Total final consumption,Renewables,182.473,Australia
+2012,Agriculture,Coal,,Australia
+2012,Agriculture,Gas,0.877,Australia
+2012,Agriculture,Oil,90.436,Australia
+2012,Agriculture,Electricity,8.008,Australia
+2012,Agriculture,Renewables,,Australia
+2012,Mining,Coal,3.345,Australia
+2012,Mining,Gas,71.76,Australia
+2012,Mining,Oil,216.931,Australia
+2012,Mining,Electricity,87.824,Australia
+2012,Mining,Renewables,1.711,Australia
+2012,"Food, beverage, textiles",Coal,10.379,Australia
+2012,"Food, beverage, textiles",Gas,37.673,Australia
+2012,"Food, beverage, textiles",Oil,7.191,Australia
+2012,"Food, beverage, textiles",Electricity,24.958,Australia
+2012,"Food, beverage, textiles",Renewables,89.757,Australia
+2012,"Wood, paper and printing",Coal,4.528,Australia
+2012,"Wood, paper and printing",Gas,18.866,Australia
+2012,"Wood, paper and printing",Oil,2.305,Australia
+2012,"Wood, paper and printing",Electricity,17.277,Australia
+2012,"Wood, paper and printing",Renewables,27.135,Australia
+2012,Chemical,Coal,7.513,Australia
+2012,Chemical,Gas,71.49,Australia
+2012,Chemical,Oil,69.806,Australia
+2012,Chemical,Electricity,15.8,Australia
+2012,Chemical,Renewables,0.826,Australia
+2012,Iron and steel,Coal,6.1,Australia
+2012,Iron and steel,Gas,9.871,Australia
+2012,Iron and steel,Oil,0.145,Australia
+2012,Iron and steel,Electricity,12.15,Australia
+2012,Iron and steel,Renewables,,Australia
+2012,Non-ferrous metals,Coal,54.954,Australia
+2012,Non-ferrous metals,Gas,145.162,Australia
+2012,Non-ferrous metals,Oil,70.54,Australia
+2012,Non-ferrous metals,Electricity,132.662,Australia
+2012,Non-ferrous metals,Renewables,2.076,Australia
+2012,Other industry,Coal,23.319,Australia
+2012,Other industry,Gas,64.813,Australia
+2012,Other industry,Oil,9.294,Australia
+2012,Other industry,Electricity,26.089,Australia
+2012,Other industry,Renewables,1.909,Australia
+2012,Total Manufacturing,Coal,106.793,Australia
+2012,Total Manufacturing,Gas,347.875,Australia
+2012,Total Manufacturing,Oil,159.28,Australia
+2012,Total Manufacturing,Electricity,228.937,Australia
+2012,Total Manufacturing,Renewables,121.702,Australia
+2012,Water and waste b,Coal,0,Australia
+2012,Water and waste b,Gas,0.558,Australia
+2012,Water and waste b,Oil,1.452,Australia
+2012,Water and waste b,Electricity,9.47,Australia
+2012,Water and waste b,Renewables,1.533,Australia
+2012,Construction,Coal,,Australia
+2012,Construction,Gas,2.894,Australia
+2012,Construction,Oil,21.503,Australia
+2012,Construction,Electricity,7.011,Australia
+2012,Construction,Renewables,0,Australia
+2012,Road transport,Coal,,Australia
+2012,Road transport,Gas,3.043,Australia
+2012,Road transport,Oil,1145.417,Australia
+2012,Road transport,Electricity,0,Australia
+2012,Road transport,Renewables,9.187,Australia
+2012,Rail transport,Coal,0.002,Australia
+2012,Rail transport,Gas,0.032,Australia
+2012,Rail transport,Oil,42.102,Australia
+2012,Rail transport,Electricity,10.974,Australia
+2012,Rail transport,Renewables,0.004,Australia
+2012,Air transport c,Coal,,Australia
+2012,Air transport c,Gas,,Australia
+2012,Air transport c,Oil,288.737,Australia
+2012,Air transport c,Electricity,,Australia
+2012,Air transport c,Renewables,,Australia
+2012,Water transport d,Coal,0,Australia
+2012,Water transport d,Gas,0.1,Australia
+2012,Water transport d,Oil,49.86,Australia
+2012,Water transport d,Electricity,,Australia
+2012,Water transport d,Renewables,,Australia
+2012,Other transport,Coal,0,Australia
+2012,Other transport,Gas,0.425,Australia
+2012,Other transport,Oil,6.669,Australia
+2012,Other transport,Electricity,6.917,Australia
+2012,Other transport,Renewables,0.049,Australia
+2012,Total Transport,Coal,0.002,Australia
+2012,Total Transport,Gas,3.6,Australia
+2012,Total Transport,Oil,1532.784,Australia
+2012,Total Transport,Electricity,17.891,Australia
+2012,Total Transport,Renewables,9.239,Australia
+2012,Commercial and services,Coal,0.978,Australia
+2012,Commercial and services,Gas,49.978,Australia
+2012,Commercial and services,Oil,30.302,Australia
+2012,Commercial and services,Electricity,213.787,Australia
+2012,Commercial and services,Renewables,1.04,Australia
+2012,Residential,Coal,0.074,Australia
+2012,Residential,Gas,154.805,Australia
+2012,Residential,Oil,16.741,Australia
+2012,Residential,Electricity,217.935,Australia
+2012,Residential,Renewables,65.561,Australia
+2012,"Lubricants, bitumen, solvents",Coal,,Australia
+2012,"Lubricants, bitumen, solvents",Gas,,Australia
+2012,"Lubricants, bitumen, solvents",Oil,53.529,Australia
+2012,"Lubricants, bitumen, solvents",Electricity,,Australia
+2012,"Lubricants, bitumen, solvents",Renewables,,Australia
+2012,Total final consumption,Coal,111.191,Australia
+2012,Total final consumption,Gas,632.348,Australia
+2012,Total final consumption,Oil,2122.958,Australia
+2012,Total final consumption,Electricity,790.862,Australia
+2012,Total final consumption,Renewables,200.787,Australia
+2013,Agriculture,Coal,,Australia
+2013,Agriculture,Gas,1.406,Australia
+2013,Agriculture,Oil,89.399,Australia
+2013,Agriculture,Electricity,8.823,Australia
+2013,Agriculture,Renewables,,Australia
+2013,Mining,Coal,3.401,Australia
+2013,Mining,Gas,83.287,Australia
+2013,Mining,Oil,223.921,Australia
+2013,Mining,Electricity,93.857,Australia
+2013,Mining,Renewables,2.62,Australia
+2013,"Food, beverage, textiles",Coal,9.668,Australia
+2013,"Food, beverage, textiles",Gas,38.572,Australia
+2013,"Food, beverage, textiles",Oil,7.198,Australia
+2013,"Food, beverage, textiles",Electricity,24.572,Australia
+2013,"Food, beverage, textiles",Renewables,81.419,Australia
+2013,"Wood, paper and printing",Coal,3.228,Australia
+2013,"Wood, paper and printing",Gas,18.182,Australia
+2013,"Wood, paper and printing",Oil,2.469,Australia
+2013,"Wood, paper and printing",Electricity,17.469,Australia
+2013,"Wood, paper and printing",Renewables,27.938,Australia
+2013,Chemical,Coal,6.507,Australia
+2013,Chemical,Gas,73.653,Australia
+2013,Chemical,Oil,78.541,Australia
+2013,Chemical,Electricity,14.953,Australia
+2013,Chemical,Renewables,0.767,Australia
+2013,Iron and steel,Coal,5.577,Australia
+2013,Iron and steel,Gas,8.956,Australia
+2013,Iron and steel,Oil,0.256,Australia
+2013,Iron and steel,Electricity,11.901,Australia
+2013,Iron and steel,Renewables,,Australia
+2013,Non-ferrous metals,Coal,59.356,Australia
+2013,Non-ferrous metals,Gas,149.11,Australia
+2013,Non-ferrous metals,Oil,64.401,Australia
+2013,Non-ferrous metals,Electricity,131.582,Australia
+2013,Non-ferrous metals,Renewables,1.903,Australia
+2013,Other industry,Coal,22.347,Australia
+2013,Other industry,Gas,60.115,Australia
+2013,Other industry,Oil,9.027,Australia
+2013,Other industry,Electricity,25.75,Australia
+2013,Other industry,Renewables,2.372,Australia
+2013,Total Manufacturing,Coal,106.683,Australia
+2013,Total Manufacturing,Gas,348.588,Australia
+2013,Total Manufacturing,Oil,161.892,Australia
+2013,Total Manufacturing,Electricity,226.227,Australia
+2013,Total Manufacturing,Renewables,114.4,Australia
+2013,Water and waste b,Coal,0.146,Australia
+2013,Water and waste b,Gas,0.73,Australia
+2013,Water and waste b,Oil,1.133,Australia
+2013,Water and waste b,Electricity,10.672,Australia
+2013,Water and waste b,Renewables,1.783,Australia
+2013,Construction,Coal,0.042,Australia
+2013,Construction,Gas,2.922,Australia
+2013,Construction,Oil,21.42,Australia
+2013,Construction,Electricity,7.064,Australia
+2013,Construction,Renewables,0.005,Australia
+2013,Road transport,Coal,,Australia
+2013,Road transport,Gas,3.119,Australia
+2013,Road transport,Oil,1145.459,Australia
+2013,Road transport,Electricity,0,Australia
+2013,Road transport,Renewables,8.39,Australia
+2013,Rail transport,Coal,0.004,Australia
+2013,Rail transport,Gas,0.038,Australia
+2013,Rail transport,Oil,43.09,Australia
+2013,Rail transport,Electricity,11.136,Australia
+2013,Rail transport,Renewables,0.004,Australia
+2013,Air transport c,Coal,,Australia
+2013,Air transport c,Gas,,Australia
+2013,Air transport c,Oil,302.975,Australia
+2013,Air transport c,Electricity,,Australia
+2013,Air transport c,Renewables,,Australia
+2013,Water transport d,Coal,0,Australia
+2013,Water transport d,Gas,0.1,Australia
+2013,Water transport d,Oil,52.95,Australia
+2013,Water transport d,Electricity,,Australia
+2013,Water transport d,Renewables,,Australia
+2013,Other transport,Coal,0,Australia
+2013,Other transport,Gas,0.5,Australia
+2013,Other transport,Oil,6.493,Australia
+2013,Other transport,Electricity,7.209,Australia
+2013,Other transport,Renewables,0.089,Australia
+2013,Total Transport,Coal,0.004,Australia
+2013,Total Transport,Gas,3.757,Australia
+2013,Total Transport,Oil,1550.968,Australia
+2013,Total Transport,Electricity,18.344,Australia
+2013,Total Transport,Renewables,8.483,Australia
+2013,Commercial and services,Coal,1.026,Australia
+2013,Commercial and services,Gas,43.26,Australia
+2013,Commercial and services,Oil,31.411,Australia
+2013,Commercial and services,Electricity,214.543,Australia
+2013,Commercial and services,Renewables,1.213,Australia
+2013,Residential,Coal,0.017,Australia
+2013,Residential,Gas,146.208,Australia
+2013,Residential,Oil,16.488,Australia
+2013,Residential,Electricity,207.716,Australia
+2013,Residential,Renewables,64.629,Australia
+2013,"Lubricants, bitumen, solvents",Coal,,Australia
+2013,"Lubricants, bitumen, solvents",Gas,,Australia
+2013,"Lubricants, bitumen, solvents",Oil,50.867,Australia
+2013,"Lubricants, bitumen, solvents",Electricity,,Australia
+2013,"Lubricants, bitumen, solvents",Renewables,,Australia
+2013,Total final consumption,Coal,111.32,Australia
+2013,Total final consumption,Gas,630.158,Australia
+2013,Total final consumption,Oil,2147.498,Australia
+2013,Total final consumption,Electricity,787.248,Australia
+2013,Total final consumption,Renewables,193.133,Australia
+2014,Agriculture,Coal,,Australia
+2014,Agriculture,Gas,1.328,Australia
+2014,Agriculture,Oil,94.735,Australia
+2014,Agriculture,Electricity,8.478,Australia
+2014,Agriculture,Renewables,,Australia
+2014,Mining,Coal,2.522,Australia
+2014,Mining,Gas,78.955,Australia
+2014,Mining,Oil,210.318,Australia
+2014,Mining,Electricity,97.797,Australia
+2014,Mining,Renewables,3.16,Australia
+2014,"Food, beverage, textiles",Coal,7.656,Australia
+2014,"Food, beverage, textiles",Gas,41.498,Australia
+2014,"Food, beverage, textiles",Oil,6.377,Australia
+2014,"Food, beverage, textiles",Electricity,25.632,Australia
+2014,"Food, beverage, textiles",Renewables,91.559,Australia
+2014,"Wood, paper and printing",Coal,3.038,Australia
+2014,"Wood, paper and printing",Gas,18.004,Australia
+2014,"Wood, paper and printing",Oil,2.645,Australia
+2014,"Wood, paper and printing",Electricity,17.287,Australia
+2014,"Wood, paper and printing",Renewables,28.227,Australia
+2014,Chemical,Coal,6.913,Australia
+2014,Chemical,Gas,74.481,Australia
+2014,Chemical,Oil,61.599,Australia
+2014,Chemical,Electricity,14.803,Australia
+2014,Chemical,Renewables,0.773,Australia
+2014,Iron and steel,Coal,5.456,Australia
+2014,Iron and steel,Gas,9.378,Australia
+2014,Iron and steel,Oil,0.217,Australia
+2014,Iron and steel,Electricity,12.003,Australia
+2014,Iron and steel,Renewables,,Australia
+2014,Non-ferrous metals,Coal,58.883,Australia
+2014,Non-ferrous metals,Gas,131.525,Australia
+2014,Non-ferrous metals,Oil,40.135,Australia
+2014,Non-ferrous metals,Electricity,116.12,Australia
+2014,Non-ferrous metals,Renewables,2.174,Australia
+2014,Other industry,Coal,21.021,Australia
+2014,Other industry,Gas,59.496,Australia
+2014,Other industry,Oil,10.35,Australia
+2014,Other industry,Electricity,25.354,Australia
+2014,Other industry,Renewables,2.467,Australia
+2014,Total Manufacturing,Coal,102.968,Australia
+2014,Total Manufacturing,Gas,334.383,Australia
+2014,Total Manufacturing,Oil,121.324,Australia
+2014,Total Manufacturing,Electricity,211.198,Australia
+2014,Total Manufacturing,Renewables,125.2,Australia
+2014,Water and waste b,Coal,0.144,Australia
+2014,Water and waste b,Gas,1.396,Australia
+2014,Water and waste b,Oil,0.943,Australia
+2014,Water and waste b,Electricity,10.068,Australia
+2014,Water and waste b,Renewables,1.663,Australia
+2014,Construction,Coal,,Australia
+2014,Construction,Gas,2.903,Australia
+2014,Construction,Oil,25.777,Australia
+2014,Construction,Electricity,7.912,Australia
+2014,Construction,Renewables,0.004,Australia
+2014,Road transport,Coal,,Australia
+2014,Road transport,Gas,4.032,Australia
+2014,Road transport,Oil,1168.928,Australia
+2014,Road transport,Electricity,0.021,Australia
+2014,Road transport,Renewables,6.286,Australia
+2014,Rail transport,Coal,0.016,Australia
+2014,Rail transport,Gas,0.037,Australia
+2014,Rail transport,Oil,46.532,Australia
+2014,Rail transport,Electricity,11.457,Australia
+2014,Rail transport,Renewables,0.004,Australia
+2014,Air transport c,Coal,,Australia
+2014,Air transport c,Gas,,Australia
+2014,Air transport c,Oil,301.913,Australia
+2014,Air transport c,Electricity,,Australia
+2014,Air transport c,Renewables,,Australia
+2014,Water transport d,Coal,0,Australia
+2014,Water transport d,Gas,0.1,Australia
+2014,Water transport d,Oil,55.228,Australia
+2014,Water transport d,Electricity,,Australia
+2014,Water transport d,Renewables,,Australia
+2014,Other transport,Coal,0,Australia
+2014,Other transport,Gas,0.393,Australia
+2014,Other transport,Oil,8.059,Australia
+2014,Other transport,Electricity,8.807,Australia
+2014,Other transport,Renewables,0.081,Australia
+2014,Total Transport,Coal,0.016,Australia
+2014,Total Transport,Gas,4.561,Australia
+2014,Total Transport,Oil,1580.661,Australia
+2014,Total Transport,Electricity,20.285,Australia
+2014,Total Transport,Renewables,6.372,Australia
+2014,Commercial and services,Coal,0.151,Australia
+2014,Commercial and services,Gas,43.688,Australia
+2014,Commercial and services,Oil,32.063,Australia
+2014,Commercial and services,Electricity,242.559,Australia
+2014,Commercial and services,Renewables,1.3,Australia
+2014,Residential,Coal,0.016,Australia
+2014,Residential,Gas,160.598,Australia
+2014,Residential,Oil,16.054,Australia
+2014,Residential,Electricity,202.797,Australia
+2014,Residential,Renewables,64.286,Australia
+2014,"Lubricants, bitumen, solvents",Coal,,Australia
+2014,"Lubricants, bitumen, solvents",Gas,,Australia
+2014,"Lubricants, bitumen, solvents",Oil,45.59,Australia
+2014,"Lubricants, bitumen, solvents",Electricity,,Australia
+2014,"Lubricants, bitumen, solvents",Renewables,,Australia
+2014,Total final consumption,Coal,105.818,Australia
+2014,Total final consumption,Gas,627.812,Australia
+2014,Total final consumption,Oil,2127.465,Australia
+2014,Total final consumption,Electricity,801.093,Australia
+2014,Total final consumption,Renewables,201.985,Australia
+2015,Agriculture,Coal,,Australia
+2015,Agriculture,Gas,1.298,Australia
+2015,Agriculture,Oil,100.446,Australia
+2015,Agriculture,Electricity,8.012,Australia
+2015,Agriculture,Renewables,,Australia
+2015,Mining,Coal,4.914,Australia
+2015,Mining,Gas,78.053,Australia
+2015,Mining,Oil,210.703,Australia
+2015,Mining,Electricity,108.06,Australia
+2015,Mining,Renewables,0.191,Australia
+2015,"Food, beverage, textiles",Coal,7.867,Australia
+2015,"Food, beverage, textiles",Gas,40.474,Australia
+2015,"Food, beverage, textiles",Oil,6.209,Australia
+2015,"Food, beverage, textiles",Electricity,25.523,Australia
+2015,"Food, beverage, textiles",Renewables,88.817,Australia
+2015,"Wood, paper and printing",Coal,2.989,Australia
+2015,"Wood, paper and printing",Gas,17.601,Australia
+2015,"Wood, paper and printing",Oil,2.58,Australia
+2015,"Wood, paper and printing",Electricity,17.595,Australia
+2015,"Wood, paper and printing",Renewables,29.514,Australia
+2015,Chemical,Coal,6.13,Australia
+2015,Chemical,Gas,67.04,Australia
+2015,Chemical,Oil,53.116,Australia
+2015,Chemical,Electricity,14.508,Australia
+2015,Chemical,Renewables,0.716,Australia
+2015,Iron and steel,Coal,4.178,Australia
+2015,Iron and steel,Gas,9.498,Australia
+2015,Iron and steel,Oil,0.148,Australia
+2015,Iron and steel,Electricity,11.589,Australia
+2015,Iron and steel,Renewables,,Australia
+2015,Non-ferrous metals,Coal,65.834,Australia
+2015,Non-ferrous metals,Gas,127.453,Australia
+2015,Non-ferrous metals,Oil,35.261,Australia
+2015,Non-ferrous metals,Electricity,117.917,Australia
+2015,Non-ferrous metals,Renewables,2.158,Australia
+2015,Other industry,Coal,19.641,Australia
+2015,Other industry,Gas,59.351,Australia
+2015,Other industry,Oil,10.459,Australia
+2015,Other industry,Electricity,25.029,Australia
+2015,Other industry,Renewables,3.195,Australia
+2015,Total Manufacturing,Coal,106.64,Australia
+2015,Total Manufacturing,Gas,321.418,Australia
+2015,Total Manufacturing,Oil,107.774,Australia
+2015,Total Manufacturing,Electricity,212.161,Australia
+2015,Total Manufacturing,Renewables,124.4,Australia
+2015,Water and waste b,Coal,0.191,Australia
+2015,Water and waste b,Gas,1.203,Australia
+2015,Water and waste b,Oil,0.994,Australia
+2015,Water and waste b,Electricity,11.598,Australia
+2015,Water and waste b,Renewables,0.485,Australia
+2015,Construction,Coal,,Australia
+2015,Construction,Gas,2.906,Australia
+2015,Construction,Oil,27.716,Australia
+2015,Construction,Electricity,8.682,Australia
+2015,Construction,Renewables,0.001,Australia
+2015,Road transport,Coal,,Australia
+2015,Road transport,Gas,4.333,Australia
+2015,Road transport,Oil,1179.58,Australia
+2015,Road transport,Electricity,0.034,Australia
+2015,Road transport,Renewables,5.843,Australia
+2015,Rail transport,Coal,0.003,Australia
+2015,Rail transport,Gas,0.032,Australia
+2015,Rail transport,Oil,47.913,Australia
+2015,Rail transport,Electricity,12.401,Australia
+2015,Rail transport,Renewables,0.011,Australia
+2015,Air transport c,Coal,,Australia
+2015,Air transport c,Gas,,Australia
+2015,Air transport c,Oil,315.635,Australia
+2015,Air transport c,Electricity,,Australia
+2015,Air transport c,Renewables,,Australia
+2015,Water transport d,Coal,0,Australia
+2015,Water transport d,Gas,0.143,Australia
+2015,Water transport d,Oil,57.796,Australia
+2015,Water transport d,Electricity,,Australia
+2015,Water transport d,Renewables,,Australia
+2015,Other transport,Coal,0,Australia
+2015,Other transport,Gas,0.409,Australia
+2015,Other transport,Oil,8.907,Australia
+2015,Other transport,Electricity,9.176,Australia
+2015,Other transport,Renewables,0.052,Australia
+2015,Total Transport,Coal,0.003,Australia
+2015,Total Transport,Gas,4.917,Australia
+2015,Total Transport,Oil,1609.831,Australia
+2015,Total Transport,Electricity,21.61,Australia
+2015,Total Transport,Renewables,5.906,Australia
+2015,Commercial and services,Coal,0.135,Australia
+2015,Commercial and services,Gas,43.193,Australia
+2015,Commercial and services,Oil,31.856,Australia
+2015,Commercial and services,Electricity,238.087,Australia
+2015,Commercial and services,Renewables,0.794,Australia
+2015,Residential,Coal,0.016,Australia
+2015,Residential,Gas,155.258,Australia
+2015,Residential,Oil,17.557,Australia
+2015,Residential,Electricity,207.76,Australia
+2015,Residential,Renewables,63.682,Australia
+2015,"Lubricants, bitumen, solvents",Coal,,Australia
+2015,"Lubricants, bitumen, solvents",Gas,,Australia
+2015,"Lubricants, bitumen, solvents",Oil,48.825,Australia
+2015,"Lubricants, bitumen, solvents",Electricity,,Australia
+2015,"Lubricants, bitumen, solvents",Renewables,,Australia
+2015,Total final consumption,Coal,111.899,Australia
+2015,Total final consumption,Gas,608.246,Australia
+2015,Total final consumption,Oil,2155.702,Australia
+2015,Total final consumption,Electricity,815.969,Australia
+2015,Total final consumption,Renewables,195.459,Australia
+2016,Agriculture,Coal,,Australia
+2016,Agriculture,Gas,1.136,Australia
+2016,Agriculture,Oil,108.059,Australia
+2016,Agriculture,Electricity,7.101,Australia
+2016,Agriculture,Renewables,,Australia
+2016,Mining,Coal,5.188,Australia
+2016,Mining,Gas,71.303,Australia
+2016,Mining,Oil,223.584,Australia
+2016,Mining,Electricity,115.198,Australia
+2016,Mining,Renewables,0.162,Australia
+2016,"Food, beverage, textiles",Coal,7.444,Australia
+2016,"Food, beverage, textiles",Gas,38.348,Australia
+2016,"Food, beverage, textiles",Oil,5.734,Australia
+2016,"Food, beverage, textiles",Electricity,23.933,Australia
+2016,"Food, beverage, textiles",Renewables,97.365,Australia
+2016,"Wood, paper and printing",Coal,2.926,Australia
+2016,"Wood, paper and printing",Gas,16.948,Australia
+2016,"Wood, paper and printing",Oil,2.714,Australia
+2016,"Wood, paper and printing",Electricity,17.211,Australia
+2016,"Wood, paper and printing",Renewables,30.547,Australia
+2016,Chemical,Coal,6.406,Australia
+2016,Chemical,Gas,66.473,Australia
+2016,Chemical,Oil,50.023,Australia
+2016,Chemical,Electricity,14.524,Australia
+2016,Chemical,Renewables,0.658,Australia
+2016,Iron and steel,Coal,4.776,Australia
+2016,Iron and steel,Gas,8.761,Australia
+2016,Iron and steel,Oil,0.087,Australia
+2016,Iron and steel,Electricity,12.297,Australia
+2016,Iron and steel,Renewables,,Australia
+2016,Non-ferrous metals,Coal,66.631,Australia
+2016,Non-ferrous metals,Gas,126.149,Australia
+2016,Non-ferrous metals,Oil,29.95,Australia
+2016,Non-ferrous metals,Electricity,110.502,Australia
+2016,Non-ferrous metals,Renewables,2.99,Australia
+2016,Other industry,Coal,20.414,Australia
+2016,Other industry,Gas,54.577,Australia
+2016,Other industry,Oil,8.433,Australia
+2016,Other industry,Electricity,23.005,Australia
+2016,Other industry,Renewables,3.048,Australia
+2016,Total Manufacturing,Coal,108.597,Australia
+2016,Total Manufacturing,Gas,311.256,Australia
+2016,Total Manufacturing,Oil,96.941,Australia
+2016,Total Manufacturing,Electricity,201.472,Australia
+2016,Total Manufacturing,Renewables,134.607,Australia
+2016,Water and waste b,Coal,0.402,Australia
+2016,Water and waste b,Gas,1.375,Australia
+2016,Water and waste b,Oil,1.046,Australia
+2016,Water and waste b,Electricity,11.044,Australia
+2016,Water and waste b,Renewables,0.573,Australia
+2016,Construction,Coal,,Australia
+2016,Construction,Gas,2.914,Australia
+2016,Construction,Oil,29.013,Australia
+2016,Construction,Electricity,7.949,Australia
+2016,Construction,Renewables,0.01,Australia
+2016,Road transport,Coal,,Australia
+2016,Road transport,Gas,3.898,Australia
+2016,Road transport,Oil,1194.63,Australia
+2016,Road transport,Electricity,0.046,Australia
+2016,Road transport,Renewables,5.677,Australia
+2016,Rail transport,Coal,0.012,Australia
+2016,Rail transport,Gas,0.026,Australia
+2016,Rail transport,Oil,49.998,Australia
+2016,Rail transport,Electricity,11.692,Australia
+2016,Rail transport,Renewables,0,Australia
+2016,Air transport c,Coal,,Australia
+2016,Air transport c,Gas,,Australia
+2016,Air transport c,Oil,330.741,Australia
+2016,Air transport c,Electricity,,Australia
+2016,Air transport c,Renewables,,Australia
+2016,Water transport d,Coal,0,Australia
+2016,Water transport d,Gas,0.15,Australia
+2016,Water transport d,Oil,61.865,Australia
+2016,Water transport d,Electricity,,Australia
+2016,Water transport d,Renewables,,Australia
+2016,Other transport,Coal,0,Australia
+2016,Other transport,Gas,0.457,Australia
+2016,Other transport,Oil,8.566,Australia
+2016,Other transport,Electricity,9.337,Australia
+2016,Other transport,Renewables,0.002,Australia
+2016,Total Transport,Coal,0.012,Australia
+2016,Total Transport,Gas,4.531,Australia
+2016,Total Transport,Oil,1645.8,Australia
+2016,Total Transport,Electricity,21.075,Australia
+2016,Total Transport,Renewables,5.679,Australia
+2016,Commercial and services,Coal,0.131,Australia
+2016,Commercial and services,Gas,43.454,Australia
+2016,Commercial and services,Oil,33.007,Australia
+2016,Commercial and services,Electricity,237.279,Australia
+2016,Commercial and services,Renewables,0.709,Australia
+2016,Residential,Coal,0.016,Australia
+2016,Residential,Gas,160.756,Australia
+2016,Residential,Oil,15.435,Australia
+2016,Residential,Electricity,213.327,Australia
+2016,Residential,Renewables,64.1,Australia
+2016,"Lubricants, bitumen, solvents",Coal,,Australia
+2016,"Lubricants, bitumen, solvents",Gas,,Australia
+2016,"Lubricants, bitumen, solvents",Oil,46.011,Australia
+2016,"Lubricants, bitumen, solvents",Electricity,,Australia
+2016,"Lubricants, bitumen, solvents",Renewables,,Australia
+2016,Total final consumption,Coal,114.346,Australia
+2016,Total final consumption,Gas,596.725,Australia
+2016,Total final consumption,Oil,2198.894,Australia
+2016,Total final consumption,Electricity,814.444,Australia
+2016,Total final consumption,Renewables,205.84,Australia
+2017,Agriculture,Coal,,Australia
+2017,Agriculture,Gas,1.162,Australia
+2017,Agriculture,Oil,108.772,Australia
+2017,Agriculture,Electricity,7.636,Australia
+2017,Agriculture,Renewables,,Australia
+2017,Mining,Coal,5.303,Australia
+2017,Mining,Gas,78.82,Australia
+2017,Mining,Oil,240.675,Australia
+2017,Mining,Electricity,119.38,Australia
+2017,Mining,Renewables,0.037,Australia
+2017,"Food, beverage, textiles",Coal,6.936,Australia
+2017,"Food, beverage, textiles",Gas,38.969,Australia
+2017,"Food, beverage, textiles",Oil,6.109,Australia
+2017,"Food, beverage, textiles",Electricity,23.352,Australia
+2017,"Food, beverage, textiles",Renewables,86.205,Australia
+2017,"Wood, paper and printing",Coal,2.944,Australia
+2017,"Wood, paper and printing",Gas,18.769,Australia
+2017,"Wood, paper and printing",Oil,2.873,Australia
+2017,"Wood, paper and printing",Electricity,17.496,Australia
+2017,"Wood, paper and printing",Renewables,28.741,Australia
+2017,Chemical,Coal,6.331,Australia
+2017,Chemical,Gas,63.766,Australia
+2017,Chemical,Oil,50.929,Australia
+2017,Chemical,Electricity,14.164,Australia
+2017,Chemical,Renewables,0.669,Australia
+2017,Iron and steel,Coal,5.213,Australia
+2017,Iron and steel,Gas,9.562,Australia
+2017,Iron and steel,Oil,0.877,Australia
+2017,Iron and steel,Electricity,12.852,Australia
+2017,Iron and steel,Renewables,,Australia
+2017,Non-ferrous metals,Coal,66.631,Australia
+2017,Non-ferrous metals,Gas,125.052,Australia
+2017,Non-ferrous metals,Oil,30.444,Australia
+2017,Non-ferrous metals,Electricity,112.628,Australia
+2017,Non-ferrous metals,Renewables,2.13,Australia
+2017,Other industry,Coal,19.726,Australia
+2017,Other industry,Gas,54.082,Australia
+2017,Other industry,Oil,8.85,Australia
+2017,Other industry,Electricity,21.865,Australia
+2017,Other industry,Renewables,3.295,Australia
+2017,Total Manufacturing,Coal,107.782,Australia
+2017,Total Manufacturing,Gas,310.201,Australia
+2017,Total Manufacturing,Oil,100.081,Australia
+2017,Total Manufacturing,Electricity,202.357,Australia
+2017,Total Manufacturing,Renewables,121.04,Australia
+2017,Water and waste b,Coal,0.38,Australia
+2017,Water and waste b,Gas,0.943,Australia
+2017,Water and waste b,Oil,1.468,Australia
+2017,Water and waste b,Electricity,11.881,Australia
+2017,Water and waste b,Renewables,0.483,Australia
+2017,Construction,Coal,,Australia
+2017,Construction,Gas,3.329,Australia
+2017,Construction,Oil,31.747,Australia
+2017,Construction,Electricity,8.34,Australia
+2017,Construction,Renewables,0.002,Australia
+2017,Road transport,Coal,,Australia
+2017,Road transport,Gas,3.626,Australia
+2017,Road transport,Oil,1220.181,Australia
+2017,Road transport,Electricity,0.065,Australia
+2017,Road transport,Renewables,6.148,Australia
+2017,Rail transport,Coal,0,Australia
+2017,Rail transport,Gas,0.047,Australia
+2017,Rail transport,Oil,51.1,Australia
+2017,Rail transport,Electricity,11.643,Australia
+2017,Rail transport,Renewables,0,Australia
+2017,Air transport c,Coal,,Australia
+2017,Air transport c,Gas,,Australia
+2017,Air transport c,Oil,344.903,Australia
+2017,Air transport c,Electricity,,Australia
+2017,Air transport c,Renewables,,Australia
+2017,Water transport d,Coal,0,Australia
+2017,Water transport d,Gas,0.15,Australia
+2017,Water transport d,Oil,62.759,Australia
+2017,Water transport d,Electricity,,Australia
+2017,Water transport d,Renewables,,Australia
+2017,Other transport,Coal,0,Australia
+2017,Other transport,Gas,0.471,Australia
+2017,Other transport,Oil,8.412,Australia
+2017,Other transport,Electricity,9.528,Australia
+2017,Other transport,Renewables,0.003,Australia
+2017,Total Transport,Coal,0,Australia
+2017,Total Transport,Gas,4.293,Australia
+2017,Total Transport,Oil,1687.356,Australia
+2017,Total Transport,Electricity,21.236,Australia
+2017,Total Transport,Renewables,6.151,Australia
+2017,Commercial and services,Coal,0.133,Australia
+2017,Commercial and services,Gas,44.626,Australia
+2017,Commercial and services,Oil,32.831,Australia
+2017,Commercial and services,Electricity,240.894,Australia
+2017,Commercial and services,Renewables,0.736,Australia
+2017,Residential,Coal,0.016,Australia
+2017,Residential,Gas,156.91,Australia
+2017,Residential,Oil,15.537,Australia
+2017,Residential,Electricity,212.103,Australia
+2017,Residential,Renewables,64.436,Australia
+2017,"Lubricants, bitumen, solvents",Coal,,Australia
+2017,"Lubricants, bitumen, solvents",Gas,,Australia
+2017,"Lubricants, bitumen, solvents",Oil,49.912,Australia
+2017,"Lubricants, bitumen, solvents",Electricity,,Australia
+2017,"Lubricants, bitumen, solvents",Renewables,,Australia
+2017,Total final consumption,Coal,113.614,Australia
+2017,Total final consumption,Gas,600.283,Australia
+2017,Total final consumption,Oil,2268.38,Australia
+2017,Total final consumption,Electricity,823.827,Australia
+2017,Total final consumption,Renewables,192.886,Australia
+2018,Agriculture,Coal,,Australia
+2018,Agriculture,Gas,1.346,Australia
+2018,Agriculture,Oil,89.668,Australia
+2018,Agriculture,Electricity,7.828,Australia
+2018,Agriculture,Renewables,,Australia
+2018,Mining,Coal,5.423,Australia
+2018,Mining,Gas,66.141,Australia
+2018,Mining,Oil,263.784,Australia
+2018,Mining,Electricity,125.368,Australia
+2018,Mining,Renewables,0.037,Australia
+2018,"Food, beverage, textiles",Coal,7.409,Australia
+2018,"Food, beverage, textiles",Gas,37.741,Australia
+2018,"Food, beverage, textiles",Oil,6.185,Australia
+2018,"Food, beverage, textiles",Electricity,22.359,Australia
+2018,"Food, beverage, textiles",Renewables,79.674,Australia
+2018,"Wood, paper and printing",Coal,2.766,Australia
+2018,"Wood, paper and printing",Gas,18.341,Australia
+2018,"Wood, paper and printing",Oil,2.696,Australia
+2018,"Wood, paper and printing",Electricity,16.509,Australia
+2018,"Wood, paper and printing",Renewables,26.686,Australia
+2018,Chemical,Coal,6.639,Australia
+2018,Chemical,Gas,62.849,Australia
+2018,Chemical,Oil,51.914,Australia
+2018,Chemical,Electricity,14.06,Australia
+2018,Chemical,Renewables,0.665,Australia
+2018,Iron and steel,Coal,4.703,Australia
+2018,Iron and steel,Gas,9.247,Australia
+2018,Iron and steel,Oil,0.551,Australia
+2018,Iron and steel,Electricity,12.458,Australia
+2018,Iron and steel,Renewables,,Australia
+2018,Non-ferrous metals,Coal,64.52,Australia
+2018,Non-ferrous metals,Gas,123.297,Australia
+2018,Non-ferrous metals,Oil,31.411,Australia
+2018,Non-ferrous metals,Electricity,111.991,Australia
+2018,Non-ferrous metals,Renewables,2.267,Australia
+2018,Other industry,Coal,18.596,Australia
+2018,Other industry,Gas,53.634,Australia
+2018,Other industry,Oil,9.258,Australia
+2018,Other industry,Electricity,21.29,Australia
+2018,Other industry,Renewables,3.83,Australia
+2018,Total Manufacturing,Coal,104.633,Australia
+2018,Total Manufacturing,Gas,305.109,Australia
+2018,Total Manufacturing,Oil,102.016,Australia
+2018,Total Manufacturing,Electricity,198.666,Australia
+2018,Total Manufacturing,Renewables,113.122,Australia
+2018,Water and waste b,Coal,0.462,Australia
+2018,Water and waste b,Gas,1.156,Australia
+2018,Water and waste b,Oil,1.36,Australia
+2018,Water and waste b,Electricity,13.079,Australia
+2018,Water and waste b,Renewables,0.437,Australia
+2018,Construction,Coal,0,Australia
+2018,Construction,Gas,2.835,Australia
+2018,Construction,Oil,31.867,Australia
+2018,Construction,Electricity,8.125,Australia
+2018,Construction,Renewables,0.006,Australia
+2018,Road transport,Coal,,Australia
+2018,Road transport,Gas,3.471,Australia
+2018,Road transport,Oil,1223.872,Australia
+2018,Road transport,Electricity,0.087,Australia
+2018,Road transport,Renewables,6.275,Australia
+2018,Rail transport,Coal,0,Australia
+2018,Rail transport,Gas,0.052,Australia
+2018,Rail transport,Oil,51.121,Australia
+2018,Rail transport,Electricity,11.665,Australia
+2018,Rail transport,Renewables,0,Australia
+2018,Air transport c,Coal,,Australia
+2018,Air transport c,Gas,,Australia
+2018,Air transport c,Oil,349.396,Australia
+2018,Air transport c,Electricity,,Australia
+2018,Air transport c,Renewables,,Australia
+2018,Water transport d,Coal,0,Australia
+2018,Water transport d,Gas,0.159,Australia
+2018,Water transport d,Oil,63.079,Australia
+2018,Water transport d,Electricity,,Australia
+2018,Water transport d,Renewables,,Australia
+2018,Other transport,Coal,0,Australia
+2018,Other transport,Gas,0.476,Australia
+2018,Other transport,Oil,8.862,Australia
+2018,Other transport,Electricity,9.979,Australia
+2018,Other transport,Renewables,0.015,Australia
+2018,Total Transport,Coal,0,Australia
+2018,Total Transport,Gas,4.157,Australia
+2018,Total Transport,Oil,1696.329,Australia
+2018,Total Transport,Electricity,21.731,Australia
+2018,Total Transport,Renewables,6.291,Australia
+2018,Commercial and services,Coal,0.145,Australia
+2018,Commercial and services,Gas,44.527,Australia
+2018,Commercial and services,Oil,28.867,Australia
+2018,Commercial and services,Electricity,236.549,Australia
+2018,Commercial and services,Renewables,0.626,Australia
+2018,Residential,Coal,0,Australia
+2018,Residential,Gas,157.902,Australia
+2018,Residential,Oil,16.023,Australia
+2018,Residential,Electricity,218.346,Australia
+2018,Residential,Renewables,64.731,Australia
+2018,"Lubricants, bitumen, solvents",Coal,,Australia
+2018,"Lubricants, bitumen, solvents",Gas,,Australia
+2018,"Lubricants, bitumen, solvents",Oil,49.199,Australia
+2018,"Lubricants, bitumen, solvents",Electricity,,Australia
+2018,"Lubricants, bitumen, solvents",Renewables,,Australia
+2018,Total final consumption,Coal,110.663,Australia
+2018,Total final consumption,Gas,583.174,Australia
+2018,Total final consumption,Oil,2279.114,Australia
+2018,Total final consumption,Electricity,829.692,Australia
+2018,Total final consumption,Renewables,185.25,Australia
+2019,Agriculture,Coal,,Australia
+2019,Agriculture,Gas,1.171,Australia
+2019,Agriculture,Oil,79.503,Australia
+2019,Agriculture,Electricity,7.32,Australia
+2019,Agriculture,Renewables,,Australia
+2019,Mining,Coal,4.97,Australia
+2019,Mining,Gas,66.062,Australia
+2019,Mining,Oil,276.224,Australia
+2019,Mining,Electricity,128.3,Australia
+2019,Mining,Renewables,0.048,Australia
+2019,"Food, beverage, textiles",Coal,7.073,Australia
+2019,"Food, beverage, textiles",Gas,37.452,Australia
+2019,"Food, beverage, textiles",Oil,5.489,Australia
+2019,"Food, beverage, textiles",Electricity,22.195,Australia
+2019,"Food, beverage, textiles",Renewables,73.933,Australia
+2019,"Wood, paper and printing",Coal,2.693,Australia
+2019,"Wood, paper and printing",Gas,16.813,Australia
+2019,"Wood, paper and printing",Oil,2.652,Australia
+2019,"Wood, paper and printing",Electricity,14.762,Australia
+2019,"Wood, paper and printing",Renewables,26.738,Australia
+2019,Chemical,Coal,6.672,Australia
+2019,Chemical,Gas,64.2,Australia
+2019,Chemical,Oil,51.666,Australia
+2019,Chemical,Electricity,13.801,Australia
+2019,Chemical,Renewables,0.653,Australia
+2019,Iron and steel,Coal,3.416,Australia
+2019,Iron and steel,Gas,9.681,Australia
+2019,Iron and steel,Oil,0.959,Australia
+2019,Iron and steel,Electricity,11.755,Australia
+2019,Iron and steel,Renewables,,Australia
+2019,Non-ferrous metals,Coal,59.344,Australia
+2019,Non-ferrous metals,Gas,127.641,Australia
+2019,Non-ferrous metals,Oil,31.141,Australia
+2019,Non-ferrous metals,Electricity,111.445,Australia
+2019,Non-ferrous metals,Renewables,1.013,Australia
+2019,Other industry,Coal,17.942,Australia
+2019,Other industry,Gas,50.624,Australia
+2019,Other industry,Oil,8.794,Australia
+2019,Other industry,Electricity,20.037,Australia
+2019,Other industry,Renewables,3.411,Australia
+2019,Total Manufacturing,Coal,97.14,Australia
+2019,Total Manufacturing,Gas,306.412,Australia
+2019,Total Manufacturing,Oil,100.702,Australia
+2019,Total Manufacturing,Electricity,193.996,Australia
+2019,Total Manufacturing,Renewables,105.749,Australia
+2019,Water and waste b,Coal,0,Australia
+2019,Water and waste b,Gas,1.587,Australia
+2019,Water and waste b,Oil,1.433,Australia
+2019,Water and waste b,Electricity,16.767,Australia
+2019,Water and waste b,Renewables,0.308,Australia
+2019,Construction,Coal,0,Australia
+2019,Construction,Gas,2.817,Australia
+2019,Construction,Oil,29.613,Australia
+2019,Construction,Electricity,7.991,Australia
+2019,Construction,Renewables,0.013,Australia
+2019,Road transport,Coal,,Australia
+2019,Road transport,Gas,3.273,Australia
+2019,Road transport,Oil,1149.203,Australia
+2019,Road transport,Electricity,0.143,Australia
+2019,Road transport,Renewables,5.484,Australia
+2019,Rail transport,Coal,0,Australia
+2019,Rail transport,Gas,0.054,Australia
+2019,Rail transport,Oil,50.189,Australia
+2019,Rail transport,Electricity,11.775,Australia
+2019,Rail transport,Renewables,0,Australia
+2019,Air transport c,Coal,,Australia
+2019,Air transport c,Gas,,Australia
+2019,Air transport c,Oil,272.578,Australia
+2019,Air transport c,Electricity,,Australia
+2019,Air transport c,Renewables,,Australia
+2019,Water transport d,Coal,0,Australia
+2019,Water transport d,Gas,0.164,Australia
+2019,Water transport d,Oil,60.454,Australia
+2019,Water transport d,Electricity,,Australia
+2019,Water transport d,Renewables,,Australia
+2019,Other transport,Coal,0,Australia
+2019,Other transport,Gas,0.424,Australia
+2019,Other transport,Oil,7.555,Australia
+2019,Other transport,Electricity,10.12,Australia
+2019,Other transport,Renewables,0.054,Australia
+2019,Total Transport,Coal,0,Australia
+2019,Total Transport,Gas,3.914,Australia
+2019,Total Transport,Oil,1539.979,Australia
+2019,Total Transport,Electricity,22.038,Australia
+2019,Total Transport,Renewables,5.537,Australia
+2019,Commercial and services,Coal,0.144,Australia
+2019,Commercial and services,Gas,41.567,Australia
+2019,Commercial and services,Oil,29.15,Australia
+2019,Commercial and services,Electricity,226.536,Australia
+2019,Commercial and services,Renewables,0.61,Australia
+2019,Residential,Coal,0,Australia
+2019,Residential,Gas,167.039,Australia
+2019,Residential,Oil,15.474,Australia
+2019,Residential,Electricity,226.831,Australia
+2019,Residential,Renewables,65.129,Australia
+2019,"Lubricants, bitumen, solvents",Coal,,Australia
+2019,"Lubricants, bitumen, solvents",Gas,,Australia
+2019,"Lubricants, bitumen, solvents",Oil,50.507,Australia
+2019,"Lubricants, bitumen, solvents",Electricity,,Australia
+2019,"Lubricants, bitumen, solvents",Renewables,,Australia
+2019,Total final consumption,Coal,102.254,Australia
+2019,Total final consumption,Gas,590.569,Australia
+2019,Total final consumption,Oil,2122.585,Australia
+2019,Total final consumption,Electricity,829.779,Australia
+2019,Total final consumption,Renewables,177.394,Australia
+2020,Agriculture,Coal,,Australia
+2020,Agriculture,Gas,1.23,Australia
+2020,Agriculture,Oil,110.016,Australia
+2020,Agriculture,Electricity,7.461,Australia
+2020,Agriculture,Renewables,,Australia
+2020,Mining,Coal,3.914,Australia
+2020,Mining,Gas,68.409,Australia
+2020,Mining,Oil,280.738,Australia
+2020,Mining,Electricity,130.736,Australia
+2020,Mining,Renewables,0.053,Australia
+2020,"Food, beverage, textiles",Coal,6.459,Australia
+2020,"Food, beverage, textiles",Gas,37.617,Australia
+2020,"Food, beverage, textiles",Oil,5.7,Australia
+2020,"Food, beverage, textiles",Electricity,22.187,Australia
+2020,"Food, beverage, textiles",Renewables,77.78,Australia
+2020,"Wood, paper and printing",Coal,2.818,Australia
+2020,"Wood, paper and printing",Gas,16.132,Australia
+2020,"Wood, paper and printing",Oil,2.578,Australia
+2020,"Wood, paper and printing",Electricity,14.286,Australia
+2020,"Wood, paper and printing",Renewables,26.752,Australia
+2020,Chemical,Coal,5.857,Australia
+2020,Chemical,Gas,66.475,Australia
+2020,Chemical,Oil,50.985,Australia
+2020,Chemical,Electricity,13.318,Australia
+2020,Chemical,Renewables,0.624,Australia
+2020,Iron and steel,Coal,3.153,Australia
+2020,Iron and steel,Gas,9.968,Australia
+2020,Iron and steel,Oil,1.252,Australia
+2020,Iron and steel,Electricity,11.888,Australia
+2020,Iron and steel,Renewables,,Australia
+2020,Non-ferrous metals,Coal,63.949,Australia
+2020,Non-ferrous metals,Gas,134.57,Australia
+2020,Non-ferrous metals,Oil,31.112,Australia
+2020,Non-ferrous metals,Electricity,112.357,Australia
+2020,Non-ferrous metals,Renewables,1.515,Australia
+2020,Other industry,Coal,17.062,Australia
+2020,Other industry,Gas,50.527,Australia
+2020,Other industry,Oil,8.922,Australia
+2020,Other industry,Electricity,20.03,Australia
+2020,Other industry,Renewables,3.791,Australia
+2020,Total Manufacturing,Coal,99.298,Australia
+2020,Total Manufacturing,Gas,315.289,Australia
+2020,Total Manufacturing,Oil,100.55,Australia
+2020,Total Manufacturing,Electricity,194.067,Australia
+2020,Total Manufacturing,Renewables,110.463,Australia
+2020,Water and waste b,Coal,0,Australia
+2020,Water and waste b,Gas,1.419,Australia
+2020,Water and waste b,Oil,1.333,Australia
+2020,Water and waste b,Electricity,15.387,Australia
+2020,Water and waste b,Renewables,0.785,Australia
+2020,Construction,Coal,0,Australia
+2020,Construction,Gas,2.695,Australia
+2020,Construction,Oil,28.361,Australia
+2020,Construction,Electricity,7.731,Australia
+2020,Construction,Renewables,0.006,Australia
+2020,Road transport,Coal,,Australia
+2020,Road transport,Gas,1.029,Australia
+2020,Road transport,Oil,1135.89,Australia
+2020,Road transport,Electricity,0.24,Australia
+2020,Road transport,Renewables,5.108,Australia
+2020,Rail transport,Coal,0,Australia
+2020,Rail transport,Gas,0.067,Australia
+2020,Rail transport,Oil,52.278,Australia
+2020,Rail transport,Electricity,11.953,Australia
+2020,Rail transport,Renewables,0.002,Australia
+2020,Air transport c,Coal,,Australia
+2020,Air transport c,Gas,,Australia
+2020,Air transport c,Oil,126.539,Australia
+2020,Air transport c,Electricity,,Australia
+2020,Air transport c,Renewables,,Australia
+2020,Water transport d,Coal,0,Australia
+2020,Water transport d,Gas,0,Australia
+2020,Water transport d,Oil,47.446,Australia
+2020,Water transport d,Electricity,,Australia
+2020,Water transport d,Renewables,,Australia
+2020,Other transport,Coal,0,Australia
+2020,Other transport,Gas,0.364,Australia
+2020,Other transport,Oil,9.091,Australia
+2020,Other transport,Electricity,10.258,Australia
+2020,Other transport,Renewables,0.073,Australia
+2020,Total Transport,Coal,0,Australia
+2020,Total Transport,Gas,1.459,Australia
+2020,Total Transport,Oil,1371.244,Australia
+2020,Total Transport,Electricity,22.452,Australia
+2020,Total Transport,Renewables,5.182,Australia
+2020,Commercial and services,Coal,0.154,Australia
+2020,Commercial and services,Gas,43.267,Australia
+2020,Commercial and services,Oil,30.113,Australia
+2020,Commercial and services,Electricity,213.917,Australia
+2020,Commercial and services,Renewables,0.626,Australia
+2020,Residential,Coal,0,Australia
+2020,Residential,Gas,165.754,Australia
+2020,Residential,Oil,15.769,Australia
+2020,Residential,Electricity,235.926,Australia
+2020,Residential,Renewables,66.677,Australia
+2020,"Lubricants, bitumen, solvents",Coal,,Australia
+2020,"Lubricants, bitumen, solvents",Gas,,Australia
+2020,"Lubricants, bitumen, solvents",Oil,45.955,Australia
+2020,"Lubricants, bitumen, solvents",Electricity,,Australia
+2020,"Lubricants, bitumen, solvents",Renewables,,Australia
+2020,Total final consumption,Coal,103.365,Australia
+2020,Total final consumption,Gas,599.522,Australia
+2020,Total final consumption,Oil,1984.079,Australia
+2020,Total final consumption,Electricity,827.677,Australia
+2020,Total final consumption,Renewables,183.791,Australia
+2021,Agriculture,Coal,,Australia
+2021,Agriculture,Gas,1.225,Australia
+2021,Agriculture,Oil,107.012,Australia
+2021,Agriculture,Electricity,6.351,Australia
+2021,Agriculture,Renewables,,Australia
+2021,Mining,Coal,5.629,Australia
+2021,Mining,Gas,66.679,Australia
+2021,Mining,Oil,282.816,Australia
+2021,Mining,Electricity,131.628,Australia
+2021,Mining,Renewables,0.012,Australia
+2021,"Food, beverage, textiles",Coal,6.319,Australia
+2021,"Food, beverage, textiles",Gas,37.833,Australia
+2021,"Food, beverage, textiles",Oil,6.08,Australia
+2021,"Food, beverage, textiles",Electricity,22.928,Australia
+2021,"Food, beverage, textiles",Renewables,75.625,Australia
+2021,"Wood, paper and printing",Coal,3.073,Australia
+2021,"Wood, paper and printing",Gas,16.329,Australia
+2021,"Wood, paper and printing",Oil,2.698,Australia
+2021,"Wood, paper and printing",Electricity,14.422,Australia
+2021,"Wood, paper and printing",Renewables,27.479,Australia
+2021,Chemical,Coal,6.795,Australia
+2021,Chemical,Gas,61.793,Australia
+2021,Chemical,Oil,47.645,Australia
+2021,Chemical,Electricity,13.239,Australia
+2021,Chemical,Renewables,0.583,Australia
+2021,Iron and steel,Coal,3.818,Australia
+2021,Iron and steel,Gas,10.384,Australia
+2021,Iron and steel,Oil,1.945,Australia
+2021,Iron and steel,Electricity,12.398,Australia
+2021,Iron and steel,Renewables,,Australia
+2021,Non-ferrous metals,Coal,60.29,Australia
+2021,Non-ferrous metals,Gas,130.582,Australia
+2021,Non-ferrous metals,Oil,30.867,Australia
+2021,Non-ferrous metals,Electricity,110.452,Australia
+2021,Non-ferrous metals,Renewables,1.729,Australia
+2021,Other industry,Coal,18.249,Australia
+2021,Other industry,Gas,49.408,Australia
+2021,Other industry,Oil,9.002,Australia
+2021,Other industry,Electricity,20.567,Australia
+2021,Other industry,Renewables,4.229,Australia
+2021,Total Manufacturing,Coal,98.542,Australia
+2021,Total Manufacturing,Gas,306.33,Australia
+2021,Total Manufacturing,Oil,98.236,Australia
+2021,Total Manufacturing,Electricity,194.008,Australia
+2021,Total Manufacturing,Renewables,109.646,Australia
+2021,Water and waste b,Coal,0,Australia
+2021,Water and waste b,Gas,1.184,Australia
+2021,Water and waste b,Oil,1.356,Australia
+2021,Water and waste b,Electricity,14.435,Australia
+2021,Water and waste b,Renewables,0.87,Australia
+2021,Construction,Coal,0,Australia
+2021,Construction,Gas,2.684,Australia
+2021,Construction,Oil,27.039,Australia
+2021,Construction,Electricity,7.346,Australia
+2021,Construction,Renewables,0.143,Australia
+2021,Road transport,Coal,,Australia
+2021,Road transport,Gas,0.893,Australia
+2021,Road transport,Oil,1110.951,Australia
+2021,Road transport,Electricity,0.454,Australia
+2021,Road transport,Renewables,4.955,Australia
+2021,Rail transport,Coal,0,Australia
+2021,Rail transport,Gas,0.047,Australia
+2021,Rail transport,Oil,51.703,Australia
+2021,Rail transport,Electricity,11.787,Australia
+2021,Rail transport,Renewables,0,Australia
+2021,Air transport c,Coal,,Australia
+2021,Air transport c,Gas,,Australia
+2021,Air transport c,Oil,168.044,Australia
+2021,Air transport c,Electricity,,Australia
+2021,Air transport c,Renewables,,Australia
+2021,Water transport d,Coal,,Australia
+2021,Water transport d,Gas,,Australia
+2021,Water transport d,Oil,58.012,Australia
+2021,Water transport d,Electricity,,Australia
+2021,Water transport d,Renewables,,Australia
+2021,Other transport,Coal,,Australia
+2021,Other transport,Gas,0.929,Australia
+2021,Other transport,Oil,10.318,Australia
+2021,Other transport,Electricity,11.012,Australia
+2021,Other transport,Renewables,0,Australia
+2021,Total Transport,Coal,0,Australia
+2021,Total Transport,Gas,1.869,Australia
+2021,Total Transport,Oil,1399.028,Australia
+2021,Total Transport,Electricity,23.253,Australia
+2021,Total Transport,Renewables,4.956,Australia
+2021,Commercial and services,Coal,0.149,Australia
+2021,Commercial and services,Gas,46.869,Australia
+2021,Commercial and services,Oil,30.89,Australia
+2021,Commercial and services,Electricity,217.443,Australia
+2021,Commercial and services,Renewables,0.741,Australia
+2021,Residential,Coal,0,Australia
+2021,Residential,Gas,164.363,Australia
+2021,Residential,Oil,15.511,Australia
+2021,Residential,Electricity,249.449,Australia
+2021,Residential,Renewables,68.014,Australia
+2021,"Lubricants, bitumen, solvents",Coal,,Australia
+2021,"Lubricants, bitumen, solvents",Gas,,Australia
+2021,"Lubricants, bitumen, solvents",Oil,45.518,Australia
+2021,"Lubricants, bitumen, solvents",Electricity,,Australia
+2021,"Lubricants, bitumen, solvents",Renewables,,Australia
+2021,Total final consumption,Coal,104.32,Australia
+2021,Total final consumption,Gas,591.202,Australia
+2021,Total final consumption,Oil,2007.407,Australia
+2021,Total final consumption,Electricity,843.912,Australia
+2021,Total final consumption,Renewables,184.382,Australia
+2022,Agriculture,Coal,,Australia
+2022,Agriculture,Gas,2.109,Australia
+2022,Agriculture,Oil,96.457,Australia
+2022,Agriculture,Electricity,7.293,Australia
+2022,Agriculture,Renewables,,Australia
+2022,Mining,Coal,8.11,Australia
+2022,Mining,Gas,64.819,Australia
+2022,Mining,Oil,304.997,Australia
+2022,Mining,Electricity,136.198,Australia
+2022,Mining,Renewables,0.022,Australia
+2022,"Food, beverage, textiles",Coal,5.179,Australia
+2022,"Food, beverage, textiles",Gas,38.5,Australia
+2022,"Food, beverage, textiles",Oil,6.268,Australia
+2022,"Food, beverage, textiles",Electricity,23.437,Australia
+2022,"Food, beverage, textiles",Renewables,84.86,Australia
+2022,"Wood, paper and printing",Coal,2.876,Australia
+2022,"Wood, paper and printing",Gas,16.042,Australia
+2022,"Wood, paper and printing",Oil,2.688,Australia
+2022,"Wood, paper and printing",Electricity,14.049,Australia
+2022,"Wood, paper and printing",Renewables,24.149,Australia
+2022,Chemical,Coal,4.805,Australia
+2022,Chemical,Gas,52.028,Australia
+2022,Chemical,Oil,44.78,Australia
+2022,Chemical,Electricity,12.502,Australia
+2022,Chemical,Renewables,0.592,Australia
+2022,Iron and steel,Coal,3.736,Australia
+2022,Iron and steel,Gas,10.086,Australia
+2022,Iron and steel,Oil,0.664,Australia
+2022,Iron and steel,Electricity,12.348,Australia
+2022,Iron and steel,Renewables,,Australia
+2022,Non-ferrous metals,Coal,59.589,Australia
+2022,Non-ferrous metals,Gas,125.622,Australia
+2022,Non-ferrous metals,Oil,31.314,Australia
+2022,Non-ferrous metals,Electricity,110.941,Australia
+2022,Non-ferrous metals,Renewables,1.606,Australia
+2022,Other industry,Coal,15.185,Australia
+2022,Other industry,Gas,49.445,Australia
+2022,Other industry,Oil,9.258,Australia
+2022,Other industry,Electricity,19.854,Australia
+2022,Other industry,Renewables,4.328,Australia
+2022,Total Manufacturing,Coal,91.37,Australia
+2022,Total Manufacturing,Gas,291.723,Australia
+2022,Total Manufacturing,Oil,94.972,Australia
+2022,Total Manufacturing,Electricity,193.13,Australia
+2022,Total Manufacturing,Renewables,115.536,Australia
+2022,Water and waste b,Coal,0,Australia
+2022,Water and waste b,Gas,1.677,Australia
+2022,Water and waste b,Oil,1.421,Australia
+2022,Water and waste b,Electricity,12.777,Australia
+2022,Water and waste b,Renewables,0.808,Australia
+2022,Construction,Coal,0,Australia
+2022,Construction,Gas,2.74,Australia
+2022,Construction,Oil,26.664,Australia
+2022,Construction,Electricity,7.208,Australia
+2022,Construction,Renewables,0.028,Australia
+2022,Road transport,Coal,,Australia
+2022,Road transport,Gas,0.808,Australia
+2022,Road transport,Oil,1167.709,Australia
+2022,Road transport,Electricity,0.793,Australia
+2022,Road transport,Renewables,5.148,Australia
+2022,Rail transport,Coal,,Australia
+2022,Rail transport,Gas,0.037,Australia
+2022,Rail transport,Oil,51.885,Australia
+2022,Rail transport,Electricity,12.189,Australia
+2022,Rail transport,Renewables,0,Australia
+2022,Air transport c,Coal,,Australia
+2022,Air transport c,Gas,,Australia
+2022,Air transport c,Oil,277.544,Australia
+2022,Air transport c,Electricity,,Australia
+2022,Air transport c,Renewables,,Australia
+2022,Water transport d,Coal,,Australia
+2022,Water transport d,Gas,,Australia
+2022,Water transport d,Oil,65.072,Australia
+2022,Water transport d,Electricity,,Australia
+2022,Water transport d,Renewables,,Australia
+2022,Other transport,Coal,,Australia
+2022,Other transport,Gas,0.931,Australia
+2022,Other transport,Oil,10.68,Australia
+2022,Other transport,Electricity,10.848,Australia
+2022,Other transport,Renewables,0,Australia
+2022,Total Transport,Coal,,Australia
+2022,Total Transport,Gas,1.776,Australia
+2022,Total Transport,Oil,1572.89,Australia
+2022,Total Transport,Electricity,23.83,Australia
+2022,Total Transport,Renewables,5.148,Australia
+2022,Commercial and services,Coal,0.151,Australia
+2022,Commercial and services,Gas,49.132,Australia
+2022,Commercial and services,Oil,32.428,Australia
+2022,Commercial and services,Electricity,225.584,Australia
+2022,Commercial and services,Renewables,0.817,Australia
+2022,Residential,Coal,0,Australia
+2022,Residential,Gas,147.069,Australia
+2022,Residential,Oil,15.762,Australia
+2022,Residential,Electricity,249.845,Australia
+2022,Residential,Renewables,71.493,Australia
+2022,"Lubricants, bitumen, solvents",Coal,,Australia
+2022,"Lubricants, bitumen, solvents",Gas,,Australia
+2022,"Lubricants, bitumen, solvents",Oil,44.451,Australia
+2022,"Lubricants, bitumen, solvents",Electricity,,Australia
+2022,"Lubricants, bitumen, solvents",Renewables,,Australia
+2022,Total final consumption,Coal,99.631,Australia
+2022,Total final consumption,Gas,561.046,Australia
+2022,Total final consumption,Oil,2190.041,Australia
+2022,Total final consumption,Electricity,855.866,Australia
+2022,Total final consumption,Renewables,193.851,Australia

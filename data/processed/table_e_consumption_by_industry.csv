@@ -1,0 +1,4313 @@
+year,industry,energy,unit,state
+1974,agriculture_pj,39.4,38.7,Australia
+1975,agriculture_pj,39.9,38.7,Australia
+1976,agriculture_pj,41.2,38.7,Australia
+1977,agriculture_pj,43.3,38.7,Australia
+1978,agriculture_pj,44.9,38.7,Australia
+1979,agriculture_pj,47.1,38.7,Australia
+1980,agriculture_pj,48.8,38.7,Australia
+1981,agriculture_pj,53.4,38.7,Australia
+1982,agriculture_pj,49.7,38.7,Australia
+1983,agriculture_pj,55.7,38.7,Australia
+1984,agriculture_pj,54.7,38.7,Australia
+1985,agriculture_pj,54,38.7,Australia
+1986,agriculture_pj,56.4,38.7,Australia
+1987,agriculture_pj,55.4,38.7,Australia
+1988,agriculture_pj,58.5,38.7,Australia
+1989,agriculture_pj,55.1,38.7,Australia
+1990,agriculture_pj,55.8,38.7,Australia
+1991,agriculture_pj,57,38.7,Australia
+1992,agriculture_pj,59.1,38.7,Australia
+1993,agriculture_pj,60.9,38.7,Australia
+1994,agriculture_pj,63,38.7,Australia
+1995,agriculture_pj,63.2,38.7,Australia
+1996,agriculture_pj,65.7,38.7,Australia
+1997,agriculture_pj,67.7,38.7,Australia
+1998,agriculture_pj,69.4,38.7,Australia
+1999,agriculture_pj,71.5,38.7,Australia
+2000,agriculture_pj,85.5,38.7,Australia
+2001,agriculture_pj,86.2,38.7,Australia
+2002,agriculture_pj,97.744,38.7,Australia
+2003,agriculture_pj,97.635,38.7,Australia
+2004,agriculture_pj,101.452,38.7,Australia
+2005,agriculture_pj,96.902,38.7,Australia
+2006,agriculture_pj,94.153,38.7,Australia
+2007,agriculture_pj,94.972,38.7,Australia
+2008,agriculture_pj,93.857,38.7,Australia
+2009,agriculture_pj,96.107,38.7,Australia
+2010,agriculture_pj,96.178,38.7,Australia
+2011,agriculture_pj,98.189,38.7,Australia
+2012,agriculture_pj,99.321,38.7,Australia
+2013,agriculture_pj,99.628,38.7,Australia
+2014,agriculture_pj,104.54,38.7,Australia
+2015,agriculture_pj,109.756,38.7,Australia
+2016,agriculture_pj,116.296,38.7,Australia
+2017,agriculture_pj,117.57,38.7,Australia
+2018,agriculture_pj,98.842,38.7,Australia
+2019,agriculture_pj,87.993,38.7,Australia
+2020,agriculture_pj,118.707,38.7,Australia
+2021,agriculture_pj,114.588,38.7,Australia
+2022,agriculture_pj,105.859,38.7,Australia
+1974,mining_pj,64.8,59.4,Australia
+1975,mining_pj,67.3,59.4,Australia
+1976,mining_pj,73.8,59.4,Australia
+1977,mining_pj,73,59.4,Australia
+1978,mining_pj,76.5,59.4,Australia
+1979,mining_pj,80.8,59.4,Australia
+1980,mining_pj,71.2,59.4,Australia
+1981,mining_pj,71.3,59.4,Australia
+1982,mining_pj,75.1,59.4,Australia
+1983,mining_pj,83.2,59.4,Australia
+1984,mining_pj,96.9,59.4,Australia
+1985,mining_pj,97.9,59.4,Australia
+1986,mining_pj,105,59.4,Australia
+1987,mining_pj,116.7,59.4,Australia
+1988,mining_pj,129.3,59.4,Australia
+1989,mining_pj,159.9,59.4,Australia
+1990,mining_pj,164.6,59.4,Australia
+1991,mining_pj,176.2,59.4,Australia
+1992,mining_pj,189.3,59.4,Australia
+1993,mining_pj,194.6,59.4,Australia
+1994,mining_pj,213.1,59.4,Australia
+1995,mining_pj,237.6,59.4,Australia
+1996,mining_pj,247.9,59.4,Australia
+1997,mining_pj,261.5,59.4,Australia
+1998,mining_pj,260.7,59.4,Australia
+1999,mining_pj,272.5,59.4,Australia
+2000,mining_pj,253.9,59.4,Australia
+2001,mining_pj,268.8,59.4,Australia
+2002,mining_pj,258.324,59.4,Australia
+2003,mining_pj,268.454,59.4,Australia
+2004,mining_pj,290.229,59.4,Australia
+2005,mining_pj,307.87,59.4,Australia
+2006,mining_pj,327.328,59.4,Australia
+2007,mining_pj,334.777,59.4,Australia
+2008,mining_pj,369.43,59.4,Australia
+2009,mining_pj,372.312,59.4,Australia
+2010,mining_pj,407.472,59.4,Australia
+2011,mining_pj,448.09,59.4,Australia
+2012,mining_pj,500.918,59.4,Australia
+2013,mining_pj,529.486,59.4,Australia
+2014,mining_pj,521.228,59.4,Australia
+2015,mining_pj,575.617,59.4,Australia
+2016,mining_pj,666.338,59.4,Australia
+2017,mining_pj,729.741,59.4,Australia
+2018,mining_pj,812.435,59.4,Australia
+2019,mining_pj,853.565,59.4,Australia
+2020,mining_pj,850.352,59.4,Australia
+2021,mining_pj,865.893,59.4,Australia
+2022,mining_pj,883.072,59.4,Australia
+1974,manufacturing_pj,927.6,918,Australia
+1975,manufacturing_pj,925.9,918,Australia
+1976,manufacturing_pj,943.1,918,Australia
+1977,manufacturing_pj,952.9,918,Australia
+1978,manufacturing_pj,955.1,918,Australia
+1979,manufacturing_pj,965.2,918,Australia
+1980,manufacturing_pj,946,918,Australia
+1981,manufacturing_pj,939.5,918,Australia
+1982,manufacturing_pj,852.7,918,Australia
+1983,manufacturing_pj,887.8,918,Australia
+1984,manufacturing_pj,934.3,918,Australia
+1985,manufacturing_pj,939.6,918,Australia
+1986,manufacturing_pj,966,918,Australia
+1987,manufacturing_pj,988.3,918,Australia
+1988,manufacturing_pj,1041,918,Australia
+1989,manufacturing_pj,1067.4,918,Australia
+1990,manufacturing_pj,1073.9,918,Australia
+1991,manufacturing_pj,1033.9,918,Australia
+1992,manufacturing_pj,1066.6,918,Australia
+1993,manufacturing_pj,1109,918,Australia
+1994,manufacturing_pj,1132.4,918,Australia
+1995,manufacturing_pj,1135.4,918,Australia
+1996,manufacturing_pj,1155,918,Australia
+1997,manufacturing_pj,1179.3,918,Australia
+1998,manufacturing_pj,1192.9,918,Australia
+1999,manufacturing_pj,1191.9,918,Australia
+2000,manufacturing_pj,1188.3,918,Australia
+2001,manufacturing_pj,1207.4,918,Australia
+2002,manufacturing_pj,1174.991,918,Australia
+2003,manufacturing_pj,1136.581,918,Australia
+2004,manufacturing_pj,1163.688,918,Australia
+2005,manufacturing_pj,1231.36,918,Australia
+2006,manufacturing_pj,1258.667,918,Australia
+2007,manufacturing_pj,1207.474,918,Australia
+2008,manufacturing_pj,1171.426,918,Australia
+2009,manufacturing_pj,1259.843,918,Australia
+2010,manufacturing_pj,1330.597,918,Australia
+2011,manufacturing_pj,1214.905,918,Australia
+2012,manufacturing_pj,1278.904,918,Australia
+2013,manufacturing_pj,1247.058,918,Australia
+2014,manufacturing_pj,1126.112,918,Australia
+2015,manufacturing_pj,1122.94,918,Australia
+2016,manufacturing_pj,1092.644,918,Australia
+2017,manufacturing_pj,1101.804,918,Australia
+2018,manufacturing_pj,1080.952,918,Australia
+2019,manufacturing_pj,1054.984,918,Australia
+2020,manufacturing_pj,1042.927,918,Australia
+2021,manufacturing_pj,1028.856,918,Australia
+2022,manufacturing_pj,996.298,918,Australia
+1974,electricity_generation_pj,540.4,509.6,Australia
+1975,electricity_generation_pj,559.9,509.6,Australia
+1976,electricity_generation_pj,634.3,509.6,Australia
+1977,electricity_generation_pj,662.6,509.6,Australia
+1978,electricity_generation_pj,691.6,509.6,Australia
+1979,electricity_generation_pj,743.3,509.6,Australia
+1980,electricity_generation_pj,778.2,509.6,Australia
+1981,electricity_generation_pj,845.3,509.6,Australia
+1982,electricity_generation_pj,829.7,509.6,Australia
+1983,electricity_generation_pj,846.6,509.6,Australia
+1984,electricity_generation_pj,900.9,509.6,Australia
+1985,electricity_generation_pj,896.2,509.6,Australia
+1986,electricity_generation_pj,939.5,509.6,Australia
+1987,electricity_generation_pj,962.5,509.6,Australia
+1988,electricity_generation_pj,1047.6,509.6,Australia
+1989,electricity_generation_pj,1066,509.6,Australia
+1990,electricity_generation_pj,1065,509.6,Australia
+1991,electricity_generation_pj,1092.9,509.6,Australia
+1992,electricity_generation_pj,1096.4,509.6,Australia
+1993,electricity_generation_pj,1109.6,509.6,Australia
+1994,electricity_generation_pj,1162.6,509.6,Australia
+1995,electricity_generation_pj,1211.8,509.6,Australia
+1996,electricity_generation_pj,1244.1,509.6,Australia
+1997,electricity_generation_pj,1347.3,509.6,Australia
+1998,electricity_generation_pj,1415.6,509.6,Australia
+1999,electricity_generation_pj,1427.4,509.6,Australia
+2000,electricity_generation_pj,1507.9,509.6,Australia
+2001,electricity_generation_pj,1542.9,509.6,Australia
+2002,electricity_generation_pj,1566.704,509.6,Australia
+2003,electricity_generation_pj,1664.844,509.6,Australia
+2004,electricity_generation_pj,1706.422,509.6,Australia
+2005,electricity_generation_pj,1730.651,509.6,Australia
+2006,electricity_generation_pj,1807.799,509.6,Australia
+2007,electricity_generation_pj,1823.947,509.6,Australia
+2008,electricity_generation_pj,1913.916,509.6,Australia
+2009,electricity_generation_pj,1755.198,509.6,Australia
+2010,electricity_generation_pj,1682.641,509.6,Australia
+2011,electricity_generation_pj,1726.34,509.6,Australia
+2012,electricity_generation_pj,1600.091,509.6,Australia
+2013,electricity_generation_pj,1564.843,509.6,Australia
+2014,electricity_generation_pj,1650.436,509.6,Australia
+2015,electricity_generation_pj,1697.748,509.6,Australia
+2016,electricity_generation_pj,1662.634,509.6,Australia
+2017,electricity_generation_pj,1601.68,509.6,Australia
+2018,electricity_generation_pj,1566.394,509.6,Australia
+2019,electricity_generation_pj,1523.152,509.6,Australia
+2020,electricity_generation_pj,1454.983,509.6,Australia
+2021,electricity_generation_pj,1405.902,509.6,Australia
+2022,electricity_generation_pj,1378.274,509.6,Australia
+1974,construction_pj,29,25.9,Australia
+1975,construction_pj,28.9,25.9,Australia
+1976,construction_pj,35.8,25.9,Australia
+1977,construction_pj,35.3,25.9,Australia
+1978,construction_pj,37.7,25.9,Australia
+1979,construction_pj,38.3,25.9,Australia
+1980,construction_pj,37.6,25.9,Australia
+1981,construction_pj,39,25.9,Australia
+1982,construction_pj,34.9,25.9,Australia
+1983,construction_pj,33.3,25.9,Australia
+1984,construction_pj,31.2,25.9,Australia
+1985,construction_pj,34.7,25.9,Australia
+1986,construction_pj,34.9,25.9,Australia
+1987,construction_pj,39.4,25.9,Australia
+1988,construction_pj,41.5,25.9,Australia
+1989,construction_pj,41,25.9,Australia
+1990,construction_pj,37.2,25.9,Australia
+1991,construction_pj,35.9,25.9,Australia
+1992,construction_pj,34.6,25.9,Australia
+1993,construction_pj,33.4,25.9,Australia
+1994,construction_pj,32.3,25.9,Australia
+1995,construction_pj,31.1,25.9,Australia
+1996,construction_pj,30,25.9,Australia
+1997,construction_pj,30.3,25.9,Australia
+1998,construction_pj,29.5,25.9,Australia
+1999,construction_pj,28.6,25.9,Australia
+2000,construction_pj,28.2,25.9,Australia
+2001,construction_pj,28.4,25.9,Australia
+2002,construction_pj,27.706,25.9,Australia
+2003,construction_pj,27.388,25.9,Australia
+2004,construction_pj,27.838,25.9,Australia
+2005,construction_pj,26.334,25.9,Australia
+2006,construction_pj,26.346,25.9,Australia
+2007,construction_pj,26.353,25.9,Australia
+2008,construction_pj,32.524,25.9,Australia
+2009,construction_pj,32.612,25.9,Australia
+2010,construction_pj,32.518,25.9,Australia
+2011,construction_pj,31.527,25.9,Australia
+2012,construction_pj,31.408,25.9,Australia
+2013,construction_pj,31.453,25.9,Australia
+2014,construction_pj,36.596,25.9,Australia
+2015,construction_pj,39.305,25.9,Australia
+2016,construction_pj,39.885,25.9,Australia
+2017,construction_pj,43.419,25.9,Australia
+2018,construction_pj,42.834,25.9,Australia
+2019,construction_pj,40.433,25.9,Australia
+2020,construction_pj,38.793,25.9,Australia
+2021,construction_pj,37.212,25.9,Australia
+2022,construction_pj,36.64,25.9,Australia
+1974,transport_pj,701,685.4,Australia
+1975,transport_pj,715,685.4,Australia
+1976,transport_pj,761.9,685.4,Australia
+1977,transport_pj,798.7,685.4,Australia
+1978,transport_pj,812.9,685.4,Australia
+1979,transport_pj,824.6,685.4,Australia
+1980,transport_pj,835.2,685.4,Australia
+1981,transport_pj,843.8,685.4,Australia
+1982,transport_pj,837,685.4,Australia
+1983,transport_pj,864.1,685.4,Australia
+1984,transport_pj,892.1,685.4,Australia
+1985,transport_pj,906.3,685.4,Australia
+1986,transport_pj,922.1,685.4,Australia
+1987,transport_pj,966,685.4,Australia
+1988,transport_pj,1004.9,685.4,Australia
+1989,transport_pj,1012.4,685.4,Australia
+1990,transport_pj,1003,685.4,Australia
+1991,transport_pj,1024.3,685.4,Australia
+1992,transport_pj,1049.6,685.4,Australia
+1993,transport_pj,1081,685.4,Australia
+1994,transport_pj,1139.3,685.4,Australia
+1995,transport_pj,1181.5,685.4,Australia
+1996,transport_pj,1203,685.4,Australia
+1997,transport_pj,1210.2,685.4,Australia
+1998,transport_pj,1228.5,685.4,Australia
+1999,transport_pj,1266.6,685.4,Australia
+2000,transport_pj,1249.1,685.4,Australia
+2001,transport_pj,1261.1,685.4,Australia
+2002,transport_pj,1265.905,685.4,Australia
+2003,transport_pj,1327.831,685.4,Australia
+2004,transport_pj,1358.051,685.4,Australia
+2005,transport_pj,1388.188,685.4,Australia
+2006,transport_pj,1425.686,685.4,Australia
+2007,transport_pj,1458.023,685.4,Australia
+2008,transport_pj,1460.139,685.4,Australia
+2009,transport_pj,1490.826,685.4,Australia
+2010,transport_pj,1524.388,685.4,Australia
+2011,transport_pj,1547.647,685.4,Australia
+2012,transport_pj,1574.03,685.4,Australia
+2013,transport_pj,1592.195,685.4,Australia
+2014,transport_pj,1623.255,685.4,Australia
+2015,transport_pj,1654.861,685.4,Australia
+2016,transport_pj,1690.063,685.4,Australia
+2017,transport_pj,1734.086,685.4,Australia
+2018,transport_pj,1746.578,685.4,Australia
+2019,transport_pj,1589.945,685.4,Australia
+2020,transport_pj,1418.279,685.4,Australia
+2021,transport_pj,1447.826,685.4,Australia
+2022,transport_pj,1622.125,685.4,Australia
+1974,water_and_waste_b_pj,4.4,4.5,Australia
+1975,water_and_waste_b_pj,4.8,4.5,Australia
+1976,water_and_waste_b_pj,5.5,4.5,Australia
+1977,water_and_waste_b_pj,6,4.5,Australia
+1978,water_and_waste_b_pj,5.1,4.5,Australia
+1979,water_and_waste_b_pj,5,4.5,Australia
+1980,water_and_waste_b_pj,5.3,4.5,Australia
+1981,water_and_waste_b_pj,4.9,4.5,Australia
+1982,water_and_waste_b_pj,5.7,4.5,Australia
+1983,water_and_waste_b_pj,5,4.5,Australia
+1984,water_and_waste_b_pj,5.2,4.5,Australia
+1985,water_and_waste_b_pj,5.5,4.5,Australia
+1986,water_and_waste_b_pj,4.9,4.5,Australia
+1987,water_and_waste_b_pj,5.2,4.5,Australia
+1988,water_and_waste_b_pj,5.4,4.5,Australia
+1989,water_and_waste_b_pj,5.4,4.5,Australia
+1990,water_and_waste_b_pj,5.7,4.5,Australia
+1991,water_and_waste_b_pj,5.7,4.5,Australia
+1992,water_and_waste_b_pj,5.5,4.5,Australia
+1993,water_and_waste_b_pj,6,4.5,Australia
+1994,water_and_waste_b_pj,6.3,4.5,Australia
+1995,water_and_waste_b_pj,6.1,4.5,Australia
+1996,water_and_waste_b_pj,6.2,4.5,Australia
+1997,water_and_waste_b_pj,6.5,4.5,Australia
+1998,water_and_waste_b_pj,6.9,4.5,Australia
+1999,water_and_waste_b_pj,7.2,4.5,Australia
+2000,water_and_waste_b_pj,8.8,4.5,Australia
+2001,water_and_waste_b_pj,9,4.5,Australia
+2002,water_and_waste_b_pj,9.751,4.5,Australia
+2003,water_and_waste_b_pj,10.381,4.5,Australia
+2004,water_and_waste_b_pj,10.402,4.5,Australia
+2005,water_and_waste_b_pj,11.034,4.5,Australia
+2006,water_and_waste_b_pj,11.528,4.5,Australia
+2007,water_and_waste_b_pj,13.422,4.5,Australia
+2008,water_and_waste_b_pj,13.609,4.5,Australia
+2009,water_and_waste_b_pj,12.897,4.5,Australia
+2010,water_and_waste_b_pj,13.114,4.5,Australia
+2011,water_and_waste_b_pj,15.548,4.5,Australia
+2012,water_and_waste_b_pj,13.014,4.5,Australia
+2013,water_and_waste_b_pj,14.464,4.5,Australia
+2014,water_and_waste_b_pj,14.214,4.5,Australia
+2015,water_and_waste_b_pj,14.471,4.5,Australia
+2016,water_and_waste_b_pj,14.441,4.5,Australia
+2017,water_and_waste_b_pj,15.155,4.5,Australia
+2018,water_and_waste_b_pj,16.493,4.5,Australia
+2019,water_and_waste_b_pj,20.096,4.5,Australia
+2020,water_and_waste_b_pj,18.925,4.5,Australia
+2021,water_and_waste_b_pj,17.845,4.5,Australia
+2022,water_and_waste_b_pj,16.682,4.5,Australia
+1974,commercial_and_services_c_pj,82.9,80,Australia
+1975,commercial_and_services_c_pj,84.8,80,Australia
+1976,commercial_and_services_c_pj,88.4,80,Australia
+1977,commercial_and_services_c_pj,90.2,80,Australia
+1978,commercial_and_services_c_pj,95.2,80,Australia
+1979,commercial_and_services_c_pj,99.4,80,Australia
+1980,commercial_and_services_c_pj,101.3,80,Australia
+1981,commercial_and_services_c_pj,104.7,80,Australia
+1982,commercial_and_services_c_pj,104.5,80,Australia
+1983,commercial_and_services_c_pj,105.6,80,Australia
+1984,commercial_and_services_c_pj,109.9,80,Australia
+1985,commercial_and_services_c_pj,116.1,80,Australia
+1986,commercial_and_services_c_pj,122.9,80,Australia
+1987,commercial_and_services_c_pj,129.4,80,Australia
+1988,commercial_and_services_c_pj,136.7,80,Australia
+1989,commercial_and_services_c_pj,145.5,80,Australia
+1990,commercial_and_services_c_pj,151.1,80,Australia
+1991,commercial_and_services_c_pj,154.2,80,Australia
+1992,commercial_and_services_c_pj,158.8,80,Australia
+1993,commercial_and_services_c_pj,162.3,80,Australia
+1994,commercial_and_services_c_pj,172.9,80,Australia
+1995,commercial_and_services_c_pj,183.6,80,Australia
+1996,commercial_and_services_c_pj,189.6,80,Australia
+1997,commercial_and_services_c_pj,198.4,80,Australia
+1998,commercial_and_services_c_pj,204.7,80,Australia
+1999,commercial_and_services_c_pj,211.3,80,Australia
+2000,commercial_and_services_c_pj,214.5,80,Australia
+2001,commercial_and_services_c_pj,221.9,80,Australia
+2002,commercial_and_services_c_pj,250.722,80,Australia
+2003,commercial_and_services_c_pj,255.899,80,Australia
+2004,commercial_and_services_c_pj,256.422,80,Australia
+2005,commercial_and_services_c_pj,259.377,80,Australia
+2006,commercial_and_services_c_pj,272.618,80,Australia
+2007,commercial_and_services_c_pj,274.469,80,Australia
+2008,commercial_and_services_c_pj,278.677,80,Australia
+2009,commercial_and_services_c_pj,284.444,80,Australia
+2010,commercial_and_services_c_pj,291.261,80,Australia
+2011,commercial_and_services_c_pj,286.671,80,Australia
+2012,commercial_and_services_c_pj,296.085,80,Australia
+2013,commercial_and_services_c_pj,291.452,80,Australia
+2014,commercial_and_services_c_pj,319.762,80,Australia
+2015,commercial_and_services_c_pj,314.066,80,Australia
+2016,commercial_and_services_c_pj,314.578,80,Australia
+2017,commercial_and_services_c_pj,319.22,80,Australia
+2018,commercial_and_services_c_pj,310.714,80,Australia
+2019,commercial_and_services_c_pj,298.007,80,Australia
+2020,commercial_and_services_c_pj,288.077,80,Australia
+2021,commercial_and_services_c_pj,296.092,80,Australia
+2022,commercial_and_services_c_pj,308.112,80,Australia
+1974,residential_pj,246.3,231.3,Australia
+1975,residential_pj,246.4,231.3,Australia
+1976,residential_pj,260.2,231.3,Australia
+1977,residential_pj,261,231.3,Australia
+1978,residential_pj,270.5,231.3,Australia
+1979,residential_pj,261.9,231.3,Australia
+1980,residential_pj,262.8,231.3,Australia
+1981,residential_pj,272.8,231.3,Australia
+1982,residential_pj,273.2,231.3,Australia
+1983,residential_pj,276,231.3,Australia
+1984,residential_pj,282.1,231.3,Australia
+1985,residential_pj,288.4,231.3,Australia
+1986,residential_pj,298.1,231.3,Australia
+1987,residential_pj,296.2,231.3,Australia
+1988,residential_pj,301.5,231.3,Australia
+1989,residential_pj,322.3,231.3,Australia
+1990,residential_pj,327.8,231.3,Australia
+1991,residential_pj,334.6,231.3,Australia
+1992,residential_pj,347.1,231.3,Australia
+1993,residential_pj,344.4,231.3,Australia
+1994,residential_pj,358.6,231.3,Australia
+1995,residential_pj,368.4,231.3,Australia
+1996,residential_pj,376.3,231.3,Australia
+1997,residential_pj,383.5,231.3,Australia
+1998,residential_pj,384.6,231.3,Australia
+1999,residential_pj,391.9,231.3,Australia
+2000,residential_pj,398,231.3,Australia
+2001,residential_pj,389,231.3,Australia
+2002,residential_pj,411.604,231.3,Australia
+2003,residential_pj,415.031,231.3,Australia
+2004,residential_pj,410.877,231.3,Australia
+2005,residential_pj,417.966,231.3,Australia
+2006,residential_pj,426.662,231.3,Australia
+2007,residential_pj,431.174,231.3,Australia
+2008,residential_pj,437.417,231.3,Australia
+2009,residential_pj,444.253,231.3,Australia
+2010,residential_pj,454.096,231.3,Australia
+2011,residential_pj,453.35,231.3,Australia
+2012,residential_pj,455.116,231.3,Australia
+2013,residential_pj,435.059,231.3,Australia
+2014,residential_pj,443.752,231.3,Australia
+2015,residential_pj,444.272,231.3,Australia
+2016,residential_pj,453.634,231.3,Australia
+2017,residential_pj,449.002,231.3,Australia
+2018,residential_pj,457.002,231.3,Australia
+2019,residential_pj,474.474,231.3,Australia
+2020,residential_pj,484.126,231.3,Australia
+2021,residential_pj,497.336,231.3,Australia
+2022,residential_pj,484.169,231.3,Australia
+1974,other_d_pj,58.9,62.4,Australia
+1975,other_d_pj,57.9,62.4,Australia
+1976,other_d_pj,61.7,62.4,Australia
+1977,other_d_pj,62.2,62.4,Australia
+1978,other_d_pj,63.6,62.4,Australia
+1979,other_d_pj,65.8,62.4,Australia
+1980,other_d_pj,59.9,62.4,Australia
+1981,other_d_pj,63,62.4,Australia
+1982,other_d_pj,60.2,62.4,Australia
+1983,other_d_pj,63.8,62.4,Australia
+1984,other_d_pj,63.5,62.4,Australia
+1985,other_d_pj,63.8,62.4,Australia
+1986,other_d_pj,64.6,62.4,Australia
+1987,other_d_pj,63.9,62.4,Australia
+1988,other_d_pj,66.4,62.4,Australia
+1989,other_d_pj,70.8,62.4,Australia
+1990,other_d_pj,65.8,62.4,Australia
+1991,other_d_pj,68,62.4,Australia
+1992,other_d_pj,74.8,62.4,Australia
+1993,other_d_pj,80.7,62.4,Australia
+1994,other_d_pj,84.9,62.4,Australia
+1995,other_d_pj,86.8,62.4,Australia
+1996,other_d_pj,93.3,62.4,Australia
+1997,other_d_pj,92.9,62.4,Australia
+1998,other_d_pj,91.9,62.4,Australia
+1999,other_d_pj,102,62.4,Australia
+2000,other_d_pj,77.6,62.4,Australia
+2001,other_d_pj,82.5,62.4,Australia
+2002,other_d_pj,75.224,62.4,Australia
+2003,other_d_pj,80.682,62.4,Australia
+2004,other_d_pj,73.819,62.4,Australia
+2005,other_d_pj,77.061,62.4,Australia
+2006,other_d_pj,73.203,62.4,Australia
+2007,other_d_pj,73.719,62.4,Australia
+2008,other_d_pj,73.238,62.4,Australia
+2009,other_d_pj,75.312,62.4,Australia
+2010,other_d_pj,70.623,62.4,Australia
+2011,other_d_pj,66.159,62.4,Australia
+2012,other_d_pj,67.846,62.4,Australia
+2013,other_d_pj,65.313,62.4,Australia
+2014,other_d_pj,58.523,62.4,Australia
+2015,other_d_pj,61.836,62.4,Australia
+2016,other_d_pj,54.139,62.4,Australia
+2017,other_d_pj,56.415,62.4,Australia
+2018,other_d_pj,56.037,62.4,Australia
+2019,other_d_pj,58.399,62.4,Australia
+2020,other_d_pj,54.051,62.4,Australia
+2021,other_d_pj,53.586,62.4,Australia
+2022,other_d_pj,50.975,62.4,Australia
+1974,total_pj,2694.8,2615.2,Australia
+1975,total_pj,2730.8,2615.2,Australia
+1976,total_pj,2905.9,2615.2,Australia
+1977,total_pj,2985.1,2615.2,Australia
+1978,total_pj,3053.1,2615.2,Australia
+1979,total_pj,3131.4,2615.2,Australia
+1980,total_pj,3146.3,2615.2,Australia
+1981,total_pj,3237.6,2615.2,Australia
+1982,total_pj,3122.7,2615.2,Australia
+1983,total_pj,3221.2,2615.2,Australia
+1984,total_pj,3370.7,2615.2,Australia
+1985,total_pj,3402.5,2615.2,Australia
+1986,total_pj,3514.4,2615.2,Australia
+1987,total_pj,3623,2615.2,Australia
+1988,total_pj,3832.7,2615.2,Australia
+1989,total_pj,3945.9,2615.2,Australia
+1990,total_pj,3949.9,2615.2,Australia
+1991,total_pj,3982.7,2615.2,Australia
+1992,total_pj,4081.8,2615.2,Australia
+1993,total_pj,4181.9,2615.2,Australia
+1994,total_pj,4365.4,2615.2,Australia
+1995,total_pj,4505.5,2615.2,Australia
+1996,total_pj,4611.1,2615.2,Australia
+1997,total_pj,4777.6,2615.2,Australia
+1998,total_pj,4884.7,2615.2,Australia
+1999,total_pj,4971,2615.2,Australia
+2000,total_pj,5011.8,2615.2,Australia
+2001,total_pj,5097,2615.2,Australia
+2002,total_pj,5138.674,2615.2,Australia
+2003,total_pj,5284.727,2615.2,Australia
+2004,total_pj,5399.2,2615.2,Australia
+2005,total_pj,5546.742,2615.2,Australia
+2006,total_pj,5723.991,2615.2,Australia
+2007,total_pj,5738.33,2615.2,Australia
+2008,total_pj,5844.233,2615.2,Australia
+2009,total_pj,5823.803,2615.2,Australia
+2010,total_pj,5902.889,2615.2,Australia
+2011,total_pj,5888.427,2615.2,Australia
+2012,total_pj,5916.732,2615.2,Australia
+2013,total_pj,5870.951,2615.2,Australia
+2014,total_pj,5898.418,2615.2,Australia
+2015,total_pj,6034.872,2615.2,Australia
+2016,total_pj,6104.651,2615.2,Australia
+2017,total_pj,6168.093,2615.2,Australia
+2018,total_pj,6188.282,2615.2,Australia
+2019,total_pj,6001.048,2615.2,Australia
+2020,total_pj,5769.218,2615.2,Australia
+2021,total_pj,5765.137,2615.2,Australia
+2022,total_pj,5882.206,2615.2,Australia
+1974,agriculture_pj,9.3,9.8,New South Wales
+1975,agriculture_pj,9.3,9.8,New South Wales
+1976,agriculture_pj,9.5,9.8,New South Wales
+1977,agriculture_pj,10.2,9.8,New South Wales
+1978,agriculture_pj,10.2,9.8,New South Wales
+1979,agriculture_pj,11.1,9.8,New South Wales
+1980,agriculture_pj,10.4,9.8,New South Wales
+1981,agriculture_pj,12.5,9.8,New South Wales
+1982,agriculture_pj,8.3,9.8,New South Wales
+1983,agriculture_pj,10.9,9.8,New South Wales
+1984,agriculture_pj,10.4,9.8,New South Wales
+1985,agriculture_pj,10.6,9.8,New South Wales
+1986,agriculture_pj,10.1,9.8,New South Wales
+1987,agriculture_pj,9.5,9.8,New South Wales
+1988,agriculture_pj,10.6,9.8,New South Wales
+1989,agriculture_pj,9.9,9.8,New South Wales
+1990,agriculture_pj,10.8,9.8,New South Wales
+1991,agriculture_pj,11.3,9.8,New South Wales
+1992,agriculture_pj,11.7,9.8,New South Wales
+1993,agriculture_pj,11.9,9.8,New South Wales
+1994,agriculture_pj,12.4,9.8,New South Wales
+1995,agriculture_pj,12.8,9.8,New South Wales
+1996,agriculture_pj,13.2,9.8,New South Wales
+1997,agriculture_pj,14,9.8,New South Wales
+1998,agriculture_pj,13.9,9.8,New South Wales
+1999,agriculture_pj,14.2,9.8,New South Wales
+2000,agriculture_pj,29,9.8,New South Wales
+2001,agriculture_pj,29.6,9.8,New South Wales
+2002,agriculture_pj,30.669,9.8,New South Wales
+2003,agriculture_pj,29.827,9.8,New South Wales
+2004,agriculture_pj,29.414,9.8,New South Wales
+2005,agriculture_pj,29.597,9.8,New South Wales
+2006,agriculture_pj,29.202,9.8,New South Wales
+2007,agriculture_pj,28.885,9.8,New South Wales
+2008,agriculture_pj,28.353,9.8,New South Wales
+2009,agriculture_pj,28.57,9.8,New South Wales
+2010,agriculture_pj,28.849,9.8,New South Wales
+2011,agriculture_pj,29.391,9.8,New South Wales
+2012,agriculture_pj,29.165,9.8,New South Wales
+2013,agriculture_pj,27.758,9.8,New South Wales
+2014,agriculture_pj,30.119,9.8,New South Wales
+2015,agriculture_pj,32.27,9.8,New South Wales
+2016,agriculture_pj,31.347,9.8,New South Wales
+2017,agriculture_pj,31.402,9.8,New South Wales
+2018,agriculture_pj,25.393,9.8,New South Wales
+2019,agriculture_pj,22.309,9.8,New South Wales
+2020,agriculture_pj,33.138,9.8,New South Wales
+2021,agriculture_pj,32.819,9.8,New South Wales
+2022,agriculture_pj,31.219,9.8,New South Wales
+1974,mining_pj,6.2,5.5,New South Wales
+1975,mining_pj,6.1,5.5,New South Wales
+1976,mining_pj,6.6,5.5,New South Wales
+1977,mining_pj,6.6,5.5,New South Wales
+1978,mining_pj,6.9,5.5,New South Wales
+1979,mining_pj,7.5,5.5,New South Wales
+1980,mining_pj,8.1,5.5,New South Wales
+1981,mining_pj,8.6,5.5,New South Wales
+1982,mining_pj,8.9,5.5,New South Wales
+1983,mining_pj,8.5,5.5,New South Wales
+1984,mining_pj,8.6,5.5,New South Wales
+1985,mining_pj,9.7,5.5,New South Wales
+1986,mining_pj,10.3,5.5,New South Wales
+1987,mining_pj,9.8,5.5,New South Wales
+1988,mining_pj,11.3,5.5,New South Wales
+1989,mining_pj,13,5.5,New South Wales
+1990,mining_pj,13.1,5.5,New South Wales
+1991,mining_pj,13.4,5.5,New South Wales
+1992,mining_pj,13.5,5.5,New South Wales
+1993,mining_pj,14,5.5,New South Wales
+1994,mining_pj,14.4,5.5,New South Wales
+1995,mining_pj,15.7,5.5,New South Wales
+1996,mining_pj,16.7,5.5,New South Wales
+1997,mining_pj,17.9,5.5,New South Wales
+1998,mining_pj,18.5,5.5,New South Wales
+1999,mining_pj,18.5,5.5,New South Wales
+2000,mining_pj,23.3,5.5,New South Wales
+2001,mining_pj,24.6,5.5,New South Wales
+2002,mining_pj,27.158,5.5,New South Wales
+2003,mining_pj,33.036,5.5,New South Wales
+2004,mining_pj,35.992,5.5,New South Wales
+2005,mining_pj,34.76,5.5,New South Wales
+2006,mining_pj,35.158,5.5,New South Wales
+2007,mining_pj,35.274,5.5,New South Wales
+2008,mining_pj,35.478,5.5,New South Wales
+2009,mining_pj,41.747,5.5,New South Wales
+2010,mining_pj,46.269,5.5,New South Wales
+2011,mining_pj,52.835,5.5,New South Wales
+2012,mining_pj,58.551,5.5,New South Wales
+2013,mining_pj,59.605,5.5,New South Wales
+2014,mining_pj,58.589,5.5,New South Wales
+2015,mining_pj,61.736,5.5,New South Wales
+2016,mining_pj,63.66,5.5,New South Wales
+2017,mining_pj,65.341,5.5,New South Wales
+2018,mining_pj,69.894,5.5,New South Wales
+2019,mining_pj,71.506,5.5,New South Wales
+2020,mining_pj,69.767,5.5,New South Wales
+2021,mining_pj,69.409,5.5,New South Wales
+2022,mining_pj,73.966,5.5,New South Wales
+1974,manufacturing_pj,403.9,401.2,New South Wales
+1975,manufacturing_pj,379.4,401.2,New South Wales
+1976,manufacturing_pj,364.8,401.2,New South Wales
+1977,manufacturing_pj,365.8,401.2,New South Wales
+1978,manufacturing_pj,359.3,401.2,New South Wales
+1979,manufacturing_pj,363.2,401.2,New South Wales
+1980,manufacturing_pj,351.2,401.2,New South Wales
+1981,manufacturing_pj,361.5,401.2,New South Wales
+1982,manufacturing_pj,299,401.2,New South Wales
+1983,manufacturing_pj,311.2,401.2,New South Wales
+1984,manufacturing_pj,324.1,401.2,New South Wales
+1985,manufacturing_pj,326.4,401.2,New South Wales
+1986,manufacturing_pj,338.1,401.2,New South Wales
+1987,manufacturing_pj,324.6,401.2,New South Wales
+1988,manufacturing_pj,343.7,401.2,New South Wales
+1989,manufacturing_pj,362.5,401.2,New South Wales
+1990,manufacturing_pj,361.7,401.2,New South Wales
+1991,manufacturing_pj,339.7,401.2,New South Wales
+1992,manufacturing_pj,345.2,401.2,New South Wales
+1993,manufacturing_pj,356,401.2,New South Wales
+1994,manufacturing_pj,361.9,401.2,New South Wales
+1995,manufacturing_pj,353.9,401.2,New South Wales
+1996,manufacturing_pj,361.9,401.2,New South Wales
+1997,manufacturing_pj,357.3,401.2,New South Wales
+1998,manufacturing_pj,369.4,401.2,New South Wales
+1999,manufacturing_pj,353.9,401.2,New South Wales
+2000,manufacturing_pj,345.8,401.2,New South Wales
+2001,manufacturing_pj,355.4,401.2,New South Wales
+2002,manufacturing_pj,364.138,401.2,New South Wales
+2003,manufacturing_pj,380.225,401.2,New South Wales
+2004,manufacturing_pj,344.658,401.2,New South Wales
+2005,manufacturing_pj,331.038,401.2,New South Wales
+2006,manufacturing_pj,350.965,401.2,New South Wales
+2007,manufacturing_pj,322.451,401.2,New South Wales
+2008,manufacturing_pj,308.107,401.2,New South Wales
+2009,manufacturing_pj,362.388,401.2,New South Wales
+2010,manufacturing_pj,400.898,401.2,New South Wales
+2011,manufacturing_pj,355.72,401.2,New South Wales
+2012,manufacturing_pj,309.681,401.2,New South Wales
+2013,manufacturing_pj,296.536,401.2,New South Wales
+2014,manufacturing_pj,242.23,401.2,New South Wales
+2015,manufacturing_pj,248.185,401.2,New South Wales
+2016,manufacturing_pj,247.284,401.2,New South Wales
+2017,manufacturing_pj,250.58,401.2,New South Wales
+2018,manufacturing_pj,247.518,401.2,New South Wales
+2019,manufacturing_pj,242.971,401.2,New South Wales
+2020,manufacturing_pj,240.713,401.2,New South Wales
+2021,manufacturing_pj,239.78,401.2,New South Wales
+2022,manufacturing_pj,230.794,401.2,New South Wales
+1974,electricity_generation_pj,166,159.5,New South Wales
+1975,electricity_generation_pj,158.3,159.5,New South Wales
+1976,electricity_generation_pj,198.5,159.5,New South Wales
+1977,electricity_generation_pj,213.4,159.5,New South Wales
+1978,electricity_generation_pj,222.5,159.5,New South Wales
+1979,electricity_generation_pj,250.5,159.5,New South Wales
+1980,electricity_generation_pj,259.3,159.5,New South Wales
+1981,electricity_generation_pj,259.9,159.5,New South Wales
+1982,electricity_generation_pj,266.6,159.5,New South Wales
+1983,electricity_generation_pj,275.6,159.5,New South Wales
+1984,electricity_generation_pj,288.8,159.5,New South Wales
+1985,electricity_generation_pj,300.2,159.5,New South Wales
+1986,electricity_generation_pj,311.5,159.5,New South Wales
+1987,electricity_generation_pj,314.2,159.5,New South Wales
+1988,electricity_generation_pj,327.5,159.5,New South Wales
+1989,electricity_generation_pj,333.5,159.5,New South Wales
+1990,electricity_generation_pj,325.3,159.5,New South Wales
+1991,electricity_generation_pj,328.2,159.5,New South Wales
+1992,electricity_generation_pj,338.3,159.5,New South Wales
+1993,electricity_generation_pj,346.3,159.5,New South Wales
+1994,electricity_generation_pj,354,159.5,New South Wales
+1995,electricity_generation_pj,371.3,159.5,New South Wales
+1996,electricity_generation_pj,380.6,159.5,New South Wales
+1997,electricity_generation_pj,378.9,159.5,New South Wales
+1998,electricity_generation_pj,386.2,159.5,New South Wales
+1999,electricity_generation_pj,393.3,159.5,New South Wales
+2000,electricity_generation_pj,426.2,159.5,New South Wales
+2001,electricity_generation_pj,429.9,159.5,New South Wales
+2002,electricity_generation_pj,442.473,159.5,New South Wales
+2003,electricity_generation_pj,463.169,159.5,New South Wales
+2004,electricity_generation_pj,457.028,159.5,New South Wales
+2005,electricity_generation_pj,462.446,159.5,New South Wales
+2006,electricity_generation_pj,449.91,159.5,New South Wales
+2007,electricity_generation_pj,509.939,159.5,New South Wales
+2008,electricity_generation_pj,503.95,159.5,New South Wales
+2009,electricity_generation_pj,468.725,159.5,New South Wales
+2010,electricity_generation_pj,438.24,159.5,New South Wales
+2011,electricity_generation_pj,434.85,159.5,New South Wales
+2012,electricity_generation_pj,407.13,159.5,New South Wales
+2013,electricity_generation_pj,381.266,159.5,New South Wales
+2014,electricity_generation_pj,375.23,159.5,New South Wales
+2015,electricity_generation_pj,411.688,159.5,New South Wales
+2016,electricity_generation_pj,405.649,159.5,New South Wales
+2017,electricity_generation_pj,410.227,159.5,New South Wales
+2018,electricity_generation_pj,410.127,159.5,New South Wales
+2019,electricity_generation_pj,392.057,159.5,New South Wales
+2020,electricity_generation_pj,371.993,159.5,New South Wales
+2021,electricity_generation_pj,350.684,159.5,New South Wales
+2022,electricity_generation_pj,346.736,159.5,New South Wales
+1974,construction_pj,7.3,6.2,New South Wales
+1975,construction_pj,6.7,6.2,New South Wales
+1976,construction_pj,8.1,6.2,New South Wales
+1977,construction_pj,8,6.2,New South Wales
+1978,construction_pj,7.8,6.2,New South Wales
+1979,construction_pj,7.4,6.2,New South Wales
+1980,construction_pj,6.6,6.2,New South Wales
+1981,construction_pj,4.9,6.2,New South Wales
+1982,construction_pj,3.5,6.2,New South Wales
+1983,construction_pj,3.4,6.2,New South Wales
+1984,construction_pj,5,6.2,New South Wales
+1985,construction_pj,7.8,6.2,New South Wales
+1986,construction_pj,6.7,6.2,New South Wales
+1987,construction_pj,7.3,6.2,New South Wales
+1988,construction_pj,7.2,6.2,New South Wales
+1989,construction_pj,7.3,6.2,New South Wales
+1990,construction_pj,7.1,6.2,New South Wales
+1991,construction_pj,6.9,6.2,New South Wales
+1992,construction_pj,6.6,6.2,New South Wales
+1993,construction_pj,6.4,6.2,New South Wales
+1994,construction_pj,6.2,6.2,New South Wales
+1995,construction_pj,6,6.2,New South Wales
+1996,construction_pj,5.8,6.2,New South Wales
+1997,construction_pj,5.6,6.2,New South Wales
+1998,construction_pj,5.4,6.2,New South Wales
+1999,construction_pj,5.3,6.2,New South Wales
+2000,construction_pj,5.1,6.2,New South Wales
+2001,construction_pj,5.2,6.2,New South Wales
+2002,construction_pj,5.02,6.2,New South Wales
+2003,construction_pj,4.057,6.2,New South Wales
+2004,construction_pj,3.56,6.2,New South Wales
+2005,construction_pj,4.833,6.2,New South Wales
+2006,construction_pj,4.838,6.2,New South Wales
+2007,construction_pj,4.835,6.2,New South Wales
+2008,construction_pj,7.834,6.2,New South Wales
+2009,construction_pj,9.039,6.2,New South Wales
+2010,construction_pj,8.708,6.2,New South Wales
+2011,construction_pj,7.96,6.2,New South Wales
+2012,construction_pj,8.592,6.2,New South Wales
+2013,construction_pj,8.838,6.2,New South Wales
+2014,construction_pj,10.344,6.2,New South Wales
+2015,construction_pj,12.18,6.2,New South Wales
+2016,construction_pj,13.379,6.2,New South Wales
+2017,construction_pj,15.618,6.2,New South Wales
+2018,construction_pj,15.911,6.2,New South Wales
+2019,construction_pj,14.579,6.2,New South Wales
+2020,construction_pj,13.516,6.2,New South Wales
+2021,construction_pj,12.564,6.2,New South Wales
+2022,construction_pj,11.7,6.2,New South Wales
+1974,transport_pj,246.8,239.7,New South Wales
+1975,transport_pj,248.8,239.7,New South Wales
+1976,transport_pj,259.8,239.7,New South Wales
+1977,transport_pj,275.8,239.7,New South Wales
+1978,transport_pj,276,239.7,New South Wales
+1979,transport_pj,283.9,239.7,New South Wales
+1980,transport_pj,289.9,239.7,New South Wales
+1981,transport_pj,292.8,239.7,New South Wales
+1982,transport_pj,281.6,239.7,New South Wales
+1983,transport_pj,297.3,239.7,New South Wales
+1984,transport_pj,302,239.7,New South Wales
+1985,transport_pj,305,239.7,New South Wales
+1986,transport_pj,306.1,239.7,New South Wales
+1987,transport_pj,321.6,239.7,New South Wales
+1988,transport_pj,333.9,239.7,New South Wales
+1989,transport_pj,332.3,239.7,New South Wales
+1990,transport_pj,334.5,239.7,New South Wales
+1991,transport_pj,342,239.7,New South Wales
+1992,transport_pj,350.1,239.7,New South Wales
+1993,transport_pj,356.9,239.7,New South Wales
+1994,transport_pj,377.1,239.7,New South Wales
+1995,transport_pj,394.9,239.7,New South Wales
+1996,transport_pj,397,239.7,New South Wales
+1997,transport_pj,399.2,239.7,New South Wales
+1998,transport_pj,406.6,239.7,New South Wales
+1999,transport_pj,421.3,239.7,New South Wales
+2000,transport_pj,412.4,239.7,New South Wales
+2001,transport_pj,401,239.7,New South Wales
+2002,transport_pj,418.491,239.7,New South Wales
+2003,transport_pj,438.463,239.7,New South Wales
+2004,transport_pj,450.772,239.7,New South Wales
+2005,transport_pj,456.464,239.7,New South Wales
+2006,transport_pj,471.775,239.7,New South Wales
+2007,transport_pj,483.191,239.7,New South Wales
+2008,transport_pj,479.187,239.7,New South Wales
+2009,transport_pj,498.474,239.7,New South Wales
+2010,transport_pj,504.886,239.7,New South Wales
+2011,transport_pj,506.64,239.7,New South Wales
+2012,transport_pj,513.165,239.7,New South Wales
+2013,transport_pj,510.789,239.7,New South Wales
+2014,transport_pj,512.829,239.7,New South Wales
+2015,transport_pj,512.112,239.7,New South Wales
+2016,transport_pj,528.519,239.7,New South Wales
+2017,transport_pj,540.686,239.7,New South Wales
+2018,transport_pj,535.686,239.7,New South Wales
+2019,transport_pj,484.384,239.7,New South Wales
+2020,transport_pj,425.586,239.7,New South Wales
+2021,transport_pj,413.47,239.7,New South Wales
+2022,transport_pj,486.798,239.7,New South Wales
+1974,water_and_waste_b_pj,2.4,2.4,New South Wales
+1975,water_and_waste_b_pj,2.5,2.4,New South Wales
+1976,water_and_waste_b_pj,2.5,2.4,New South Wales
+1977,water_and_waste_b_pj,2.6,2.4,New South Wales
+1978,water_and_waste_b_pj,2.5,2.4,New South Wales
+1979,water_and_waste_b_pj,2.3,2.4,New South Wales
+1980,water_and_waste_b_pj,2.3,2.4,New South Wales
+1981,water_and_waste_b_pj,2.1,2.4,New South Wales
+1982,water_and_waste_b_pj,2,2.4,New South Wales
+1983,water_and_waste_b_pj,2,2.4,New South Wales
+1984,water_and_waste_b_pj,1.9,2.4,New South Wales
+1985,water_and_waste_b_pj,2.2,2.4,New South Wales
+1986,water_and_waste_b_pj,2.1,2.4,New South Wales
+1987,water_and_waste_b_pj,2.1,2.4,New South Wales
+1988,water_and_waste_b_pj,2.2,2.4,New South Wales
+1989,water_and_waste_b_pj,2.2,2.4,New South Wales
+1990,water_and_waste_b_pj,2.2,2.4,New South Wales
+1991,water_and_waste_b_pj,2.2,2.4,New South Wales
+1992,water_and_waste_b_pj,2.2,2.4,New South Wales
+1993,water_and_waste_b_pj,2.2,2.4,New South Wales
+1994,water_and_waste_b_pj,2.3,2.4,New South Wales
+1995,water_and_waste_b_pj,2.3,2.4,New South Wales
+1996,water_and_waste_b_pj,2.4,2.4,New South Wales
+1997,water_and_waste_b_pj,2.4,2.4,New South Wales
+1998,water_and_waste_b_pj,2.5,2.4,New South Wales
+1999,water_and_waste_b_pj,2.6,2.4,New South Wales
+2000,water_and_waste_b_pj,4.1,2.4,New South Wales
+2001,water_and_waste_b_pj,4.2,2.4,New South Wales
+2002,water_and_waste_b_pj,4.813,2.4,New South Wales
+2003,water_and_waste_b_pj,5.155,2.4,New South Wales
+2004,water_and_waste_b_pj,5.292,2.4,New South Wales
+2005,water_and_waste_b_pj,5.745,2.4,New South Wales
+2006,water_and_waste_b_pj,6.007,2.4,New South Wales
+2007,water_and_waste_b_pj,5.929,2.4,New South Wales
+2008,water_and_waste_b_pj,5.451,2.4,New South Wales
+2009,water_and_waste_b_pj,4.954,2.4,New South Wales
+2010,water_and_waste_b_pj,4.587,2.4,New South Wales
+2011,water_and_waste_b_pj,4.517,2.4,New South Wales
+2012,water_and_waste_b_pj,3.29,2.4,New South Wales
+2013,water_and_waste_b_pj,3.789,2.4,New South Wales
+2014,water_and_waste_b_pj,3.368,2.4,New South Wales
+2015,water_and_waste_b_pj,3.085,2.4,New South Wales
+2016,water_and_waste_b_pj,3.07,2.4,New South Wales
+2017,water_and_waste_b_pj,3.673,2.4,New South Wales
+2018,water_and_waste_b_pj,3.95,2.4,New South Wales
+2019,water_and_waste_b_pj,4.459,2.4,New South Wales
+2020,water_and_waste_b_pj,3.467,2.4,New South Wales
+2021,water_and_waste_b_pj,3.682,2.4,New South Wales
+2022,water_and_waste_b_pj,4.449,2.4,New South Wales
+1974,commercial_and_services_c_pj,29.5,29.3,New South Wales
+1975,commercial_and_services_c_pj,29.8,29.3,New South Wales
+1976,commercial_and_services_c_pj,31.2,29.3,New South Wales
+1977,commercial_and_services_c_pj,31.9,29.3,New South Wales
+1978,commercial_and_services_c_pj,34,29.3,New South Wales
+1979,commercial_and_services_c_pj,35.2,29.3,New South Wales
+1980,commercial_and_services_c_pj,35.7,29.3,New South Wales
+1981,commercial_and_services_c_pj,36,29.3,New South Wales
+1982,commercial_and_services_c_pj,34.8,29.3,New South Wales
+1983,commercial_and_services_c_pj,35.4,29.3,New South Wales
+1984,commercial_and_services_c_pj,36.5,29.3,New South Wales
+1985,commercial_and_services_c_pj,38.9,29.3,New South Wales
+1986,commercial_and_services_c_pj,40.8,29.3,New South Wales
+1987,commercial_and_services_c_pj,42.8,29.3,New South Wales
+1988,commercial_and_services_c_pj,45.1,29.3,New South Wales
+1989,commercial_and_services_c_pj,47.9,29.3,New South Wales
+1990,commercial_and_services_c_pj,50.2,29.3,New South Wales
+1991,commercial_and_services_c_pj,50.6,29.3,New South Wales
+1992,commercial_and_services_c_pj,51.4,29.3,New South Wales
+1993,commercial_and_services_c_pj,51.6,29.3,New South Wales
+1994,commercial_and_services_c_pj,54.2,29.3,New South Wales
+1995,commercial_and_services_c_pj,59.3,29.3,New South Wales
+1996,commercial_and_services_c_pj,60.6,29.3,New South Wales
+1997,commercial_and_services_c_pj,64.6,29.3,New South Wales
+1998,commercial_and_services_c_pj,68.1,29.3,New South Wales
+1999,commercial_and_services_c_pj,69.5,29.3,New South Wales
+2000,commercial_and_services_c_pj,60.3,29.3,New South Wales
+2001,commercial_and_services_c_pj,62.6,29.3,New South Wales
+2002,commercial_and_services_c_pj,72.489,29.3,New South Wales
+2003,commercial_and_services_c_pj,74.04,29.3,New South Wales
+2004,commercial_and_services_c_pj,73.814,29.3,New South Wales
+2005,commercial_and_services_c_pj,74.655,29.3,New South Wales
+2006,commercial_and_services_c_pj,77.567,29.3,New South Wales
+2007,commercial_and_services_c_pj,76.313,29.3,New South Wales
+2008,commercial_and_services_c_pj,76.698,29.3,New South Wales
+2009,commercial_and_services_c_pj,79.238,29.3,New South Wales
+2010,commercial_and_services_c_pj,82.032,29.3,New South Wales
+2011,commercial_and_services_c_pj,80.25,29.3,New South Wales
+2012,commercial_and_services_c_pj,83.385,29.3,New South Wales
+2013,commercial_and_services_c_pj,87.255,29.3,New South Wales
+2014,commercial_and_services_c_pj,100.254,29.3,New South Wales
+2015,commercial_and_services_c_pj,98.269,29.3,New South Wales
+2016,commercial_and_services_c_pj,97.313,29.3,New South Wales
+2017,commercial_and_services_c_pj,100.994,29.3,New South Wales
+2018,commercial_and_services_c_pj,97.845,29.3,New South Wales
+2019,commercial_and_services_c_pj,95.197,29.3,New South Wales
+2020,commercial_and_services_c_pj,92.899,29.3,New South Wales
+2021,commercial_and_services_c_pj,93.403,29.3,New South Wales
+2022,commercial_and_services_c_pj,96.461,29.3,New South Wales
+1974,residential_pj,74.9,70.1,New South Wales
+1975,residential_pj,76.1,70.1,New South Wales
+1976,residential_pj,79.5,70.1,New South Wales
+1977,residential_pj,78.8,70.1,New South Wales
+1978,residential_pj,82,70.1,New South Wales
+1979,residential_pj,78.5,70.1,New South Wales
+1980,residential_pj,78.6,70.1,New South Wales
+1981,residential_pj,81,70.1,New South Wales
+1982,residential_pj,80.6,70.1,New South Wales
+1983,residential_pj,81.9,70.1,New South Wales
+1984,residential_pj,84.1,70.1,New South Wales
+1985,residential_pj,88.2,70.1,New South Wales
+1986,residential_pj,90.4,70.1,New South Wales
+1987,residential_pj,91.5,70.1,New South Wales
+1988,residential_pj,91.8,70.1,New South Wales
+1989,residential_pj,97.8,70.1,New South Wales
+1990,residential_pj,100.7,70.1,New South Wales
+1991,residential_pj,102.3,70.1,New South Wales
+1992,residential_pj,106.4,70.1,New South Wales
+1993,residential_pj,106.4,70.1,New South Wales
+1994,residential_pj,109.3,70.1,New South Wales
+1995,residential_pj,111.8,70.1,New South Wales
+1996,residential_pj,115.3,70.1,New South Wales
+1997,residential_pj,116.7,70.1,New South Wales
+1998,residential_pj,119,70.1,New South Wales
+1999,residential_pj,122,70.1,New South Wales
+2000,residential_pj,123.7,70.1,New South Wales
+2001,residential_pj,112.6,70.1,New South Wales
+2002,residential_pj,126.204,70.1,New South Wales
+2003,residential_pj,126.686,70.1,New South Wales
+2004,residential_pj,124.153,70.1,New South Wales
+2005,residential_pj,125.337,70.1,New South Wales
+2006,residential_pj,126.848,70.1,New South Wales
+2007,residential_pj,127.573,70.1,New South Wales
+2008,residential_pj,130.761,70.1,New South Wales
+2009,residential_pj,134.038,70.1,New South Wales
+2010,residential_pj,136.988,70.1,New South Wales
+2011,residential_pj,135.519,70.1,New South Wales
+2012,residential_pj,135.282,70.1,New South Wales
+2013,residential_pj,134.938,70.1,New South Wales
+2014,residential_pj,130.247,70.1,New South Wales
+2015,residential_pj,129.887,70.1,New South Wales
+2016,residential_pj,133.121,70.1,New South Wales
+2017,residential_pj,132.833,70.1,New South Wales
+2018,residential_pj,134.021,70.1,New South Wales
+2019,residential_pj,135.781,70.1,New South Wales
+2020,residential_pj,138.614,70.1,New South Wales
+2021,residential_pj,145.955,70.1,New South Wales
+2022,residential_pj,144.177,70.1,New South Wales
+1974,other_d_pj,18.4,19.3,New South Wales
+1975,other_d_pj,17,19.3,New South Wales
+1976,other_d_pj,19.6,19.3,New South Wales
+1977,other_d_pj,18.2,19.3,New South Wales
+1978,other_d_pj,18.1,19.3,New South Wales
+1979,other_d_pj,19.4,19.3,New South Wales
+1980,other_d_pj,18.3,19.3,New South Wales
+1981,other_d_pj,18.5,19.3,New South Wales
+1982,other_d_pj,17.2,19.3,New South Wales
+1983,other_d_pj,19.4,19.3,New South Wales
+1984,other_d_pj,18.9,19.3,New South Wales
+1985,other_d_pj,19.8,19.3,New South Wales
+1986,other_d_pj,21,19.3,New South Wales
+1987,other_d_pj,19.9,19.3,New South Wales
+1988,other_d_pj,20.9,19.3,New South Wales
+1989,other_d_pj,24,19.3,New South Wales
+1990,other_d_pj,23,19.3,New South Wales
+1991,other_d_pj,22.9,19.3,New South Wales
+1992,other_d_pj,23.6,19.3,New South Wales
+1993,other_d_pj,24.9,19.3,New South Wales
+1994,other_d_pj,22.8,19.3,New South Wales
+1995,other_d_pj,23.2,19.3,New South Wales
+1996,other_d_pj,27.1,19.3,New South Wales
+1997,other_d_pj,25.4,19.3,New South Wales
+1998,other_d_pj,24.2,19.3,New South Wales
+1999,other_d_pj,25.7,19.3,New South Wales
+2000,other_d_pj,20.6,19.3,New South Wales
+2001,other_d_pj,20.6,19.3,New South Wales
+2002,other_d_pj,19.02,19.3,New South Wales
+2003,other_d_pj,20.134,19.3,New South Wales
+2004,other_d_pj,20.233,19.3,New South Wales
+2005,other_d_pj,21.109,19.3,New South Wales
+2006,other_d_pj,16.625,19.3,New South Wales
+2007,other_d_pj,16.319,19.3,New South Wales
+2008,other_d_pj,17.72,19.3,New South Wales
+2009,other_d_pj,18.116,19.3,New South Wales
+2010,other_d_pj,16.567,19.3,New South Wales
+2011,other_d_pj,13.622,19.3,New South Wales
+2012,other_d_pj,20.184,19.3,New South Wales
+2013,other_d_pj,15.765,19.3,New South Wales
+2014,other_d_pj,15.626,19.3,New South Wales
+2015,other_d_pj,14.844,19.3,New South Wales
+2016,other_d_pj,9.707,19.3,New South Wales
+2017,other_d_pj,13.318,19.3,New South Wales
+2018,other_d_pj,15.279,19.3,New South Wales
+2019,other_d_pj,14.577,19.3,New South Wales
+2020,other_d_pj,11.947,19.3,New South Wales
+2021,other_d_pj,12.621,19.3,New South Wales
+2022,other_d_pj,12.89,19.3,New South Wales
+1974,total_pj,964.7,943,New South Wales
+1975,total_pj,934,943,New South Wales
+1976,total_pj,980.2,943,New South Wales
+1977,total_pj,1011.3,943,New South Wales
+1978,total_pj,1019.3,943,New South Wales
+1979,total_pj,1059,943,New South Wales
+1980,total_pj,1060.4,943,New South Wales
+1981,total_pj,1077.8,943,New South Wales
+1982,total_pj,1002.5,943,New South Wales
+1983,total_pj,1045.6,943,New South Wales
+1984,total_pj,1080.3,943,New South Wales
+1985,total_pj,1108.7,943,New South Wales
+1986,total_pj,1137.1,943,New South Wales
+1987,total_pj,1143.3,943,New South Wales
+1988,total_pj,1194.2,943,New South Wales
+1989,total_pj,1230.4,943,New South Wales
+1990,total_pj,1228.6,943,New South Wales
+1991,total_pj,1219.4,943,New South Wales
+1992,total_pj,1249.1,943,New South Wales
+1993,total_pj,1276.7,943,New South Wales
+1994,total_pj,1314.6,943,New South Wales
+1995,total_pj,1351.2,943,New South Wales
+1996,total_pj,1380.6,943,New South Wales
+1997,total_pj,1382,943,New South Wales
+1998,total_pj,1413.8,943,New South Wales
+1999,total_pj,1426.3,943,New South Wales
+2000,total_pj,1450.5,943,New South Wales
+2001,total_pj,1445.7,943,New South Wales
+2002,total_pj,1510.475,943,New South Wales
+2003,total_pj,1574.793,943,New South Wales
+2004,total_pj,1544.916,943,New South Wales
+2005,total_pj,1545.985,943,New South Wales
+2006,total_pj,1568.894,943,New South Wales
+2007,total_pj,1610.708,943,New South Wales
+2008,total_pj,1593.538,943,New South Wales
+2009,total_pj,1645.288,943,New South Wales
+2010,total_pj,1668.025,943,New South Wales
+2011,total_pj,1621.305,943,New South Wales
+2012,total_pj,1568.427,943,New South Wales
+2013,total_pj,1526.538,943,New South Wales
+2014,total_pj,1478.836,943,New South Wales
+2015,total_pj,1524.256,943,New South Wales
+2016,total_pj,1533.049,943,New South Wales
+2017,total_pj,1564.673,943,New South Wales
+2018,total_pj,1555.625,943,New South Wales
+2019,total_pj,1477.818,943,New South Wales
+2020,total_pj,1401.642,943,New South Wales
+2021,total_pj,1374.387,943,New South Wales
+2022,total_pj,1439.191,943,New South Wales
+1974,agriculture_pj,8.8,8.5,Victoria
+1975,agriculture_pj,8.7,8.5,Victoria
+1976,agriculture_pj,8.9,8.5,Victoria
+1977,agriculture_pj,9,8.5,Victoria
+1978,agriculture_pj,9.7,8.5,Victoria
+1979,agriculture_pj,9.7,8.5,Victoria
+1980,agriculture_pj,10.3,8.5,Victoria
+1981,agriculture_pj,10.1,8.5,Victoria
+1982,agriculture_pj,10,8.5,Victoria
+1983,agriculture_pj,11,8.5,Victoria
+1984,agriculture_pj,10.8,8.5,Victoria
+1985,agriculture_pj,10.5,8.5,Victoria
+1986,agriculture_pj,10.2,8.5,Victoria
+1987,agriculture_pj,9.9,8.5,Victoria
+1988,agriculture_pj,10.8,8.5,Victoria
+1989,agriculture_pj,10.4,8.5,Victoria
+1990,agriculture_pj,10.6,8.5,Victoria
+1991,agriculture_pj,10.5,8.5,Victoria
+1992,agriculture_pj,10.7,8.5,Victoria
+1993,agriculture_pj,10.9,8.5,Victoria
+1994,agriculture_pj,11.3,8.5,Victoria
+1995,agriculture_pj,10.8,8.5,Victoria
+1996,agriculture_pj,11.6,8.5,Victoria
+1997,agriculture_pj,12,8.5,Victoria
+1998,agriculture_pj,12.6,8.5,Victoria
+1999,agriculture_pj,12.7,8.5,Victoria
+2000,agriculture_pj,16.9,8.5,Victoria
+2001,agriculture_pj,17,8.5,Victoria
+2002,agriculture_pj,18.822,8.5,Victoria
+2003,agriculture_pj,19.328,8.5,Victoria
+2004,agriculture_pj,20.003,8.5,Victoria
+2005,agriculture_pj,17.588,8.5,Victoria
+2006,agriculture_pj,15.448,8.5,Victoria
+2007,agriculture_pj,15.741,8.5,Victoria
+2008,agriculture_pj,14.231,8.5,Victoria
+2009,agriculture_pj,15.552,8.5,Victoria
+2010,agriculture_pj,15.57,8.5,Victoria
+2011,agriculture_pj,15.666,8.5,Victoria
+2012,agriculture_pj,15.449,8.5,Victoria
+2013,agriculture_pj,16.928,8.5,Victoria
+2014,agriculture_pj,16.8,8.5,Victoria
+2015,agriculture_pj,17.066,8.5,Victoria
+2016,agriculture_pj,19.413,8.5,Victoria
+2017,agriculture_pj,19.526,8.5,Victoria
+2018,agriculture_pj,12.59,8.5,Victoria
+2019,agriculture_pj,9.89,8.5,Victoria
+2020,agriculture_pj,14.297,8.5,Victoria
+2021,agriculture_pj,13.793,8.5,Victoria
+2022,agriculture_pj,13.267,8.5,Victoria
+1974,mining_pj,19.1,14.9,Victoria
+1975,mining_pj,21.2,14.9,Victoria
+1976,mining_pj,22.5,14.9,Victoria
+1977,mining_pj,21.2,14.9,Victoria
+1978,mining_pj,22.2,14.9,Victoria
+1979,mining_pj,22.7,14.9,Victoria
+1980,mining_pj,20.4,14.9,Victoria
+1981,mining_pj,19.9,14.9,Victoria
+1982,mining_pj,23.8,14.9,Victoria
+1983,mining_pj,27.4,14.9,Victoria
+1984,mining_pj,25.1,14.9,Victoria
+1985,mining_pj,21.9,14.9,Victoria
+1986,mining_pj,22.3,14.9,Victoria
+1987,mining_pj,25.4,14.9,Victoria
+1988,mining_pj,24.5,14.9,Victoria
+1989,mining_pj,25.8,14.9,Victoria
+1990,mining_pj,23.8,14.9,Victoria
+1991,mining_pj,27.8,14.9,Victoria
+1992,mining_pj,26,14.9,Victoria
+1993,mining_pj,22.8,14.9,Victoria
+1994,mining_pj,24,14.9,Victoria
+1995,mining_pj,27.6,14.9,Victoria
+1996,mining_pj,28.1,14.9,Victoria
+1997,mining_pj,29.5,14.9,Victoria
+1998,mining_pj,21.2,14.9,Victoria
+1999,mining_pj,26.2,14.9,Victoria
+2000,mining_pj,25.8,14.9,Victoria
+2001,mining_pj,29.7,14.9,Victoria
+2002,mining_pj,20.341,14.9,Victoria
+2003,mining_pj,23.283,14.9,Victoria
+2004,mining_pj,20.522,14.9,Victoria
+2005,mining_pj,22.182,14.9,Victoria
+2006,mining_pj,22.621,14.9,Victoria
+2007,mining_pj,22.813,14.9,Victoria
+2008,mining_pj,28.008,14.9,Victoria
+2009,mining_pj,24.519,14.9,Victoria
+2010,mining_pj,24.883,14.9,Victoria
+2011,mining_pj,27.043,14.9,Victoria
+2012,mining_pj,27.015,14.9,Victoria
+2013,mining_pj,32.889,14.9,Victoria
+2014,mining_pj,30.156,14.9,Victoria
+2015,mining_pj,30.639,14.9,Victoria
+2016,mining_pj,25.223,14.9,Victoria
+2017,mining_pj,25.764,14.9,Victoria
+2018,mining_pj,24.375,14.9,Victoria
+2019,mining_pj,21.661,14.9,Victoria
+2020,mining_pj,20.204,14.9,Victoria
+2021,mining_pj,19.928,14.9,Victoria
+2022,mining_pj,20.531,14.9,Victoria
+1974,manufacturing_pj,167.2,170.6,Victoria
+1975,manufacturing_pj,166.1,170.6,Victoria
+1976,manufacturing_pj,172.9,170.6,Victoria
+1977,manufacturing_pj,182.6,170.6,Victoria
+1978,manufacturing_pj,186.3,170.6,Victoria
+1979,manufacturing_pj,190.5,170.6,Victoria
+1980,manufacturing_pj,193.8,170.6,Victoria
+1981,manufacturing_pj,189.6,170.6,Victoria
+1982,manufacturing_pj,180.2,170.6,Victoria
+1983,manufacturing_pj,185.5,170.6,Victoria
+1984,manufacturing_pj,190.1,170.6,Victoria
+1985,manufacturing_pj,195.3,170.6,Victoria
+1986,manufacturing_pj,202.8,170.6,Victoria
+1987,manufacturing_pj,217.8,170.6,Victoria
+1988,manufacturing_pj,228.1,170.6,Victoria
+1989,manufacturing_pj,226.3,170.6,Victoria
+1990,manufacturing_pj,223.9,170.6,Victoria
+1991,manufacturing_pj,213.6,170.6,Victoria
+1992,manufacturing_pj,221.5,170.6,Victoria
+1993,manufacturing_pj,227.2,170.6,Victoria
+1994,manufacturing_pj,230.1,170.6,Victoria
+1995,manufacturing_pj,228,170.6,Victoria
+1996,manufacturing_pj,227.1,170.6,Victoria
+1997,manufacturing_pj,238.2,170.6,Victoria
+1998,manufacturing_pj,231.6,170.6,Victoria
+1999,manufacturing_pj,241.6,170.6,Victoria
+2000,manufacturing_pj,223.4,170.6,Victoria
+2001,manufacturing_pj,226.1,170.6,Victoria
+2002,manufacturing_pj,211.381,170.6,Victoria
+2003,manufacturing_pj,211.671,170.6,Victoria
+2004,manufacturing_pj,194.247,170.6,Victoria
+2005,manufacturing_pj,238.75,170.6,Victoria
+2006,manufacturing_pj,248.182,170.6,Victoria
+2007,manufacturing_pj,238.863,170.6,Victoria
+2008,manufacturing_pj,206.88,170.6,Victoria
+2009,manufacturing_pj,213.792,170.6,Victoria
+2010,manufacturing_pj,237.09,170.6,Victoria
+2011,manufacturing_pj,229.584,170.6,Victoria
+2012,manufacturing_pj,253.592,170.6,Victoria
+2013,manufacturing_pj,244.886,170.6,Victoria
+2014,manufacturing_pj,184.059,170.6,Victoria
+2015,manufacturing_pj,226.533,170.6,Victoria
+2016,manufacturing_pj,210.798,170.6,Victoria
+2017,manufacturing_pj,207.531,170.6,Victoria
+2018,manufacturing_pj,185.933,170.6,Victoria
+2019,manufacturing_pj,176.857,170.6,Victoria
+2020,manufacturing_pj,169.72,170.6,Victoria
+2021,manufacturing_pj,172.273,170.6,Victoria
+2022,manufacturing_pj,169.058,170.6,Victoria
+1974,electricity_generation_pj,200.1,193.4,Victoria
+1975,electricity_generation_pj,215.8,193.4,Victoria
+1976,electricity_generation_pj,235.6,193.4,Victoria
+1977,electricity_generation_pj,234.6,193.4,Victoria
+1978,electricity_generation_pj,253.9,193.4,Victoria
+1979,electricity_generation_pj,267.7,193.4,Victoria
+1980,electricity_generation_pj,281.3,193.4,Victoria
+1981,electricity_generation_pj,332.4,193.4,Victoria
+1982,electricity_generation_pj,295.1,193.4,Victoria
+1983,electricity_generation_pj,288.8,193.4,Victoria
+1984,electricity_generation_pj,309.9,193.4,Victoria
+1985,electricity_generation_pj,294.6,193.4,Victoria
+1986,electricity_generation_pj,325.4,193.4,Victoria
+1987,electricity_generation_pj,333.4,193.4,Victoria
+1988,electricity_generation_pj,385.7,193.4,Victoria
+1989,electricity_generation_pj,377.5,193.4,Victoria
+1990,electricity_generation_pj,387.6,193.4,Victoria
+1991,electricity_generation_pj,402.8,193.4,Victoria
+1992,electricity_generation_pj,382.9,193.4,Victoria
+1993,electricity_generation_pj,377,193.4,Victoria
+1994,electricity_generation_pj,400,193.4,Victoria
+1995,electricity_generation_pj,415.7,193.4,Victoria
+1996,electricity_generation_pj,425.9,193.4,Victoria
+1997,electricity_generation_pj,485.8,193.4,Victoria
+1998,electricity_generation_pj,525.3,193.4,Victoria
+1999,electricity_generation_pj,525.4,193.4,Victoria
+2000,electricity_generation_pj,530.8,193.4,Victoria
+2001,electricity_generation_pj,541.5,193.4,Victoria
+2002,electricity_generation_pj,508.385,193.4,Victoria
+2003,electricity_generation_pj,524.426,193.4,Victoria
+2004,electricity_generation_pj,533.511,193.4,Victoria
+2005,electricity_generation_pj,554.752,193.4,Victoria
+2006,electricity_generation_pj,539.936,193.4,Victoria
+2007,electricity_generation_pj,542.06,193.4,Victoria
+2008,electricity_generation_pj,560.405,193.4,Victoria
+2009,electricity_generation_pj,548.184,193.4,Victoria
+2010,electricity_generation_pj,534.17,193.4,Victoria
+2011,electricity_generation_pj,556.951,193.4,Victoria
+2012,electricity_generation_pj,494.184,193.4,Victoria
+2013,electricity_generation_pj,487.49,193.4,Victoria
+2014,electricity_generation_pj,514.194,193.4,Victoria
+2015,electricity_generation_pj,496.713,193.4,Victoria
+2016,electricity_generation_pj,472.481,193.4,Victoria
+2017,electricity_generation_pj,394.32,193.4,Victoria
+2018,electricity_generation_pj,373.01,193.4,Victoria
+2019,electricity_generation_pj,354.47,193.4,Victoria
+2020,electricity_generation_pj,348.648,193.4,Victoria
+2021,electricity_generation_pj,341.639,193.4,Victoria
+2022,electricity_generation_pj,329.48,193.4,Victoria
+1974,construction_pj,7.1,6,Victoria
+1975,construction_pj,9.2,6,Victoria
+1976,construction_pj,12.8,6,Victoria
+1977,construction_pj,12.2,6,Victoria
+1978,construction_pj,12.7,6,Victoria
+1979,construction_pj,9,6,Victoria
+1980,construction_pj,6.5,6,Victoria
+1981,construction_pj,6.7,6,Victoria
+1982,construction_pj,8,6,Victoria
+1983,construction_pj,7.9,6,Victoria
+1984,construction_pj,7.6,6,Victoria
+1985,construction_pj,7.1,6,Victoria
+1986,construction_pj,8.5,6,Victoria
+1987,construction_pj,9.4,6,Victoria
+1988,construction_pj,9.9,6,Victoria
+1989,construction_pj,9.8,6,Victoria
+1990,construction_pj,7.9,6,Victoria
+1991,construction_pj,7.6,6,Victoria
+1992,construction_pj,7.4,6,Victoria
+1993,construction_pj,7.1,6,Victoria
+1994,construction_pj,6.8,6,Victoria
+1995,construction_pj,6.6,6,Victoria
+1996,construction_pj,6.4,6,Victoria
+1997,construction_pj,7.5,6,Victoria
+1998,construction_pj,7.4,6,Victoria
+1999,construction_pj,7.3,6,Victoria
+2000,construction_pj,7.3,6,Victoria
+2001,construction_pj,7.3,6,Victoria
+2002,construction_pj,7.291,6,Victoria
+2003,construction_pj,7.204,6,Victoria
+2004,construction_pj,7.131,6,Victoria
+2005,construction_pj,5.785,6,Victoria
+2006,construction_pj,5.652,6,Victoria
+2007,construction_pj,5.661,6,Victoria
+2008,construction_pj,9.974,6,Victoria
+2009,construction_pj,9.684,6,Victoria
+2010,construction_pj,9.755,6,Victoria
+2011,construction_pj,10.107,6,Victoria
+2012,construction_pj,9.867,6,Victoria
+2013,construction_pj,9.49,6,Victoria
+2014,construction_pj,10.431,6,Victoria
+2015,construction_pj,11.31,6,Victoria
+2016,construction_pj,12.037,6,Victoria
+2017,construction_pj,12.752,6,Victoria
+2018,construction_pj,13.289,6,Victoria
+2019,construction_pj,13.421,6,Victoria
+2020,construction_pj,12.951,6,Victoria
+2021,construction_pj,12.632,6,Victoria
+2022,construction_pj,12.405,6,Victoria
+1974,transport_pj,184,181,Victoria
+1975,transport_pj,189.1,181,Victoria
+1976,transport_pj,198.1,181,Victoria
+1977,transport_pj,210.4,181,Victoria
+1978,transport_pj,214.5,181,Victoria
+1979,transport_pj,213.1,181,Victoria
+1980,transport_pj,213.5,181,Victoria
+1981,transport_pj,217.5,181,Victoria
+1982,transport_pj,214,181,Victoria
+1983,transport_pj,218.3,181,Victoria
+1984,transport_pj,225.3,181,Victoria
+1985,transport_pj,228,181,Victoria
+1986,transport_pj,235.9,181,Victoria
+1987,transport_pj,246.4,181,Victoria
+1988,transport_pj,255.3,181,Victoria
+1989,transport_pj,260.2,181,Victoria
+1990,transport_pj,248.7,181,Victoria
+1991,transport_pj,253.7,181,Victoria
+1992,transport_pj,256,181,Victoria
+1993,transport_pj,257.8,181,Victoria
+1994,transport_pj,267.5,181,Victoria
+1995,transport_pj,274.3,181,Victoria
+1996,transport_pj,278.4,181,Victoria
+1997,transport_pj,283.3,181,Victoria
+1998,transport_pj,292.5,181,Victoria
+1999,transport_pj,300,181,Victoria
+2000,transport_pj,296.2,181,Victoria
+2001,transport_pj,310.2,181,Victoria
+2002,transport_pj,314.67,181,Victoria
+2003,transport_pj,329.773,181,Victoria
+2004,transport_pj,332.52,181,Victoria
+2005,transport_pj,337.814,181,Victoria
+2006,transport_pj,342.521,181,Victoria
+2007,transport_pj,338.858,181,Victoria
+2008,transport_pj,339.588,181,Victoria
+2009,transport_pj,345.461,181,Victoria
+2010,transport_pj,352.056,181,Victoria
+2011,transport_pj,345.716,181,Victoria
+2012,transport_pj,352.768,181,Victoria
+2013,transport_pj,363.394,181,Victoria
+2014,transport_pj,377.792,181,Victoria
+2015,transport_pj,375.561,181,Victoria
+2016,transport_pj,382.83,181,Victoria
+2017,transport_pj,385.323,181,Victoria
+2018,transport_pj,399.094,181,Victoria
+2019,transport_pj,355.944,181,Victoria
+2020,transport_pj,289.552,181,Victoria
+2021,transport_pj,313.943,181,Victoria
+2022,transport_pj,364.529,181,Victoria
+1974,water_and_waste_b_pj,0.9,0.8,Victoria
+1975,water_and_waste_b_pj,1,0.8,Victoria
+1976,water_and_waste_b_pj,1,0.8,Victoria
+1977,water_and_waste_b_pj,1.1,0.8,Victoria
+1978,water_and_waste_b_pj,1.1,0.8,Victoria
+1979,water_and_waste_b_pj,1.2,0.8,Victoria
+1980,water_and_waste_b_pj,1.2,0.8,Victoria
+1981,water_and_waste_b_pj,1.3,0.8,Victoria
+1982,water_and_waste_b_pj,1.3,0.8,Victoria
+1983,water_and_waste_b_pj,1.3,0.8,Victoria
+1984,water_and_waste_b_pj,1.3,0.8,Victoria
+1985,water_and_waste_b_pj,1.4,0.8,Victoria
+1986,water_and_waste_b_pj,1.4,0.8,Victoria
+1987,water_and_waste_b_pj,1.5,0.8,Victoria
+1988,water_and_waste_b_pj,1.5,0.8,Victoria
+1989,water_and_waste_b_pj,1.6,0.8,Victoria
+1990,water_and_waste_b_pj,1.6,0.8,Victoria
+1991,water_and_waste_b_pj,1.6,0.8,Victoria
+1992,water_and_waste_b_pj,1.7,0.8,Victoria
+1993,water_and_waste_b_pj,1.7,0.8,Victoria
+1994,water_and_waste_b_pj,1.7,0.8,Victoria
+1995,water_and_waste_b_pj,1.8,0.8,Victoria
+1996,water_and_waste_b_pj,1.8,0.8,Victoria
+1997,water_and_waste_b_pj,1.9,0.8,Victoria
+1998,water_and_waste_b_pj,1.9,0.8,Victoria
+1999,water_and_waste_b_pj,2,0.8,Victoria
+2000,water_and_waste_b_pj,2,0.8,Victoria
+2001,water_and_waste_b_pj,2.1,0.8,Victoria
+2002,water_and_waste_b_pj,2.186,0.8,Victoria
+2003,water_and_waste_b_pj,2.373,0.8,Victoria
+2004,water_and_waste_b_pj,2.317,0.8,Victoria
+2005,water_and_waste_b_pj,2.525,0.8,Victoria
+2006,water_and_waste_b_pj,2.642,0.8,Victoria
+2007,water_and_waste_b_pj,2.627,0.8,Victoria
+2008,water_and_waste_b_pj,2.469,0.8,Victoria
+2009,water_and_waste_b_pj,3.083,0.8,Victoria
+2010,water_and_waste_b_pj,2.292,0.8,Victoria
+2011,water_and_waste_b_pj,3.387,0.8,Victoria
+2012,water_and_waste_b_pj,2.831,0.8,Victoria
+2013,water_and_waste_b_pj,3.055,0.8,Victoria
+2014,water_and_waste_b_pj,2.362,0.8,Victoria
+2015,water_and_waste_b_pj,2.333,0.8,Victoria
+2016,water_and_waste_b_pj,2.6,0.8,Victoria
+2017,water_and_waste_b_pj,3.002,0.8,Victoria
+2018,water_and_waste_b_pj,3.349,0.8,Victoria
+2019,water_and_waste_b_pj,4.801,0.8,Victoria
+2020,water_and_waste_b_pj,4.819,0.8,Victoria
+2021,water_and_waste_b_pj,4.492,0.8,Victoria
+2022,water_and_waste_b_pj,2.677,0.8,Victoria
+1974,commercial_and_services_c_pj,27.1,25.7,Victoria
+1975,commercial_and_services_c_pj,27.7,25.7,Victoria
+1976,commercial_and_services_c_pj,28.5,25.7,Victoria
+1977,commercial_and_services_c_pj,28.1,25.7,Victoria
+1978,commercial_and_services_c_pj,29.8,25.7,Victoria
+1979,commercial_and_services_c_pj,30.4,25.7,Victoria
+1980,commercial_and_services_c_pj,30.5,25.7,Victoria
+1981,commercial_and_services_c_pj,32.1,25.7,Victoria
+1982,commercial_and_services_c_pj,32.9,25.7,Victoria
+1983,commercial_and_services_c_pj,34,25.7,Victoria
+1984,commercial_and_services_c_pj,35.1,25.7,Victoria
+1985,commercial_and_services_c_pj,36.7,25.7,Victoria
+1986,commercial_and_services_c_pj,38.6,25.7,Victoria
+1987,commercial_and_services_c_pj,40.1,25.7,Victoria
+1988,commercial_and_services_c_pj,41.6,25.7,Victoria
+1989,commercial_and_services_c_pj,44.6,25.7,Victoria
+1990,commercial_and_services_c_pj,45.9,25.7,Victoria
+1991,commercial_and_services_c_pj,46.9,25.7,Victoria
+1992,commercial_and_services_c_pj,48.6,25.7,Victoria
+1993,commercial_and_services_c_pj,49.2,25.7,Victoria
+1994,commercial_and_services_c_pj,52.7,25.7,Victoria
+1995,commercial_and_services_c_pj,54.8,25.7,Victoria
+1996,commercial_and_services_c_pj,56.5,25.7,Victoria
+1997,commercial_and_services_c_pj,57.7,25.7,Victoria
+1998,commercial_and_services_c_pj,57.8,25.7,Victoria
+1999,commercial_and_services_c_pj,59.8,25.7,Victoria
+2000,commercial_and_services_c_pj,66.2,25.7,Victoria
+2001,commercial_and_services_c_pj,67.5,25.7,Victoria
+2002,commercial_and_services_c_pj,75.288,25.7,Victoria
+2003,commercial_and_services_c_pj,75.059,25.7,Victoria
+2004,commercial_and_services_c_pj,75.531,25.7,Victoria
+2005,commercial_and_services_c_pj,75.385,25.7,Victoria
+2006,commercial_and_services_c_pj,79.537,25.7,Victoria
+2007,commercial_and_services_c_pj,80.265,25.7,Victoria
+2008,commercial_and_services_c_pj,82.396,25.7,Victoria
+2009,commercial_and_services_c_pj,85.84,25.7,Victoria
+2010,commercial_and_services_c_pj,89.752,25.7,Victoria
+2011,commercial_and_services_c_pj,88.26,25.7,Victoria
+2012,commercial_and_services_c_pj,89.801,25.7,Victoria
+2013,commercial_and_services_c_pj,76.245,25.7,Victoria
+2014,commercial_and_services_c_pj,78.609,25.7,Victoria
+2015,commercial_and_services_c_pj,76.812,25.7,Victoria
+2016,commercial_and_services_c_pj,77.195,25.7,Victoria
+2017,commercial_and_services_c_pj,79.061,25.7,Victoria
+2018,commercial_and_services_c_pj,77.23,25.7,Victoria
+2019,commercial_and_services_c_pj,72.081,25.7,Victoria
+2020,commercial_and_services_c_pj,68.595,25.7,Victoria
+2021,commercial_and_services_c_pj,70.693,25.7,Victoria
+2022,commercial_and_services_c_pj,75.915,25.7,Victoria
+1974,residential_pj,97.1,89.6,Victoria
+1975,residential_pj,95,89.6,Victoria
+1976,residential_pj,102.1,89.6,Victoria
+1977,residential_pj,102.5,89.6,Victoria
+1978,residential_pj,105.6,89.6,Victoria
+1979,residential_pj,101.9,89.6,Victoria
+1980,residential_pj,102.6,89.6,Victoria
+1981,residential_pj,108.4,89.6,Victoria
+1982,residential_pj,109.2,89.6,Victoria
+1983,residential_pj,109.9,89.6,Victoria
+1984,residential_pj,110.2,89.6,Victoria
+1985,residential_pj,110.8,89.6,Victoria
+1986,residential_pj,115.7,89.6,Victoria
+1987,residential_pj,111.5,89.6,Victoria
+1988,residential_pj,113.7,89.6,Victoria
+1989,residential_pj,124.2,89.6,Victoria
+1990,residential_pj,124.2,89.6,Victoria
+1991,residential_pj,127.5,89.6,Victoria
+1992,residential_pj,131.3,89.6,Victoria
+1993,residential_pj,127.6,89.6,Victoria
+1994,residential_pj,135.2,89.6,Victoria
+1995,residential_pj,141.8,89.6,Victoria
+1996,residential_pj,143.2,89.6,Victoria
+1997,residential_pj,145.9,89.6,Victoria
+1998,residential_pj,143.5,89.6,Victoria
+1999,residential_pj,145.3,89.6,Victoria
+2000,residential_pj,147.7,89.6,Victoria
+2001,residential_pj,148.8,89.6,Victoria
+2002,residential_pj,151.732,89.6,Victoria
+2003,residential_pj,151.452,89.6,Victoria
+2004,residential_pj,150.023,89.6,Victoria
+2005,residential_pj,154.345,89.6,Victoria
+2006,residential_pj,156.549,89.6,Victoria
+2007,residential_pj,157.515,89.6,Victoria
+2008,residential_pj,159.099,89.6,Victoria
+2009,residential_pj,160.79,89.6,Victoria
+2010,residential_pj,162.899,89.6,Victoria
+2011,residential_pj,161.909,89.6,Victoria
+2012,residential_pj,164.269,89.6,Victoria
+2013,residential_pj,148.945,89.6,Victoria
+2014,residential_pj,168.378,89.6,Victoria
+2015,residential_pj,166.925,89.6,Victoria
+2016,residential_pj,170.853,89.6,Victoria
+2017,residential_pj,167.905,89.6,Victoria
+2018,residential_pj,170.769,89.6,Victoria
+2019,residential_pj,181.667,89.6,Victoria
+2020,residential_pj,182.542,89.6,Victoria
+2021,residential_pj,181.527,89.6,Victoria
+2022,residential_pj,169.958,89.6,Victoria
+1974,other_d_pj,19.6,20.4,Victoria
+1975,other_d_pj,19.1,20.4,Victoria
+1976,other_d_pj,19.7,20.4,Victoria
+1977,other_d_pj,21.5,20.4,Victoria
+1978,other_d_pj,21.5,20.4,Victoria
+1979,other_d_pj,23.2,20.4,Victoria
+1980,other_d_pj,20.6,20.4,Victoria
+1981,other_d_pj,21.4,20.4,Victoria
+1982,other_d_pj,22,20.4,Victoria
+1983,other_d_pj,20.9,20.4,Victoria
+1984,other_d_pj,20.7,20.4,Victoria
+1985,other_d_pj,20.1,20.4,Victoria
+1986,other_d_pj,18.7,20.4,Victoria
+1987,other_d_pj,19.1,20.4,Victoria
+1988,other_d_pj,19.1,20.4,Victoria
+1989,other_d_pj,19.4,20.4,Victoria
+1990,other_d_pj,16.7,20.4,Victoria
+1991,other_d_pj,16.7,20.4,Victoria
+1992,other_d_pj,18.6,20.4,Victoria
+1993,other_d_pj,21.2,20.4,Victoria
+1994,other_d_pj,22.9,20.4,Victoria
+1995,other_d_pj,23.5,20.4,Victoria
+1996,other_d_pj,23.7,20.4,Victoria
+1997,other_d_pj,24.5,20.4,Victoria
+1998,other_d_pj,24.5,20.4,Victoria
+1999,other_d_pj,26,20.4,Victoria
+2000,other_d_pj,20.9,20.4,Victoria
+2001,other_d_pj,21.8,20.4,Victoria
+2002,other_d_pj,20.528,20.4,Victoria
+2003,other_d_pj,20.334,20.4,Victoria
+2004,other_d_pj,20.707,20.4,Victoria
+2005,other_d_pj,20.349,20.4,Victoria
+2006,other_d_pj,20.771,20.4,Victoria
+2007,other_d_pj,21.677,20.4,Victoria
+2008,other_d_pj,18.63,20.4,Victoria
+2009,other_d_pj,19.833,20.4,Victoria
+2010,other_d_pj,20.09,20.4,Victoria
+2011,other_d_pj,18.69,20.4,Victoria
+2012,other_d_pj,15.525,20.4,Victoria
+2013,other_d_pj,11.456,20.4,Victoria
+2014,other_d_pj,9.49,20.4,Victoria
+2015,other_d_pj,10.9,20.4,Victoria
+2016,other_d_pj,11.359,20.4,Victoria
+2017,other_d_pj,14.796,20.4,Victoria
+2018,other_d_pj,16.629,20.4,Victoria
+2019,other_d_pj,16.916,20.4,Victoria
+2020,other_d_pj,17.502,20.4,Victoria
+2021,other_d_pj,17.211,20.4,Victoria
+2022,other_d_pj,14.782,20.4,Victoria
+1974,total_pj,731,710.9,Victoria
+1975,total_pj,752.8,710.9,Victoria
+1976,total_pj,802.1,710.9,Victoria
+1977,total_pj,823.1,710.9,Victoria
+1978,total_pj,857.3,710.9,Victoria
+1979,total_pj,869.4,710.9,Victoria
+1980,total_pj,880.8,710.9,Victoria
+1981,total_pj,939.4,710.9,Victoria
+1982,total_pj,896.5,710.9,Victoria
+1983,total_pj,904.9,710.9,Victoria
+1984,total_pj,936.2,710.9,Victoria
+1985,total_pj,926.4,710.9,Victoria
+1986,total_pj,979.5,710.9,Victoria
+1987,total_pj,1014.5,710.9,Victoria
+1988,total_pj,1090.2,710.9,Victoria
+1989,total_pj,1099.8,710.9,Victoria
+1990,total_pj,1090.9,710.9,Victoria
+1991,total_pj,1108.7,710.9,Victoria
+1992,total_pj,1104.7,710.9,Victoria
+1993,total_pj,1102.5,710.9,Victoria
+1994,total_pj,1152.2,710.9,Victoria
+1995,total_pj,1184.9,710.9,Victoria
+1996,total_pj,1202.7,710.9,Victoria
+1997,total_pj,1286.3,710.9,Victoria
+1998,total_pj,1318.3,710.9,Victoria
+1999,total_pj,1346.3,710.9,Victoria
+2000,total_pj,1337.2,710.9,Victoria
+2001,total_pj,1371.9,710.9,Victoria
+2002,total_pj,1330.624,710.9,Victoria
+2003,total_pj,1364.902,710.9,Victoria
+2004,total_pj,1356.513,710.9,Victoria
+2005,total_pj,1429.476,710.9,Victoria
+2006,total_pj,1433.859,710.9,Victoria
+2007,total_pj,1426.079,710.9,Victoria
+2008,total_pj,1421.679,710.9,Victoria
+2009,total_pj,1426.739,710.9,Victoria
+2010,total_pj,1448.557,710.9,Victoria
+2011,total_pj,1457.312,710.9,Victoria
+2012,total_pj,1425.302,710.9,Victoria
+2013,total_pj,1394.779,710.9,Victoria
+2014,total_pj,1392.271,710.9,Victoria
+2015,total_pj,1414.792,710.9,Victoria
+2016,total_pj,1384.789,710.9,Victoria
+2017,total_pj,1309.98,710.9,Victoria
+2018,total_pj,1276.267,710.9,Victoria
+2019,total_pj,1207.708,710.9,Victoria
+2020,total_pj,1128.83,710.9,Victoria
+2021,total_pj,1148.131,710.9,Victoria
+2022,total_pj,1172.601,710.9,Victoria
+1974,agriculture_pj,11.3,10.3,Queensland
+1975,agriculture_pj,11.5,10.3,Queensland
+1976,agriculture_pj,12,10.3,Queensland
+1977,agriculture_pj,12.2,10.3,Queensland
+1978,agriculture_pj,12.5,10.3,Queensland
+1979,agriculture_pj,12.7,10.3,Queensland
+1980,agriculture_pj,13.6,10.3,Queensland
+1981,agriculture_pj,15.9,10.3,Queensland
+1982,agriculture_pj,16.2,10.3,Queensland
+1983,agriculture_pj,17.2,10.3,Queensland
+1984,agriculture_pj,17.4,10.3,Queensland
+1985,agriculture_pj,17.4,10.3,Queensland
+1986,agriculture_pj,17.9,10.3,Queensland
+1987,agriculture_pj,17.8,10.3,Queensland
+1988,agriculture_pj,18.1,10.3,Queensland
+1989,agriculture_pj,16.7,10.3,Queensland
+1990,agriculture_pj,16.9,10.3,Queensland
+1991,agriculture_pj,17.3,10.3,Queensland
+1992,agriculture_pj,18.1,10.3,Queensland
+1993,agriculture_pj,18.5,10.3,Queensland
+1994,agriculture_pj,19,10.3,Queensland
+1995,agriculture_pj,19.3,10.3,Queensland
+1996,agriculture_pj,19.9,10.3,Queensland
+1997,agriculture_pj,20.6,10.3,Queensland
+1998,agriculture_pj,21.5,10.3,Queensland
+1999,agriculture_pj,22.8,10.3,Queensland
+2000,agriculture_pj,15.4,10.3,Queensland
+2001,agriculture_pj,15.8,10.3,Queensland
+2002,agriculture_pj,19.143,10.3,Queensland
+2003,agriculture_pj,19.256,10.3,Queensland
+2004,agriculture_pj,20.932,10.3,Queensland
+2005,agriculture_pj,22.07,10.3,Queensland
+2006,agriculture_pj,22.225,10.3,Queensland
+2007,agriculture_pj,22.19,10.3,Queensland
+2008,agriculture_pj,22.527,10.3,Queensland
+2009,agriculture_pj,22.568,10.3,Queensland
+2010,agriculture_pj,22.89,10.3,Queensland
+2011,agriculture_pj,23.287,10.3,Queensland
+2012,agriculture_pj,24.775,10.3,Queensland
+2013,agriculture_pj,25.013,10.3,Queensland
+2014,agriculture_pj,25.216,10.3,Queensland
+2015,agriculture_pj,26.648,10.3,Queensland
+2016,agriculture_pj,29.184,10.3,Queensland
+2017,agriculture_pj,29.937,10.3,Queensland
+2018,agriculture_pj,26.169,10.3,Queensland
+2019,agriculture_pj,24.583,10.3,Queensland
+2020,agriculture_pj,29.367,10.3,Queensland
+2021,agriculture_pj,26.101,10.3,Queensland
+2022,agriculture_pj,23.715,10.3,Queensland
+1974,mining_pj,8.4,8.9,Queensland
+1975,mining_pj,8.7,8.9,Queensland
+1976,mining_pj,9.4,8.9,Queensland
+1977,mining_pj,9.2,8.9,Queensland
+1978,mining_pj,9.3,8.9,Queensland
+1979,mining_pj,9.3,8.9,Queensland
+1980,mining_pj,10.1,8.9,Queensland
+1981,mining_pj,10.9,8.9,Queensland
+1982,mining_pj,11.4,8.9,Queensland
+1983,mining_pj,12,8.9,Queensland
+1984,mining_pj,12.9,8.9,Queensland
+1985,mining_pj,14.2,8.9,Queensland
+1986,mining_pj,15.8,8.9,Queensland
+1987,mining_pj,17.5,8.9,Queensland
+1988,mining_pj,18.8,8.9,Queensland
+1989,mining_pj,19.7,8.9,Queensland
+1990,mining_pj,20.7,8.9,Queensland
+1991,mining_pj,22.8,8.9,Queensland
+1992,mining_pj,25,8.9,Queensland
+1993,mining_pj,26.9,8.9,Queensland
+1994,mining_pj,28.6,8.9,Queensland
+1995,mining_pj,29.9,8.9,Queensland
+1996,mining_pj,31.6,8.9,Queensland
+1997,mining_pj,35.4,8.9,Queensland
+1998,mining_pj,37.9,8.9,Queensland
+1999,mining_pj,39.1,8.9,Queensland
+2000,mining_pj,51.5,8.9,Queensland
+2001,mining_pj,56.7,8.9,Queensland
+2002,mining_pj,63.383,8.9,Queensland
+2003,mining_pj,66.466,8.9,Queensland
+2004,mining_pj,75.886,8.9,Queensland
+2005,mining_pj,70.786,8.9,Queensland
+2006,mining_pj,70.652,8.9,Queensland
+2007,mining_pj,75.552,8.9,Queensland
+2008,mining_pj,80.255,8.9,Queensland
+2009,mining_pj,86.547,8.9,Queensland
+2010,mining_pj,90.985,8.9,Queensland
+2011,mining_pj,104.411,8.9,Queensland
+2012,mining_pj,118.165,8.9,Queensland
+2013,mining_pj,122.456,8.9,Queensland
+2014,mining_pj,131.618,8.9,Queensland
+2015,mining_pj,173.766,8.9,Queensland
+2016,mining_pj,222.659,8.9,Queensland
+2017,mining_pj,242.283,8.9,Queensland
+2018,mining_pj,255.366,8.9,Queensland
+2019,mining_pj,264.027,8.9,Queensland
+2020,mining_pj,264.004,8.9,Queensland
+2021,mining_pj,263.854,8.9,Queensland
+2022,mining_pj,269.943,8.9,Queensland
+1974,manufacturing_pj,156,147.7,Queensland
+1975,manufacturing_pj,165.3,147.7,Queensland
+1976,manufacturing_pj,179.5,147.7,Queensland
+1977,manufacturing_pj,179.9,147.7,Queensland
+1978,manufacturing_pj,171.8,147.7,Queensland
+1979,manufacturing_pj,175.6,147.7,Queensland
+1980,manufacturing_pj,182.1,147.7,Queensland
+1981,manufacturing_pj,186.2,147.7,Queensland
+1982,manufacturing_pj,179,147.7,Queensland
+1983,manufacturing_pj,185.9,147.7,Queensland
+1984,manufacturing_pj,192.9,147.7,Queensland
+1985,manufacturing_pj,191,147.7,Queensland
+1986,manufacturing_pj,196.8,147.7,Queensland
+1987,manufacturing_pj,202.4,147.7,Queensland
+1988,manufacturing_pj,213.4,147.7,Queensland
+1989,manufacturing_pj,213.6,147.7,Queensland
+1990,manufacturing_pj,213.8,147.7,Queensland
+1991,manufacturing_pj,206.1,147.7,Queensland
+1992,manufacturing_pj,220.6,147.7,Queensland
+1993,manufacturing_pj,235.2,147.7,Queensland
+1994,manufacturing_pj,245.2,147.7,Queensland
+1995,manufacturing_pj,255,147.7,Queensland
+1996,manufacturing_pj,265.3,147.7,Queensland
+1997,manufacturing_pj,279.4,147.7,Queensland
+1998,manufacturing_pj,278.9,147.7,Queensland
+1999,manufacturing_pj,283.9,147.7,Queensland
+2000,manufacturing_pj,267.7,147.7,Queensland
+2001,manufacturing_pj,273,147.7,Queensland
+2002,manufacturing_pj,227.601,147.7,Queensland
+2003,manufacturing_pj,173.123,147.7,Queensland
+2004,manufacturing_pj,256.969,147.7,Queensland
+2005,manufacturing_pj,300.305,147.7,Queensland
+2006,manufacturing_pj,258.86,147.7,Queensland
+2007,manufacturing_pj,253.141,147.7,Queensland
+2008,manufacturing_pj,279.294,147.7,Queensland
+2009,manufacturing_pj,302.357,147.7,Queensland
+2010,manufacturing_pj,301.691,147.7,Queensland
+2011,manufacturing_pj,303.478,147.7,Queensland
+2012,manufacturing_pj,324.086,147.7,Queensland
+2013,manufacturing_pj,319.334,147.7,Queensland
+2014,manufacturing_pj,352.865,147.7,Queensland
+2015,manufacturing_pj,309.531,147.7,Queensland
+2016,manufacturing_pj,316.279,147.7,Queensland
+2017,manufacturing_pj,292.305,147.7,Queensland
+2018,manufacturing_pj,283.236,147.7,Queensland
+2019,manufacturing_pj,277.49,147.7,Queensland
+2020,manufacturing_pj,268.825,147.7,Queensland
+2021,manufacturing_pj,269.354,147.7,Queensland
+2022,manufacturing_pj,262.43,147.7,Queensland
+1974,electricity_generation_pj,71.6,64,Queensland
+1975,electricity_generation_pj,73.4,64,Queensland
+1976,electricity_generation_pj,78.7,64,Queensland
+1977,electricity_generation_pj,92,64,Queensland
+1978,electricity_generation_pj,92.3,64,Queensland
+1979,electricity_generation_pj,97.4,64,Queensland
+1980,electricity_generation_pj,106,64,Queensland
+1981,electricity_generation_pj,117.3,64,Queensland
+1982,electricity_generation_pj,132.5,64,Queensland
+1983,electricity_generation_pj,146.5,64,Queensland
+1984,electricity_generation_pj,160.1,64,Queensland
+1985,electricity_generation_pj,157.1,64,Queensland
+1986,electricity_generation_pj,157.7,64,Queensland
+1987,electricity_generation_pj,159.2,64,Queensland
+1988,electricity_generation_pj,166.1,64,Queensland
+1989,electricity_generation_pj,172.2,64,Queensland
+1990,electricity_generation_pj,176.3,64,Queensland
+1991,electricity_generation_pj,186.5,64,Queensland
+1992,electricity_generation_pj,199.3,64,Queensland
+1993,electricity_generation_pj,201.6,64,Queensland
+1994,electricity_generation_pj,219.2,64,Queensland
+1995,electricity_generation_pj,235.8,64,Queensland
+1996,electricity_generation_pj,241,64,Queensland
+1997,electricity_generation_pj,274.5,64,Queensland
+1998,electricity_generation_pj,288.4,64,Queensland
+1999,electricity_generation_pj,285.7,64,Queensland
+2000,electricity_generation_pj,317.1,64,Queensland
+2001,electricity_generation_pj,334.1,64,Queensland
+2002,electricity_generation_pj,371.253,64,Queensland
+2003,electricity_generation_pj,415.476,64,Queensland
+2004,electricity_generation_pj,457.943,64,Queensland
+2005,electricity_generation_pj,464.312,64,Queensland
+2006,electricity_generation_pj,536.766,64,Queensland
+2007,electricity_generation_pj,477.723,64,Queensland
+2008,electricity_generation_pj,497.159,64,Queensland
+2009,electricity_generation_pj,410.485,64,Queensland
+2010,electricity_generation_pj,360.216,64,Queensland
+2011,electricity_generation_pj,397.168,64,Queensland
+2012,electricity_generation_pj,374.87,64,Queensland
+2013,electricity_generation_pj,368.776,64,Queensland
+2014,electricity_generation_pj,417.098,64,Queensland
+2015,electricity_generation_pj,422.091,64,Queensland
+2016,electricity_generation_pj,427.984,64,Queensland
+2017,electricity_generation_pj,433.889,64,Queensland
+2018,electricity_generation_pj,420.897,64,Queensland
+2019,electricity_generation_pj,409.147,64,Queensland
+2020,electricity_generation_pj,398.456,64,Queensland
+2021,electricity_generation_pj,381.885,64,Queensland
+2022,electricity_generation_pj,367.974,64,Queensland
+1974,construction_pj,6.9,6.8,Queensland
+1975,construction_pj,6.1,6.8,Queensland
+1976,construction_pj,7.4,6.8,Queensland
+1977,construction_pj,8.5,6.8,Queensland
+1978,construction_pj,9.3,6.8,Queensland
+1979,construction_pj,10.9,6.8,Queensland
+1980,construction_pj,12.2,6.8,Queensland
+1981,construction_pj,15.5,6.8,Queensland
+1982,construction_pj,11.2,6.8,Queensland
+1983,construction_pj,10.9,6.8,Queensland
+1984,construction_pj,9,6.8,Queensland
+1985,construction_pj,10,6.8,Queensland
+1986,construction_pj,10.2,6.8,Queensland
+1987,construction_pj,13,6.8,Queensland
+1988,construction_pj,13.3,6.8,Queensland
+1989,construction_pj,13.6,6.8,Queensland
+1990,construction_pj,12.7,6.8,Queensland
+1991,construction_pj,12.2,6.8,Queensland
+1992,construction_pj,11.8,6.8,Queensland
+1993,construction_pj,11.4,6.8,Queensland
+1994,construction_pj,11,6.8,Queensland
+1995,construction_pj,10.6,6.8,Queensland
+1996,construction_pj,10.3,6.8,Queensland
+1997,construction_pj,9.9,6.8,Queensland
+1998,construction_pj,9.5,6.8,Queensland
+1999,construction_pj,9.2,6.8,Queensland
+2000,construction_pj,9.2,6.8,Queensland
+2001,construction_pj,9.4,6.8,Queensland
+2002,construction_pj,9.084,6.8,Queensland
+2003,construction_pj,9.108,6.8,Queensland
+2004,construction_pj,9.403,6.8,Queensland
+2005,construction_pj,7.477,6.8,Queensland
+2006,construction_pj,7.321,6.8,Queensland
+2007,construction_pj,7.381,6.8,Queensland
+2008,construction_pj,8.051,6.8,Queensland
+2009,construction_pj,7.408,6.8,Queensland
+2010,construction_pj,7.168,6.8,Queensland
+2011,construction_pj,6.663,6.8,Queensland
+2012,construction_pj,6.285,6.8,Queensland
+2013,construction_pj,6.353,6.8,Queensland
+2014,construction_pj,8.375,6.8,Queensland
+2015,construction_pj,8.215,6.8,Queensland
+2016,construction_pj,7.827,6.8,Queensland
+2017,construction_pj,8.001,6.8,Queensland
+2018,construction_pj,7.571,6.8,Queensland
+2019,construction_pj,7.014,6.8,Queensland
+2020,construction_pj,6.913,6.8,Queensland
+2021,construction_pj,6.388,6.8,Queensland
+2022,construction_pj,6.231,6.8,Queensland
+1974,transport_pj,97.8,94.1,Queensland
+1975,transport_pj,103.5,94.1,Queensland
+1976,transport_pj,111.8,94.1,Queensland
+1977,transport_pj,114.6,94.1,Queensland
+1978,transport_pj,122,94.1,Queensland
+1979,transport_pj,126.6,94.1,Queensland
+1980,transport_pj,130.9,94.1,Queensland
+1981,transport_pj,141,94.1,Queensland
+1982,transport_pj,141.7,94.1,Queensland
+1983,transport_pj,148.6,94.1,Queensland
+1984,transport_pj,155.9,94.1,Queensland
+1985,transport_pj,160.5,94.1,Queensland
+1986,transport_pj,164.8,94.1,Queensland
+1987,transport_pj,172.8,94.1,Queensland
+1988,transport_pj,185.5,94.1,Queensland
+1989,transport_pj,188.7,94.1,Queensland
+1990,transport_pj,191.7,94.1,Queensland
+1991,transport_pj,197.4,94.1,Queensland
+1992,transport_pj,206.3,94.1,Queensland
+1993,transport_pj,218,94.1,Queensland
+1994,transport_pj,236.8,94.1,Queensland
+1995,transport_pj,242.3,94.1,Queensland
+1996,transport_pj,251,94.1,Queensland
+1997,transport_pj,250.3,94.1,Queensland
+1998,transport_pj,247.2,94.1,Queensland
+1999,transport_pj,261.5,94.1,Queensland
+2000,transport_pj,257.5,94.1,Queensland
+2001,transport_pj,261.8,94.1,Queensland
+2002,transport_pj,256.821,94.1,Queensland
+2003,transport_pj,274.457,94.1,Queensland
+2004,transport_pj,283.814,94.1,Queensland
+2005,transport_pj,291.357,94.1,Queensland
+2006,transport_pj,302.784,94.1,Queensland
+2007,transport_pj,319.078,94.1,Queensland
+2008,transport_pj,321.527,94.1,Queensland
+2009,transport_pj,326.009,94.1,Queensland
+2010,transport_pj,329.602,94.1,Queensland
+2011,transport_pj,343.715,94.1,Queensland
+2012,transport_pj,346.848,94.1,Queensland
+2013,transport_pj,349.63,94.1,Queensland
+2014,transport_pj,353.426,94.1,Queensland
+2015,transport_pj,371.814,94.1,Queensland
+2016,transport_pj,376.327,94.1,Queensland
+2017,transport_pj,398.125,94.1,Queensland
+2018,transport_pj,397.072,94.1,Queensland
+2019,transport_pj,364.302,94.1,Queensland
+2020,transport_pj,335.323,94.1,Queensland
+2021,transport_pj,337.161,94.1,Queensland
+2022,transport_pj,363.781,94.1,Queensland
+1974,water_and_waste_b_pj,0.2,0.2,Queensland
+1975,water_and_waste_b_pj,0.2,0.2,Queensland
+1976,water_and_waste_b_pj,0.2,0.2,Queensland
+1977,water_and_waste_b_pj,0.2,0.2,Queensland
+1978,water_and_waste_b_pj,0.2,0.2,Queensland
+1979,water_and_waste_b_pj,0.2,0.2,Queensland
+1980,water_and_waste_b_pj,0.3,0.2,Queensland
+1981,water_and_waste_b_pj,0.3,0.2,Queensland
+1982,water_and_waste_b_pj,0.3,0.2,Queensland
+1983,water_and_waste_b_pj,0.3,0.2,Queensland
+1984,water_and_waste_b_pj,0.3,0.2,Queensland
+1985,water_and_waste_b_pj,0.3,0.2,Queensland
+1986,water_and_waste_b_pj,0.3,0.2,Queensland
+1987,water_and_waste_b_pj,0.3,0.2,Queensland
+1988,water_and_waste_b_pj,0.4,0.2,Queensland
+1989,water_and_waste_b_pj,0.4,0.2,Queensland
+1990,water_and_waste_b_pj,0.4,0.2,Queensland
+1991,water_and_waste_b_pj,0.4,0.2,Queensland
+1992,water_and_waste_b_pj,0.4,0.2,Queensland
+1993,water_and_waste_b_pj,0.4,0.2,Queensland
+1994,water_and_waste_b_pj,0.5,0.2,Queensland
+1995,water_and_waste_b_pj,0.5,0.2,Queensland
+1996,water_and_waste_b_pj,0.5,0.2,Queensland
+1997,water_and_waste_b_pj,0.5,0.2,Queensland
+1998,water_and_waste_b_pj,0.5,0.2,Queensland
+1999,water_and_waste_b_pj,0.5,0.2,Queensland
+2000,water_and_waste_b_pj,0.5,0.2,Queensland
+2001,water_and_waste_b_pj,0.5,0.2,Queensland
+2002,water_and_waste_b_pj,0.531,0.2,Queensland
+2003,water_and_waste_b_pj,0.563,0.2,Queensland
+2004,water_and_waste_b_pj,0.594,0.2,Queensland
+2005,water_and_waste_b_pj,0.584,0.2,Queensland
+2006,water_and_waste_b_pj,0.619,0.2,Queensland
+2007,water_and_waste_b_pj,1.164,0.2,Queensland
+2008,water_and_waste_b_pj,1.492,0.2,Queensland
+2009,water_and_waste_b_pj,1.066,0.2,Queensland
+2010,water_and_waste_b_pj,1.093,0.2,Queensland
+2011,water_and_waste_b_pj,1.177,0.2,Queensland
+2012,water_and_waste_b_pj,1.113,0.2,Queensland
+2013,water_and_waste_b_pj,1.156,0.2,Queensland
+2014,water_and_waste_b_pj,2.092,0.2,Queensland
+2015,water_and_waste_b_pj,2.561,0.2,Queensland
+2016,water_and_waste_b_pj,2.627,0.2,Queensland
+2017,water_and_waste_b_pj,2.14,0.2,Queensland
+2018,water_and_waste_b_pj,3.181,0.2,Queensland
+2019,water_and_waste_b_pj,3.675,0.2,Queensland
+2020,water_and_waste_b_pj,3.236,0.2,Queensland
+2021,water_and_waste_b_pj,2.889,0.2,Queensland
+2022,water_and_waste_b_pj,3.181,0.2,Queensland
+1974,commercial_and_services_c_pj,9.1,8.6,Queensland
+1975,commercial_and_services_c_pj,9.2,8.6,Queensland
+1976,commercial_and_services_c_pj,9.7,8.6,Queensland
+1977,commercial_and_services_c_pj,10.3,8.6,Queensland
+1978,commercial_and_services_c_pj,10.5,8.6,Queensland
+1979,commercial_and_services_c_pj,11.8,8.6,Queensland
+1980,commercial_and_services_c_pj,12.7,8.6,Queensland
+1981,commercial_and_services_c_pj,13.8,8.6,Queensland
+1982,commercial_and_services_c_pj,13.5,8.6,Queensland
+1983,commercial_and_services_c_pj,13.3,8.6,Queensland
+1984,commercial_and_services_c_pj,14,8.6,Queensland
+1985,commercial_and_services_c_pj,15.5,8.6,Queensland
+1986,commercial_and_services_c_pj,16.9,8.6,Queensland
+1987,commercial_and_services_c_pj,18.3,8.6,Queensland
+1988,commercial_and_services_c_pj,20.1,8.6,Queensland
+1989,commercial_and_services_c_pj,21.1,8.6,Queensland
+1990,commercial_and_services_c_pj,22.2,8.6,Queensland
+1991,commercial_and_services_c_pj,23.2,8.6,Queensland
+1992,commercial_and_services_c_pj,24.1,8.6,Queensland
+1993,commercial_and_services_c_pj,25.3,8.6,Queensland
+1994,commercial_and_services_c_pj,27.8,8.6,Queensland
+1995,commercial_and_services_c_pj,30.2,8.6,Queensland
+1996,commercial_and_services_c_pj,31.9,8.6,Queensland
+1997,commercial_and_services_c_pj,33.9,8.6,Queensland
+1998,commercial_and_services_c_pj,34.5,8.6,Queensland
+1999,commercial_and_services_c_pj,36.5,8.6,Queensland
+2000,commercial_and_services_c_pj,39.2,8.6,Queensland
+2001,commercial_and_services_c_pj,40.6,8.6,Queensland
+2002,commercial_and_services_c_pj,46.888,8.6,Queensland
+2003,commercial_and_services_c_pj,49.634,8.6,Queensland
+2004,commercial_and_services_c_pj,49.759,8.6,Queensland
+2005,commercial_and_services_c_pj,50.76,8.6,Queensland
+2006,commercial_and_services_c_pj,53.965,8.6,Queensland
+2007,commercial_and_services_c_pj,55.26,8.6,Queensland
+2008,commercial_and_services_c_pj,55.723,8.6,Queensland
+2009,commercial_and_services_c_pj,55.512,8.6,Queensland
+2010,commercial_and_services_c_pj,56.445,8.6,Queensland
+2011,commercial_and_services_c_pj,54.74,8.6,Queensland
+2012,commercial_and_services_c_pj,58.53,8.6,Queensland
+2013,commercial_and_services_c_pj,59.577,8.6,Queensland
+2014,commercial_and_services_c_pj,64.437,8.6,Queensland
+2015,commercial_and_services_c_pj,62.875,8.6,Queensland
+2016,commercial_and_services_c_pj,63.38,8.6,Queensland
+2017,commercial_and_services_c_pj,61.43,8.6,Queensland
+2018,commercial_and_services_c_pj,59.055,8.6,Queensland
+2019,commercial_and_services_c_pj,55.253,8.6,Queensland
+2020,commercial_and_services_c_pj,54.289,8.6,Queensland
+2021,commercial_and_services_c_pj,55.605,8.6,Queensland
+2022,commercial_and_services_c_pj,58.396,8.6,Queensland
+1974,residential_pj,23.3,22.6,Queensland
+1975,residential_pj,23.3,22.6,Queensland
+1976,residential_pj,23.9,22.6,Queensland
+1977,residential_pj,25.1,22.6,Queensland
+1978,residential_pj,25.9,22.6,Queensland
+1979,residential_pj,26.5,22.6,Queensland
+1980,residential_pj,26.4,22.6,Queensland
+1981,residential_pj,27,22.6,Queensland
+1982,residential_pj,27,22.6,Queensland
+1983,residential_pj,27.3,22.6,Queensland
+1984,residential_pj,28,22.6,Queensland
+1985,residential_pj,28.6,22.6,Queensland
+1986,residential_pj,29.2,22.6,Queensland
+1987,residential_pj,30.4,22.6,Queensland
+1988,residential_pj,31.5,22.6,Queensland
+1989,residential_pj,33.4,22.6,Queensland
+1990,residential_pj,34.5,22.6,Queensland
+1991,residential_pj,35.3,22.6,Queensland
+1992,residential_pj,37.2,22.6,Queensland
+1993,residential_pj,38.1,22.6,Queensland
+1994,residential_pj,39.3,22.6,Queensland
+1995,residential_pj,39.5,22.6,Queensland
+1996,residential_pj,40.8,22.6,Queensland
+1997,residential_pj,42.3,22.6,Queensland
+1998,residential_pj,43.1,22.6,Queensland
+1999,residential_pj,44.1,22.6,Queensland
+2000,residential_pj,45.5,22.6,Queensland
+2001,residential_pj,45.9,22.6,Queensland
+2002,residential_pj,49.526,22.6,Queensland
+2003,residential_pj,51.314,22.6,Queensland
+2004,residential_pj,51.887,22.6,Queensland
+2005,residential_pj,52.35,22.6,Queensland
+2006,residential_pj,54.332,22.6,Queensland
+2007,residential_pj,55.783,22.6,Queensland
+2008,residential_pj,57.136,22.6,Queensland
+2009,residential_pj,58.403,22.6,Queensland
+2010,residential_pj,60.108,22.6,Queensland
+2011,residential_pj,59.911,22.6,Queensland
+2012,residential_pj,60.784,22.6,Queensland
+2013,residential_pj,60.992,22.6,Queensland
+2014,residential_pj,59.329,22.6,Queensland
+2015,residential_pj,59.395,22.6,Queensland
+2016,residential_pj,60.556,22.6,Queensland
+2017,residential_pj,60.621,22.6,Queensland
+2018,residential_pj,63.361,22.6,Queensland
+2019,residential_pj,66.101,22.6,Queensland
+2020,residential_pj,69.272,22.6,Queensland
+2021,residential_pj,72.527,22.6,Queensland
+2022,residential_pj,73.048,22.6,Queensland
+1974,other_d_pj,8,8.1,Queensland
+1975,other_d_pj,8.8,8.1,Queensland
+1976,other_d_pj,9.2,8.1,Queensland
+1977,other_d_pj,9.2,8.1,Queensland
+1978,other_d_pj,9.3,8.1,Queensland
+1979,other_d_pj,9.2,8.1,Queensland
+1980,other_d_pj,8.6,8.1,Queensland
+1981,other_d_pj,9.4,8.1,Queensland
+1982,other_d_pj,8.8,8.1,Queensland
+1983,other_d_pj,9.7,8.1,Queensland
+1984,other_d_pj,9.9,8.1,Queensland
+1985,other_d_pj,10.2,8.1,Queensland
+1986,other_d_pj,10.3,8.1,Queensland
+1987,other_d_pj,10.6,8.1,Queensland
+1988,other_d_pj,11.1,8.1,Queensland
+1989,other_d_pj,12.4,8.1,Queensland
+1990,other_d_pj,12.8,8.1,Queensland
+1991,other_d_pj,13.8,8.1,Queensland
+1992,other_d_pj,15.6,8.1,Queensland
+1993,other_d_pj,17.8,8.1,Queensland
+1994,other_d_pj,20,8.1,Queensland
+1995,other_d_pj,19.6,8.1,Queensland
+1996,other_d_pj,21.8,8.1,Queensland
+1997,other_d_pj,21.7,8.1,Queensland
+1998,other_d_pj,22.3,8.1,Queensland
+1999,other_d_pj,26.4,8.1,Queensland
+2000,other_d_pj,16.3,8.1,Queensland
+2001,other_d_pj,20,8.1,Queensland
+2002,other_d_pj,19.808,8.1,Queensland
+2003,other_d_pj,21.708,8.1,Queensland
+2004,other_d_pj,17.9,8.1,Queensland
+2005,other_d_pj,19.523,8.1,Queensland
+2006,other_d_pj,21.472,8.1,Queensland
+2007,other_d_pj,22.273,8.1,Queensland
+2008,other_d_pj,22.564,8.1,Queensland
+2009,other_d_pj,24.027,8.1,Queensland
+2010,other_d_pj,19.401,8.1,Queensland
+2011,other_d_pj,20.269,8.1,Queensland
+2012,other_d_pj,19.336,8.1,Queensland
+2013,other_d_pj,25.576,8.1,Queensland
+2014,other_d_pj,21.679,8.1,Queensland
+2015,other_d_pj,27.661,8.1,Queensland
+2016,other_d_pj,25.065,8.1,Queensland
+2017,other_d_pj,19.698,8.1,Queensland
+2018,other_d_pj,13.6,8.1,Queensland
+2019,other_d_pj,14.714,8.1,Queensland
+2020,other_d_pj,12.935,8.1,Queensland
+2021,other_d_pj,12.55,8.1,Queensland
+2022,other_d_pj,13.044,8.1,Queensland
+1974,total_pj,392.6,371.3,Queensland
+1975,total_pj,410,371.3,Queensland
+1976,total_pj,441.8,371.3,Queensland
+1977,total_pj,461.2,371.3,Queensland
+1978,total_pj,463.2,371.3,Queensland
+1979,total_pj,480.2,371.3,Queensland
+1980,total_pj,502.9,371.3,Queensland
+1981,total_pj,537.2,371.3,Queensland
+1982,total_pj,541.5,371.3,Queensland
+1983,total_pj,571.6,371.3,Queensland
+1984,total_pj,600.3,371.3,Queensland
+1985,total_pj,604.8,371.3,Queensland
+1986,total_pj,620,371.3,Queensland
+1987,total_pj,642.4,371.3,Queensland
+1988,total_pj,678.3,371.3,Queensland
+1989,total_pj,691.8,371.3,Queensland
+1990,total_pj,702,371.3,Queensland
+1991,total_pj,715,371.3,Queensland
+1992,total_pj,758.5,371.3,Queensland
+1993,total_pj,793.2,371.3,Queensland
+1994,total_pj,847.3,371.3,Queensland
+1995,total_pj,882.7,371.3,Queensland
+1996,total_pj,914.1,371.3,Queensland
+1997,total_pj,968.5,371.3,Queensland
+1998,total_pj,983.8,371.3,Queensland
+1999,total_pj,1009.7,371.3,Queensland
+2000,total_pj,1020,371.3,Queensland
+2001,total_pj,1057.8,371.3,Queensland
+2002,total_pj,1064.037,371.3,Queensland
+2003,total_pj,1081.105,371.3,Queensland
+2004,total_pj,1225.086,371.3,Queensland
+2005,total_pj,1279.525,371.3,Queensland
+2006,total_pj,1328.997,371.3,Queensland
+2007,total_pj,1289.546,371.3,Queensland
+2008,total_pj,1345.729,371.3,Queensland
+2009,total_pj,1294.384,371.3,Queensland
+2010,total_pj,1249.598,371.3,Queensland
+2011,total_pj,1314.818,371.3,Queensland
+2012,total_pj,1334.792,371.3,Queensland
+2013,total_pj,1338.862,371.3,Queensland
+2014,total_pj,1436.133,371.3,Queensland
+2015,total_pj,1464.555,371.3,Queensland
+2016,total_pj,1531.887,371.3,Queensland
+2017,total_pj,1548.429,371.3,Queensland
+2018,total_pj,1529.509,371.3,Queensland
+2019,total_pj,1486.306,371.3,Queensland
+2020,total_pj,1442.618,371.3,Queensland
+2021,total_pj,1428.315,371.3,Queensland
+2022,total_pj,1441.742,371.3,Queensland
+1974,agriculture_pj,4.1,4.3,South Australia
+1975,agriculture_pj,4.2,4.3,South Australia
+1976,agriculture_pj,4.4,4.3,South Australia
+1977,agriculture_pj,4.4,4.3,South Australia
+1978,agriculture_pj,4.7,4.3,South Australia
+1979,agriculture_pj,5,4.3,South Australia
+1980,agriculture_pj,5,4.3,South Australia
+1981,agriculture_pj,5.4,4.3,South Australia
+1982,agriculture_pj,5.1,4.3,South Australia
+1983,agriculture_pj,5.4,4.3,South Australia
+1984,agriculture_pj,5.3,4.3,South Australia
+1985,agriculture_pj,5.4,4.3,South Australia
+1986,agriculture_pj,6.3,4.3,South Australia
+1987,agriculture_pj,5.9,4.3,South Australia
+1988,agriculture_pj,6.2,4.3,South Australia
+1989,agriculture_pj,5.7,4.3,South Australia
+1990,agriculture_pj,5.8,4.3,South Australia
+1991,agriculture_pj,5.8,4.3,South Australia
+1992,agriculture_pj,5.9,4.3,South Australia
+1993,agriculture_pj,6,4.3,South Australia
+1994,agriculture_pj,5.7,4.3,South Australia
+1995,agriculture_pj,5.5,4.3,South Australia
+1996,agriculture_pj,6.2,4.3,South Australia
+1997,agriculture_pj,6.5,4.3,South Australia
+1998,agriculture_pj,6.6,4.3,South Australia
+1999,agriculture_pj,6.7,4.3,South Australia
+2000,agriculture_pj,7.3,4.3,South Australia
+2001,agriculture_pj,6.4,4.3,South Australia
+2002,agriculture_pj,9.056,4.3,South Australia
+2003,agriculture_pj,8.258,4.3,South Australia
+2004,agriculture_pj,8.926,4.3,South Australia
+2005,agriculture_pj,9.21,4.3,South Australia
+2006,agriculture_pj,9.199,4.3,South Australia
+2007,agriculture_pj,9.709,4.3,South Australia
+2008,agriculture_pj,8.165,4.3,South Australia
+2009,agriculture_pj,7.695,4.3,South Australia
+2010,agriculture_pj,7.017,4.3,South Australia
+2011,agriculture_pj,7.171,4.3,South Australia
+2012,agriculture_pj,7.09,4.3,South Australia
+2013,agriculture_pj,7.128,4.3,South Australia
+2014,agriculture_pj,7.18,4.3,South Australia
+2015,agriculture_pj,7.32,4.3,South Australia
+2016,agriculture_pj,7.893,4.3,South Australia
+2017,agriculture_pj,7.829,4.3,South Australia
+2018,agriculture_pj,7.156,4.3,South Australia
+2019,agriculture_pj,7.443,4.3,South Australia
+2020,agriculture_pj,10.235,4.3,South Australia
+2021,agriculture_pj,10.207,4.3,South Australia
+2022,agriculture_pj,8.649,4.3,South Australia
+1974,mining_pj,4.6,3.7,South Australia
+1975,mining_pj,5,3.7,South Australia
+1976,mining_pj,6.7,3.7,South Australia
+1977,mining_pj,7.7,3.7,South Australia
+1978,mining_pj,8.3,3.7,South Australia
+1979,mining_pj,10.1,3.7,South Australia
+1980,mining_pj,10.7,3.7,South Australia
+1981,mining_pj,12.3,3.7,South Australia
+1982,mining_pj,12.2,3.7,South Australia
+1983,mining_pj,16.6,3.7,South Australia
+1984,mining_pj,24.8,3.7,South Australia
+1985,mining_pj,24.9,3.7,South Australia
+1986,mining_pj,26.4,3.7,South Australia
+1987,mining_pj,27.7,3.7,South Australia
+1988,mining_pj,26.7,3.7,South Australia
+1989,mining_pj,27.5,3.7,South Australia
+1990,mining_pj,26.3,3.7,South Australia
+1991,mining_pj,25.8,3.7,South Australia
+1992,mining_pj,25.8,3.7,South Australia
+1993,mining_pj,25.4,3.7,South Australia
+1994,mining_pj,26,3.7,South Australia
+1995,mining_pj,25.6,3.7,South Australia
+1996,mining_pj,25.9,3.7,South Australia
+1997,mining_pj,28.2,3.7,South Australia
+1998,mining_pj,29.5,3.7,South Australia
+1999,mining_pj,27.9,3.7,South Australia
+2000,mining_pj,32.9,3.7,South Australia
+2001,mining_pj,32.5,3.7,South Australia
+2002,mining_pj,41.009,3.7,South Australia
+2003,mining_pj,40.04,3.7,South Australia
+2004,mining_pj,35.684,3.7,South Australia
+2005,mining_pj,31.867,3.7,South Australia
+2006,mining_pj,26.673,3.7,South Australia
+2007,mining_pj,25.036,3.7,South Australia
+2008,mining_pj,28.303,3.7,South Australia
+2009,mining_pj,27.513,3.7,South Australia
+2010,mining_pj,29.428,3.7,South Australia
+2011,mining_pj,31.466,3.7,South Australia
+2012,mining_pj,33.727,3.7,South Australia
+2013,mining_pj,35.808,3.7,South Australia
+2014,mining_pj,33.94,3.7,South Australia
+2015,mining_pj,30.173,3.7,South Australia
+2016,mining_pj,28.796,3.7,South Australia
+2017,mining_pj,26.913,3.7,South Australia
+2018,mining_pj,26.811,3.7,South Australia
+2019,mining_pj,28.031,3.7,South Australia
+2020,mining_pj,27.972,3.7,South Australia
+2021,mining_pj,26.656,3.7,South Australia
+2022,mining_pj,27.998,3.7,South Australia
+1974,manufacturing_pj,70.7,70.3,South Australia
+1975,manufacturing_pj,72.4,70.3,South Australia
+1976,manufacturing_pj,71.4,70.3,South Australia
+1977,manufacturing_pj,67,70.3,South Australia
+1978,manufacturing_pj,74.5,70.3,South Australia
+1979,manufacturing_pj,76.7,70.3,South Australia
+1980,manufacturing_pj,69.1,70.3,South Australia
+1981,manufacturing_pj,67.4,70.3,South Australia
+1982,manufacturing_pj,61.6,70.3,South Australia
+1983,manufacturing_pj,62.1,70.3,South Australia
+1984,manufacturing_pj,67.4,70.3,South Australia
+1985,manufacturing_pj,69.7,70.3,South Australia
+1986,manufacturing_pj,70.3,70.3,South Australia
+1987,manufacturing_pj,71.6,70.3,South Australia
+1988,manufacturing_pj,73.3,70.3,South Australia
+1989,manufacturing_pj,73.7,70.3,South Australia
+1990,manufacturing_pj,75.3,70.3,South Australia
+1991,manufacturing_pj,78.5,70.3,South Australia
+1992,manufacturing_pj,77.3,70.3,South Australia
+1993,manufacturing_pj,78.3,70.3,South Australia
+1994,manufacturing_pj,79.8,70.3,South Australia
+1995,manufacturing_pj,80.8,70.3,South Australia
+1996,manufacturing_pj,79.1,70.3,South Australia
+1997,manufacturing_pj,80.8,70.3,South Australia
+1998,manufacturing_pj,78.3,70.3,South Australia
+1999,manufacturing_pj,73.9,70.3,South Australia
+2000,manufacturing_pj,68.4,70.3,South Australia
+2001,manufacturing_pj,68.3,70.3,South Australia
+2002,manufacturing_pj,76.379,70.3,South Australia
+2003,manufacturing_pj,76.812,70.3,South Australia
+2004,manufacturing_pj,73.964,70.3,South Australia
+2005,manufacturing_pj,77.603,70.3,South Australia
+2006,manufacturing_pj,79.964,70.3,South Australia
+2007,manufacturing_pj,81.695,70.3,South Australia
+2008,manufacturing_pj,66.877,70.3,South Australia
+2009,manufacturing_pj,69.678,70.3,South Australia
+2010,manufacturing_pj,63.009,70.3,South Australia
+2011,manufacturing_pj,35.188,70.3,South Australia
+2012,manufacturing_pj,88.183,70.3,South Australia
+2013,manufacturing_pj,79.627,70.3,South Australia
+2014,manufacturing_pj,99.795,70.3,South Australia
+2015,manufacturing_pj,59.861,70.3,South Australia
+2016,manufacturing_pj,44.36,70.3,South Australia
+2017,manufacturing_pj,82.876,70.3,South Australia
+2018,manufacturing_pj,80.223,70.3,South Australia
+2019,manufacturing_pj,77.065,70.3,South Australia
+2020,manufacturing_pj,77.71,70.3,South Australia
+2021,manufacturing_pj,75.389,70.3,South Australia
+2022,manufacturing_pj,67.607,70.3,South Australia
+1974,electricity_generation_pj,50.2,46.6,South Australia
+1975,electricity_generation_pj,55,46.6,South Australia
+1976,electricity_generation_pj,61.5,46.6,South Australia
+1977,electricity_generation_pj,60.4,46.6,South Australia
+1978,electricity_generation_pj,60,46.6,South Australia
+1979,electricity_generation_pj,60.5,46.6,South Australia
+1980,electricity_generation_pj,60.9,46.6,South Australia
+1981,electricity_generation_pj,64.2,46.6,South Australia
+1982,electricity_generation_pj,62.4,46.6,South Australia
+1983,electricity_generation_pj,59.4,46.6,South Australia
+1984,electricity_generation_pj,64.2,46.6,South Australia
+1985,electricity_generation_pj,64.1,46.6,South Australia
+1986,electricity_generation_pj,59.9,46.6,South Australia
+1987,electricity_generation_pj,62.2,46.6,South Australia
+1988,electricity_generation_pj,64.8,46.6,South Australia
+1989,electricity_generation_pj,64.6,46.6,South Australia
+1990,electricity_generation_pj,53,46.6,South Australia
+1991,electricity_generation_pj,58.3,46.6,South Australia
+1992,electricity_generation_pj,58.9,46.6,South Australia
+1993,electricity_generation_pj,61.5,46.6,South Australia
+1994,electricity_generation_pj,57.5,46.6,South Australia
+1995,electricity_generation_pj,49.9,46.6,South Australia
+1996,electricity_generation_pj,51.9,46.6,South Australia
+1997,electricity_generation_pj,56.5,46.6,South Australia
+1998,electricity_generation_pj,70,46.6,South Australia
+1999,electricity_generation_pj,72.6,46.6,South Australia
+2000,electricity_generation_pj,77.5,46.6,South Australia
+2001,electricity_generation_pj,77.8,46.6,South Australia
+2002,electricity_generation_pj,83.916,46.6,South Australia
+2003,electricity_generation_pj,92.946,46.6,South Australia
+2004,electricity_generation_pj,85.051,46.6,South Australia
+2005,electricity_generation_pj,76.969,46.6,South Australia
+2006,electricity_generation_pj,102.426,46.6,South Australia
+2007,electricity_generation_pj,96.897,46.6,South Australia
+2008,electricity_generation_pj,91.737,46.6,South Australia
+2009,electricity_generation_pj,76.099,46.6,South Australia
+2010,electricity_generation_pj,80.342,46.6,South Australia
+2011,electricity_generation_pj,71.735,46.6,South Australia
+2012,electricity_generation_pj,62.477,46.6,South Australia
+2013,electricity_generation_pj,55.885,46.6,South Australia
+2014,electricity_generation_pj,56.766,46.6,South Australia
+2015,electricity_generation_pj,56.932,46.6,South Australia
+2016,electricity_generation_pj,44.691,46.6,South Australia
+2017,electricity_generation_pj,50.723,46.6,South Australia
+2018,electricity_generation_pj,48.926,46.6,South Australia
+2019,electricity_generation_pj,46.496,46.6,South Australia
+2020,electricity_generation_pj,39.915,46.6,South Australia
+2021,electricity_generation_pj,32.388,46.6,South Australia
+2022,electricity_generation_pj,31.096,46.6,South Australia
+1974,construction_pj,2.2,1.9,South Australia
+1975,construction_pj,2.5,1.9,South Australia
+1976,construction_pj,2.8,1.9,South Australia
+1977,construction_pj,1.9,1.9,South Australia
+1978,construction_pj,2.2,1.9,South Australia
+1979,construction_pj,3.6,1.9,South Australia
+1980,construction_pj,3.1,1.9,South Australia
+1981,construction_pj,4.5,1.9,South Australia
+1982,construction_pj,4,1.9,South Australia
+1983,construction_pj,3.2,1.9,South Australia
+1984,construction_pj,2.5,1.9,South Australia
+1985,construction_pj,2.2,1.9,South Australia
+1986,construction_pj,2.5,1.9,South Australia
+1987,construction_pj,2.6,1.9,South Australia
+1988,construction_pj,2.7,1.9,South Australia
+1989,construction_pj,2.9,1.9,South Australia
+1990,construction_pj,2.4,1.9,South Australia
+1991,construction_pj,2.3,1.9,South Australia
+1992,construction_pj,2.2,1.9,South Australia
+1993,construction_pj,2.1,1.9,South Australia
+1994,construction_pj,2,1.9,South Australia
+1995,construction_pj,2,1.9,South Australia
+1996,construction_pj,1.9,1.9,South Australia
+1997,construction_pj,1.8,1.9,South Australia
+1998,construction_pj,1.8,1.9,South Australia
+1999,construction_pj,1.7,1.9,South Australia
+2000,construction_pj,1.6,1.9,South Australia
+2001,construction_pj,1.7,1.9,South Australia
+2002,construction_pj,1.682,1.9,South Australia
+2003,construction_pj,1.617,1.9,South Australia
+2004,construction_pj,2.076,1.9,South Australia
+2005,construction_pj,1.793,1.9,South Australia
+2006,construction_pj,1.766,1.9,South Australia
+2007,construction_pj,1.733,1.9,South Australia
+2008,construction_pj,2.21,1.9,South Australia
+2009,construction_pj,2.272,1.9,South Australia
+2010,construction_pj,2.268,1.9,South Australia
+2011,construction_pj,2.166,1.9,South Australia
+2012,construction_pj,1.989,1.9,South Australia
+2013,construction_pj,2.014,1.9,South Australia
+2014,construction_pj,1.945,1.9,South Australia
+2015,construction_pj,2.006,1.9,South Australia
+2016,construction_pj,2.09,1.9,South Australia
+2017,construction_pj,2.443,1.9,South Australia
+2018,construction_pj,2.355,1.9,South Australia
+2019,construction_pj,2.172,1.9,South Australia
+2020,construction_pj,2.301,1.9,South Australia
+2021,construction_pj,2.456,1.9,South Australia
+2022,construction_pj,2.64,1.9,South Australia
+1974,transport_pj,57.8,56,South Australia
+1975,transport_pj,61.1,56,South Australia
+1976,transport_pj,65.8,56,South Australia
+1977,transport_pj,69,56,South Australia
+1978,transport_pj,71,56,South Australia
+1979,transport_pj,71.4,56,South Australia
+1980,transport_pj,71,56,South Australia
+1981,transport_pj,69.1,56,South Australia
+1982,transport_pj,71.4,56,South Australia
+1983,transport_pj,73,56,South Australia
+1984,transport_pj,76.2,56,South Australia
+1985,transport_pj,77.4,56,South Australia
+1986,transport_pj,77.7,56,South Australia
+1987,transport_pj,79.3,56,South Australia
+1988,transport_pj,83,56,South Australia
+1989,transport_pj,82.9,56,South Australia
+1990,transport_pj,80.2,56,South Australia
+1991,transport_pj,80.9,56,South Australia
+1992,transport_pj,83.4,56,South Australia
+1993,transport_pj,84.7,56,South Australia
+1994,transport_pj,84.2,56,South Australia
+1995,transport_pj,84.2,56,South Australia
+1996,transport_pj,84.7,56,South Australia
+1997,transport_pj,87.1,56,South Australia
+1998,transport_pj,88.6,56,South Australia
+1999,transport_pj,91.1,56,South Australia
+2000,transport_pj,87.9,56,South Australia
+2001,transport_pj,89.4,56,South Australia
+2002,transport_pj,88.104,56,South Australia
+2003,transport_pj,91.035,56,South Australia
+2004,transport_pj,90.649,56,South Australia
+2005,transport_pj,92.785,56,South Australia
+2006,transport_pj,93.708,56,South Australia
+2007,transport_pj,94.813,56,South Australia
+2008,transport_pj,95.987,56,South Australia
+2009,transport_pj,96.708,56,South Australia
+2010,transport_pj,97.755,56,South Australia
+2011,transport_pj,96.971,56,South Australia
+2012,transport_pj,100.026,56,South Australia
+2013,transport_pj,99.256,56,South Australia
+2014,transport_pj,99.569,56,South Australia
+2015,transport_pj,101.367,56,South Australia
+2016,transport_pj,102.106,56,South Australia
+2017,transport_pj,106.11,56,South Australia
+2018,transport_pj,101.265,56,South Australia
+2019,transport_pj,96.621,56,South Australia
+2020,transport_pj,90.59,56,South Australia
+2021,transport_pj,92.481,56,South Australia
+2022,transport_pj,101.076,56,South Australia
+1974,water_and_waste_b_pj,0.5,0.6,South Australia
+1975,water_and_waste_b_pj,0.7,0.6,South Australia
+1976,water_and_waste_b_pj,1.4,0.6,South Australia
+1977,water_and_waste_b_pj,1.6,0.6,South Australia
+1978,water_and_waste_b_pj,0.9,0.6,South Australia
+1979,water_and_waste_b_pj,0.8,0.6,South Australia
+1980,water_and_waste_b_pj,1,0.6,South Australia
+1981,water_and_waste_b_pj,0.7,0.6,South Australia
+1982,water_and_waste_b_pj,1.6,0.6,South Australia
+1983,water_and_waste_b_pj,0.9,0.6,South Australia
+1984,water_and_waste_b_pj,1.1,0.6,South Australia
+1985,water_and_waste_b_pj,1.1,0.6,South Australia
+1986,water_and_waste_b_pj,0.6,0.6,South Australia
+1987,water_and_waste_b_pj,0.7,0.6,South Australia
+1988,water_and_waste_b_pj,0.7,0.6,South Australia
+1989,water_and_waste_b_pj,0.6,0.6,South Australia
+1990,water_and_waste_b_pj,0.8,0.6,South Australia
+1991,water_and_waste_b_pj,0.8,0.6,South Australia
+1992,water_and_waste_b_pj,0.4,0.6,South Australia
+1993,water_and_waste_b_pj,0.8,0.6,South Australia
+1994,water_and_waste_b_pj,1,0.6,South Australia
+1995,water_and_waste_b_pj,0.7,0.6,South Australia
+1996,water_and_waste_b_pj,0.7,0.6,South Australia
+1997,water_and_waste_b_pj,0.8,0.6,South Australia
+1998,water_and_waste_b_pj,1,0.6,South Australia
+1999,water_and_waste_b_pj,1.2,0.6,South Australia
+2000,water_and_waste_b_pj,1.2,0.6,South Australia
+2001,water_and_waste_b_pj,1.2,0.6,South Australia
+2002,water_and_waste_b_pj,1.392,0.6,South Australia
+2003,water_and_waste_b_pj,1.391,0.6,South Australia
+2004,water_and_waste_b_pj,1.328,0.6,South Australia
+2005,water_and_waste_b_pj,1.313,0.6,South Australia
+2006,water_and_waste_b_pj,1.344,0.6,South Australia
+2007,water_and_waste_b_pj,1.323,0.6,South Australia
+2008,water_and_waste_b_pj,1.794,0.6,South Australia
+2009,water_and_waste_b_pj,1.283,0.6,South Australia
+2010,water_and_waste_b_pj,1.284,0.6,South Australia
+2011,water_and_waste_b_pj,1.49,0.6,South Australia
+2012,water_and_waste_b_pj,2.524,0.6,South Australia
+2013,water_and_waste_b_pj,2.128,0.6,South Australia
+2014,water_and_waste_b_pj,2.171,0.6,South Australia
+2015,water_and_waste_b_pj,2.225,0.6,South Australia
+2016,water_and_waste_b_pj,1.514,0.6,South Australia
+2017,water_and_waste_b_pj,1.781,0.6,South Australia
+2018,water_and_waste_b_pj,2.462,0.6,South Australia
+2019,water_and_waste_b_pj,2.611,0.6,South Australia
+2020,water_and_waste_b_pj,2.862,0.6,South Australia
+2021,water_and_waste_b_pj,2.71,0.6,South Australia
+2022,water_and_waste_b_pj,2.558,0.6,South Australia
+1974,commercial_and_services_c_pj,6.5,6.1,South Australia
+1975,commercial_and_services_c_pj,7,6.1,South Australia
+1976,commercial_and_services_c_pj,7.3,6.1,South Australia
+1977,commercial_and_services_c_pj,7.5,6.1,South Australia
+1978,commercial_and_services_c_pj,7.9,6.1,South Australia
+1979,commercial_and_services_c_pj,8.1,6.1,South Australia
+1980,commercial_and_services_c_pj,8.1,6.1,South Australia
+1981,commercial_and_services_c_pj,8.1,6.1,South Australia
+1982,commercial_and_services_c_pj,8.3,6.1,South Australia
+1983,commercial_and_services_c_pj,8.2,6.1,South Australia
+1984,commercial_and_services_c_pj,8.6,6.1,South Australia
+1985,commercial_and_services_c_pj,8.9,6.1,South Australia
+1986,commercial_and_services_c_pj,9.2,6.1,South Australia
+1987,commercial_and_services_c_pj,9.8,6.1,South Australia
+1988,commercial_and_services_c_pj,10.1,6.1,South Australia
+1989,commercial_and_services_c_pj,10.7,6.1,South Australia
+1990,commercial_and_services_c_pj,11,6.1,South Australia
+1991,commercial_and_services_c_pj,11.4,6.1,South Australia
+1992,commercial_and_services_c_pj,11.8,6.1,South Australia
+1993,commercial_and_services_c_pj,12.1,6.1,South Australia
+1994,commercial_and_services_c_pj,12.6,6.1,South Australia
+1995,commercial_and_services_c_pj,12.7,6.1,South Australia
+1996,commercial_and_services_c_pj,13.1,6.1,South Australia
+1997,commercial_and_services_c_pj,13.6,6.1,South Australia
+1998,commercial_and_services_c_pj,14.3,6.1,South Australia
+1999,commercial_and_services_c_pj,14.7,6.1,South Australia
+2000,commercial_and_services_c_pj,16.3,6.1,South Australia
+2001,commercial_and_services_c_pj,17.1,6.1,South Australia
+2002,commercial_and_services_c_pj,18.815,6.1,South Australia
+2003,commercial_and_services_c_pj,19.141,6.1,South Australia
+2004,commercial_and_services_c_pj,19.16,6.1,South Australia
+2005,commercial_and_services_c_pj,19.305,6.1,South Australia
+2006,commercial_and_services_c_pj,20.169,6.1,South Australia
+2007,commercial_and_services_c_pj,20.328,6.1,South Australia
+2008,commercial_and_services_c_pj,20.412,6.1,South Australia
+2009,commercial_and_services_c_pj,20.69,6.1,South Australia
+2010,commercial_and_services_c_pj,18.74,6.1,South Australia
+2011,commercial_and_services_c_pj,18.111,6.1,South Australia
+2012,commercial_and_services_c_pj,18.721,6.1,South Australia
+2013,commercial_and_services_c_pj,19.112,6.1,South Australia
+2014,commercial_and_services_c_pj,22.524,6.1,South Australia
+2015,commercial_and_services_c_pj,22.229,6.1,South Australia
+2016,commercial_and_services_c_pj,21.83,6.1,South Australia
+2017,commercial_and_services_c_pj,22.296,6.1,South Australia
+2018,commercial_and_services_c_pj,21.533,6.1,South Australia
+2019,commercial_and_services_c_pj,21.408,6.1,South Australia
+2020,commercial_and_services_c_pj,20.031,6.1,South Australia
+2021,commercial_and_services_c_pj,20.957,6.1,South Australia
+2022,commercial_and_services_c_pj,21.393,6.1,South Australia
+1974,residential_pj,19.8,18.6,South Australia
+1975,residential_pj,20.4,18.6,South Australia
+1976,residential_pj,21.7,18.6,South Australia
+1977,residential_pj,21.5,18.6,South Australia
+1978,residential_pj,22.8,18.6,South Australia
+1979,residential_pj,21.4,18.6,South Australia
+1980,residential_pj,21.3,18.6,South Australia
+1981,residential_pj,22.2,18.6,South Australia
+1982,residential_pj,22.6,18.6,South Australia
+1983,residential_pj,22.5,18.6,South Australia
+1984,residential_pj,23.9,18.6,South Australia
+1985,residential_pj,24.4,18.6,South Australia
+1986,residential_pj,25.1,18.6,South Australia
+1987,residential_pj,25.1,18.6,South Australia
+1988,residential_pj,25.5,18.6,South Australia
+1989,residential_pj,26.7,18.6,South Australia
+1990,residential_pj,27,18.6,South Australia
+1991,residential_pj,27.4,18.6,South Australia
+1992,residential_pj,28.7,18.6,South Australia
+1993,residential_pj,27.8,18.6,South Australia
+1994,residential_pj,29.1,18.6,South Australia
+1995,residential_pj,29.1,18.6,South Australia
+1996,residential_pj,30,18.6,South Australia
+1997,residential_pj,30.4,18.6,South Australia
+1998,residential_pj,30.8,18.6,South Australia
+1999,residential_pj,31.2,18.6,South Australia
+2000,residential_pj,31.9,18.6,South Australia
+2001,residential_pj,29.3,18.6,South Australia
+2002,residential_pj,31.885,18.6,South Australia
+2003,residential_pj,33.693,18.6,South Australia
+2004,residential_pj,33.719,18.6,South Australia
+2005,residential_pj,34.372,18.6,South Australia
+2006,residential_pj,35.206,18.6,South Australia
+2007,residential_pj,35.486,18.6,South Australia
+2008,residential_pj,35.928,18.6,South Australia
+2009,residential_pj,36.1,18.6,South Australia
+2010,residential_pj,36.455,18.6,South Australia
+2011,residential_pj,37.27,18.6,South Australia
+2012,residential_pj,37.259,18.6,South Australia
+2013,residential_pj,31.813,18.6,South Australia
+2014,residential_pj,29.648,18.6,South Australia
+2015,residential_pj,30.846,18.6,South Australia
+2016,residential_pj,31.162,18.6,South Australia
+2017,residential_pj,30.622,18.6,South Australia
+2018,residential_pj,30.998,18.6,South Australia
+2019,residential_pj,31.599,18.6,South Australia
+2020,residential_pj,32.582,18.6,South Australia
+2021,residential_pj,33.562,18.6,South Australia
+2022,residential_pj,33.414,18.6,South Australia
+1974,other_d_pj,6.3,7.3,South Australia
+1975,other_d_pj,6.2,7.3,South Australia
+1976,other_d_pj,6.4,7.3,South Australia
+1977,other_d_pj,6.7,7.3,South Australia
+1978,other_d_pj,7.3,7.3,South Australia
+1979,other_d_pj,6.6,7.3,South Australia
+1980,other_d_pj,5.5,7.3,South Australia
+1981,other_d_pj,6.1,7.3,South Australia
+1982,other_d_pj,5.3,7.3,South Australia
+1983,other_d_pj,6.7,7.3,South Australia
+1984,other_d_pj,6.2,7.3,South Australia
+1985,other_d_pj,6.4,7.3,South Australia
+1986,other_d_pj,6.7,7.3,South Australia
+1987,other_d_pj,6.2,7.3,South Australia
+1988,other_d_pj,6.3,7.3,South Australia
+1989,other_d_pj,6.6,7.3,South Australia
+1990,other_d_pj,5.6,7.3,South Australia
+1991,other_d_pj,5.7,7.3,South Australia
+1992,other_d_pj,5.7,7.3,South Australia
+1993,other_d_pj,6,7.3,South Australia
+1994,other_d_pj,6.4,7.3,South Australia
+1995,other_d_pj,6.1,7.3,South Australia
+1996,other_d_pj,6.2,7.3,South Australia
+1997,other_d_pj,6.2,7.3,South Australia
+1998,other_d_pj,6.3,7.3,South Australia
+1999,other_d_pj,7,7.3,South Australia
+2000,other_d_pj,5.3,7.3,South Australia
+2001,other_d_pj,5.5,7.3,South Australia
+2002,other_d_pj,5.059,7.3,South Australia
+2003,other_d_pj,6.606,7.3,South Australia
+2004,other_d_pj,4.994,7.3,South Australia
+2005,other_d_pj,4.901,7.3,South Australia
+2006,other_d_pj,5.006,7.3,South Australia
+2007,other_d_pj,5.512,7.3,South Australia
+2008,other_d_pj,5.812,7.3,South Australia
+2009,other_d_pj,5.689,7.3,South Australia
+2010,other_d_pj,6.511,7.3,South Australia
+2011,other_d_pj,6.097,7.3,South Australia
+2012,other_d_pj,4.283,7.3,South Australia
+2013,other_d_pj,4.294,7.3,South Australia
+2014,other_d_pj,3.386,7.3,South Australia
+2015,other_d_pj,3.428,7.3,South Australia
+2016,other_d_pj,2.94,7.3,South Australia
+2017,other_d_pj,3.059,7.3,South Australia
+2018,other_d_pj,2.78,7.3,South Australia
+2019,other_d_pj,4.258,7.3,South Australia
+2020,other_d_pj,4.536,7.3,South Australia
+2021,other_d_pj,4.469,7.3,South Australia
+2022,other_d_pj,3.569,7.3,South Australia
+1974,total_pj,222.8,215.4,South Australia
+1975,total_pj,234.5,215.4,South Australia
+1976,total_pj,249.3,215.4,South Australia
+1977,total_pj,247.7,215.4,South Australia
+1978,total_pj,259.6,215.4,South Australia
+1979,total_pj,264.2,215.4,South Australia
+1980,total_pj,255.7,215.4,South Australia
+1981,total_pj,260,215.4,South Australia
+1982,total_pj,254.6,215.4,South Australia
+1983,total_pj,258,215.4,South Australia
+1984,total_pj,280.2,215.4,South Australia
+1985,total_pj,284.5,215.4,South Australia
+1986,total_pj,284.7,215.4,South Australia
+1987,total_pj,291.1,215.4,South Australia
+1988,total_pj,299.3,215.4,South Australia
+1989,total_pj,301.9,215.4,South Australia
+1990,total_pj,287.4,215.4,South Australia
+1991,total_pj,296.9,215.4,South Australia
+1992,total_pj,300.1,215.4,South Australia
+1993,total_pj,304.8,215.4,South Australia
+1994,total_pj,304.4,215.4,South Australia
+1995,total_pj,296.6,215.4,South Australia
+1996,total_pj,299.7,215.4,South Australia
+1997,total_pj,311.9,215.4,South Australia
+1998,total_pj,327.2,215.4,South Australia
+1999,total_pj,328,215.4,South Australia
+2000,total_pj,329.3,215.4,South Australia
+2001,total_pj,328.1,215.4,South Australia
+2002,total_pj,357.298,215.4,South Australia
+2003,total_pj,371.539,215.4,South Australia
+2004,total_pj,355.551,215.4,South Australia
+2005,total_pj,350.118,215.4,South Australia
+2006,total_pj,375.461,215.4,South Australia
+2007,total_pj,372.533,215.4,South Australia
+2008,total_pj,357.225,215.4,South Australia
+2009,total_pj,343.727,215.4,South Australia
+2010,total_pj,342.809,215.4,South Australia
+2011,total_pj,307.665,215.4,South Australia
+2012,total_pj,356.279,215.4,South Australia
+2013,total_pj,337.065,215.4,South Australia
+2014,total_pj,356.925,215.4,South Australia
+2015,total_pj,316.388,215.4,South Australia
+2016,total_pj,287.382,215.4,South Australia
+2017,total_pj,334.653,215.4,South Australia
+2018,total_pj,324.507,215.4,South Australia
+2019,total_pj,317.704,215.4,South Australia
+2020,total_pj,308.734,215.4,South Australia
+2021,total_pj,301.274,215.4,South Australia
+2022,total_pj,300.001,215.4,South Australia
+1974,agriculture_pj,4.6,4.8,Western Australia
+1975,agriculture_pj,4.8,4.8,Western Australia
+1976,agriculture_pj,4.9,4.8,Western Australia
+1977,agriculture_pj,5.8,4.8,Western Australia
+1978,agriculture_pj,5.9,4.8,Western Australia
+1979,agriculture_pj,6.5,4.8,Western Australia
+1980,agriculture_pj,7.3,4.8,Western Australia
+1981,agriculture_pj,7.4,4.8,Western Australia
+1982,agriculture_pj,7.9,4.8,Western Australia
+1983,agriculture_pj,8.8,4.8,Western Australia
+1984,agriculture_pj,8.7,4.8,Western Australia
+1985,agriculture_pj,8,4.8,Western Australia
+1986,agriculture_pj,9.4,4.8,Western Australia
+1987,agriculture_pj,9.6,4.8,Western Australia
+1988,agriculture_pj,10.1,4.8,Western Australia
+1989,agriculture_pj,9.4,4.8,Western Australia
+1990,agriculture_pj,8.8,4.8,Western Australia
+1991,agriculture_pj,9.3,4.8,Western Australia
+1992,agriculture_pj,9.9,4.8,Western Australia
+1993,agriculture_pj,10.5,4.8,Western Australia
+1994,agriculture_pj,11.2,4.8,Western Australia
+1995,agriculture_pj,11.5,4.8,Western Australia
+1996,agriculture_pj,11.7,4.8,Western Australia
+1997,agriculture_pj,11.2,4.8,Western Australia
+1998,agriculture_pj,11.1,4.8,Western Australia
+1999,agriculture_pj,11.3,4.8,Western Australia
+2000,agriculture_pj,12.9,4.8,Western Australia
+2001,agriculture_pj,13.2,4.8,Western Australia
+2002,agriculture_pj,15.178,4.8,Western Australia
+2003,agriculture_pj,15.978,4.8,Western Australia
+2004,agriculture_pj,17.237,4.8,Western Australia
+2005,agriculture_pj,13.718,4.8,Western Australia
+2006,agriculture_pj,13.415,4.8,Western Australia
+2007,agriculture_pj,13.786,4.8,Western Australia
+2008,agriculture_pj,15.619,4.8,Western Australia
+2009,agriculture_pj,16.763,4.8,Western Australia
+2010,agriculture_pj,17.565,4.8,Western Australia
+2011,agriculture_pj,18.377,4.8,Western Australia
+2012,agriculture_pj,18.091,4.8,Western Australia
+2013,agriculture_pj,17.857,4.8,Western Australia
+2014,agriculture_pj,19.662,4.8,Western Australia
+2015,agriculture_pj,21.004,4.8,Western Australia
+2016,agriculture_pj,22.816,4.8,Western Australia
+2017,agriculture_pj,23.175,4.8,Western Australia
+2018,agriculture_pj,21.334,4.8,Western Australia
+2019,agriculture_pj,18.426,4.8,Western Australia
+2020,agriculture_pj,24.594,4.8,Western Australia
+2021,agriculture_pj,25.418,4.8,Western Australia
+2022,agriculture_pj,23.824,4.8,Western Australia
+1974,mining_pj,21.3,21.5,Western Australia
+1975,mining_pj,21.3,21.5,Western Australia
+1976,mining_pj,23.5,21.5,Western Australia
+1977,mining_pj,23.1,21.5,Western Australia
+1978,mining_pj,24.7,21.5,Western Australia
+1979,mining_pj,25.8,21.5,Western Australia
+1980,mining_pj,16.3,21.5,Western Australia
+1981,mining_pj,14.4,21.5,Western Australia
+1982,mining_pj,13.4,21.5,Western Australia
+1983,mining_pj,13.7,21.5,Western Australia
+1984,mining_pj,19.6,21.5,Western Australia
+1985,mining_pj,21.1,21.5,Western Australia
+1986,mining_pj,24.1,21.5,Western Australia
+1987,mining_pj,30.1,21.5,Western Australia
+1988,mining_pj,41.4,21.5,Western Australia
+1989,mining_pj,66.9,21.5,Western Australia
+1990,mining_pj,74.5,21.5,Western Australia
+1991,mining_pj,80.6,21.5,Western Australia
+1992,mining_pj,93.2,21.5,Western Australia
+1993,mining_pj,99.4,21.5,Western Australia
+1994,mining_pj,114.2,21.5,Western Australia
+1995,mining_pj,131.7,21.5,Western Australia
+1996,mining_pj,138.2,21.5,Western Australia
+1997,mining_pj,142.4,21.5,Western Australia
+1998,mining_pj,145.8,21.5,Western Australia
+1999,mining_pj,152.8,21.5,Western Australia
+2000,mining_pj,111.8,21.5,Western Australia
+2001,mining_pj,117.3,21.5,Western Australia
+2002,mining_pj,103.085,21.5,Western Australia
+2003,mining_pj,99.909,21.5,Western Australia
+2004,mining_pj,113.969,21.5,Western Australia
+2005,mining_pj,129.259,21.5,Western Australia
+2006,mining_pj,143.017,21.5,Western Australia
+2007,mining_pj,148.021,21.5,Western Australia
+2008,mining_pj,169.195,21.5,Western Australia
+2009,mining_pj,168.956,21.5,Western Australia
+2010,mining_pj,189.294,21.5,Western Australia
+2011,mining_pj,207.295,21.5,Western Australia
+2012,mining_pj,234.01,21.5,Western Australia
+2013,mining_pj,249.277,21.5,Western Australia
+2014,mining_pj,239.036,21.5,Western Australia
+2015,mining_pj,249.793,21.5,Western Australia
+2016,mining_pj,298.445,21.5,Western Australia
+2017,mining_pj,338.298,21.5,Western Australia
+2018,mining_pj,373.554,21.5,Western Australia
+2019,mining_pj,386.674,21.5,Western Australia
+2020,mining_pj,388.298,21.5,Western Australia
+2021,mining_pj,403.818,21.5,Western Australia
+2022,mining_pj,423.523,21.5,Western Australia
+1974,manufacturing_pj,86,83.6,Western Australia
+1975,manufacturing_pj,99.7,83.6,Western Australia
+1976,manufacturing_pj,107,83.6,Western Australia
+1977,manufacturing_pj,108.9,83.6,Western Australia
+1978,manufacturing_pj,112.1,83.6,Western Australia
+1979,manufacturing_pj,105.9,83.6,Western Australia
+1980,manufacturing_pj,98.1,83.6,Western Australia
+1981,manufacturing_pj,84.6,83.6,Western Australia
+1982,manufacturing_pj,83.7,83.6,Western Australia
+1983,manufacturing_pj,93,83.6,Western Australia
+1984,manufacturing_pj,108.3,83.6,Western Australia
+1985,manufacturing_pj,106.4,83.6,Western Australia
+1986,manufacturing_pj,108.5,83.6,Western Australia
+1987,manufacturing_pj,116.5,83.6,Western Australia
+1988,manufacturing_pj,126.5,83.6,Western Australia
+1989,manufacturing_pj,135.4,83.6,Western Australia
+1990,manufacturing_pj,141.1,83.6,Western Australia
+1991,manufacturing_pj,138.9,83.6,Western Australia
+1992,manufacturing_pj,146.2,83.6,Western Australia
+1993,manufacturing_pj,154.5,83.6,Western Australia
+1994,manufacturing_pj,157.8,83.6,Western Australia
+1995,manufacturing_pj,160,83.6,Western Australia
+1996,manufacturing_pj,161.4,83.6,Western Australia
+1997,manufacturing_pj,163.3,83.6,Western Australia
+1998,manufacturing_pj,173.3,83.6,Western Australia
+1999,manufacturing_pj,176.6,83.6,Western Australia
+2000,manufacturing_pj,225.4,83.6,Western Australia
+2001,manufacturing_pj,225.7,83.6,Western Australia
+2002,manufacturing_pj,235.563,83.6,Western Australia
+2003,manufacturing_pj,234.559,83.6,Western Australia
+2004,manufacturing_pj,231.826,83.6,Western Australia
+2005,manufacturing_pj,223.072,83.6,Western Australia
+2006,manufacturing_pj,256.749,83.6,Western Australia
+2007,manufacturing_pj,243.71,83.6,Western Australia
+2008,manufacturing_pj,243.575,83.6,Western Australia
+2009,manufacturing_pj,244.573,83.6,Western Australia
+2010,manufacturing_pj,259.769,83.6,Western Australia
+2011,manufacturing_pj,225.937,83.6,Western Australia
+2012,manufacturing_pj,234.888,83.6,Western Australia
+2013,manufacturing_pj,244.012,83.6,Western Australia
+2014,manufacturing_pj,200.123,83.6,Western Australia
+2015,manufacturing_pj,234.729,83.6,Western Australia
+2016,manufacturing_pj,228.087,83.6,Western Australia
+2017,manufacturing_pj,221.588,83.6,Western Australia
+2018,manufacturing_pj,240.224,83.6,Western Australia
+2019,manufacturing_pj,240.244,83.6,Western Australia
+2020,manufacturing_pj,245.172,83.6,Western Australia
+2021,manufacturing_pj,229.618,83.6,Western Australia
+2022,manufacturing_pj,223.93,83.6,Western Australia
+1974,electricity_generation_pj,45.1,39.2,Western Australia
+1975,electricity_generation_pj,49,39.2,Western Australia
+1976,electricity_generation_pj,52.3,39.2,Western Australia
+1977,electricity_generation_pj,53.1,39.2,Western Australia
+1978,electricity_generation_pj,54.9,39.2,Western Australia
+1979,electricity_generation_pj,57.2,39.2,Western Australia
+1980,electricity_generation_pj,59.4,39.2,Western Australia
+1981,electricity_generation_pj,58.7,39.2,Western Australia
+1982,electricity_generation_pj,60.1,39.2,Western Australia
+1983,electricity_generation_pj,62.8,39.2,Western Australia
+1984,electricity_generation_pj,65,39.2,Western Australia
+1985,electricity_generation_pj,67.3,39.2,Western Australia
+1986,electricity_generation_pj,71.4,39.2,Western Australia
+1987,electricity_generation_pj,80.1,39.2,Western Australia
+1988,electricity_generation_pj,89.8,39.2,Western Australia
+1989,electricity_generation_pj,99.4,39.2,Western Australia
+1990,electricity_generation_pj,102.4,39.2,Western Australia
+1991,electricity_generation_pj,102.4,39.2,Western Australia
+1992,electricity_generation_pj,102.9,39.2,Western Australia
+1993,electricity_generation_pj,109.1,39.2,Western Australia
+1994,electricity_generation_pj,116.8,39.2,Western Australia
+1995,electricity_generation_pj,122.5,39.2,Western Australia
+1996,electricity_generation_pj,127.3,39.2,Western Australia
+1997,electricity_generation_pj,133.8,39.2,Western Australia
+1998,electricity_generation_pj,126,39.2,Western Australia
+1999,electricity_generation_pj,130.2,39.2,Western Australia
+2000,electricity_generation_pj,142.2,39.2,Western Australia
+2001,electricity_generation_pj,145.2,39.2,Western Australia
+2002,electricity_generation_pj,150.727,39.2,Western Australia
+2003,electricity_generation_pj,156.728,39.2,Western Australia
+2004,electricity_generation_pj,158.753,39.2,Western Australia
+2005,electricity_generation_pj,156.147,39.2,Western Australia
+2006,electricity_generation_pj,162.712,39.2,Western Australia
+2007,electricity_generation_pj,170.274,39.2,Western Australia
+2008,electricity_generation_pj,232.072,39.2,Western Australia
+2009,electricity_generation_pj,219.395,39.2,Western Australia
+2010,electricity_generation_pj,236.528,39.2,Western Australia
+2011,electricity_generation_pj,233.023,39.2,Western Australia
+2012,electricity_generation_pj,228.869,39.2,Western Australia
+2013,electricity_generation_pj,241.412,39.2,Western Australia
+2014,electricity_generation_pj,259.253,39.2,Western Australia
+2015,electricity_generation_pj,278.827,39.2,Western Australia
+2016,electricity_generation_pj,279.525,39.2,Western Australia
+2017,electricity_generation_pj,276.394,39.2,Western Australia
+2018,electricity_generation_pj,273.756,39.2,Western Australia
+2019,electricity_generation_pj,283.635,39.2,Western Australia
+2020,electricity_generation_pj,259.213,39.2,Western Australia
+2021,electricity_generation_pj,263.12,39.2,Western Australia
+2022,electricity_generation_pj,268.115,39.2,Western Australia
+1974,construction_pj,4,4.1,Western Australia
+1975,construction_pj,3.4,4.1,Western Australia
+1976,construction_pj,3.7,4.1,Western Australia
+1977,construction_pj,3.9,4.1,Western Australia
+1978,construction_pj,4.2,4.1,Western Australia
+1979,construction_pj,5.7,4.1,Western Australia
+1980,construction_pj,6.5,4.1,Western Australia
+1981,construction_pj,5.8,4.1,Western Australia
+1982,construction_pj,6.4,4.1,Western Australia
+1983,construction_pj,5.7,4.1,Western Australia
+1984,construction_pj,4.9,4.1,Western Australia
+1985,construction_pj,4.8,4.1,Western Australia
+1986,construction_pj,4.6,4.1,Western Australia
+1987,construction_pj,4.7,4.1,Western Australia
+1988,construction_pj,5.8,4.1,Western Australia
+1989,construction_pj,5.4,4.1,Western Australia
+1990,construction_pj,5,4.1,Western Australia
+1991,construction_pj,4.8,4.1,Western Australia
+1992,construction_pj,4.7,4.1,Western Australia
+1993,construction_pj,4.5,4.1,Western Australia
+1994,construction_pj,4.4,4.1,Western Australia
+1995,construction_pj,4.2,4.1,Western Australia
+1996,construction_pj,4,4.1,Western Australia
+1997,construction_pj,3.9,4.1,Western Australia
+1998,construction_pj,3.7,4.1,Western Australia
+1999,construction_pj,3.6,4.1,Western Australia
+2000,construction_pj,3.5,4.1,Western Australia
+2001,construction_pj,3.4,4.1,Western Australia
+2002,construction_pj,3.248,4.1,Western Australia
+2003,construction_pj,3.616,4.1,Western Australia
+2004,construction_pj,3.666,4.1,Western Australia
+2005,construction_pj,4.588,4.1,Western Australia
+2006,construction_pj,4.795,4.1,Western Australia
+2007,construction_pj,4.789,4.1,Western Australia
+2008,construction_pj,3.665,4.1,Western Australia
+2009,construction_pj,3.395,4.1,Western Australia
+2010,construction_pj,3.779,4.1,Western Australia
+2011,construction_pj,3.785,4.1,Western Australia
+2012,construction_pj,3.844,4.1,Western Australia
+2013,construction_pj,3.867,4.1,Western Australia
+2014,construction_pj,4.167,4.1,Western Australia
+2015,construction_pj,4.399,4.1,Western Australia
+2016,construction_pj,3.23,4.1,Western Australia
+2017,construction_pj,3.71,4.1,Western Australia
+2018,construction_pj,2.877,4.1,Western Australia
+2019,construction_pj,2.53,4.1,Western Australia
+2020,construction_pj,2.408,4.1,Western Australia
+2021,construction_pj,2.473,4.1,Western Australia
+2022,construction_pj,2.728,4.1,Western Australia
+1974,transport_pj,88.6,89,Western Australia
+1975,transport_pj,87,89,Western Australia
+1976,transport_pj,98.5,89,Western Australia
+1977,transport_pj,100.7,89,Western Australia
+1978,transport_pj,99.8,89,Western Australia
+1979,transport_pj,97.9,89,Western Australia
+1980,transport_pj,99.1,89,Western Australia
+1981,transport_pj,93.2,89,Western Australia
+1982,transport_pj,97.8,89,Western Australia
+1983,transport_pj,94.3,89,Western Australia
+1984,transport_pj,99,89,Western Australia
+1985,transport_pj,99.7,89,Western Australia
+1986,transport_pj,100.6,89,Western Australia
+1987,transport_pj,109.1,89,Western Australia
+1988,transport_pj,110.1,89,Western Australia
+1989,transport_pj,110.6,89,Western Australia
+1990,transport_pj,109.9,89,Western Australia
+1991,transport_pj,111.8,89,Western Australia
+1992,transport_pj,113.6,89,Western Australia
+1993,transport_pj,121.9,89,Western Australia
+1994,transport_pj,130.5,89,Western Australia
+1995,transport_pj,140.5,89,Western Australia
+1996,transport_pj,146,89,Western Australia
+1997,transport_pj,144.3,89,Western Australia
+1998,transport_pj,147.4,89,Western Australia
+1999,transport_pj,146.5,89,Western Australia
+2000,transport_pj,150.1,89,Western Australia
+2001,transport_pj,152.8,89,Western Australia
+2002,transport_pj,145.047,89,Western Australia
+2003,transport_pj,151.095,89,Western Australia
+2004,transport_pj,155.567,89,Western Australia
+2005,transport_pj,161.175,89,Western Australia
+2006,transport_pj,168.939,89,Western Australia
+2007,transport_pj,174.876,89,Western Australia
+2008,transport_pj,179.312,89,Western Australia
+2009,transport_pj,180.006,89,Western Australia
+2010,transport_pj,193.34,89,Western Australia
+2011,transport_pj,210.495,89,Western Australia
+2012,transport_pj,217.404,89,Western Australia
+2013,transport_pj,225.657,89,Western Australia
+2014,transport_pj,233.494,89,Western Australia
+2015,transport_pj,248.006,89,Western Australia
+2016,transport_pj,255.399,89,Western Australia
+2017,transport_pj,257.489,89,Western Australia
+2018,transport_pj,258.337,89,Western Australia
+2019,transport_pj,240.527,89,Western Australia
+2020,transport_pj,226.868,89,Western Australia
+2021,transport_pj,236.864,89,Western Australia
+2022,transport_pj,254.954,89,Western Australia
+1974,water_and_waste_b_pj,0.2,0.3,Western Australia
+1975,water_and_waste_b_pj,0.2,0.3,Western Australia
+1976,water_and_waste_b_pj,0.2,0.3,Western Australia
+1977,water_and_waste_b_pj,0.3,0.3,Western Australia
+1978,water_and_waste_b_pj,0.2,0.3,Western Australia
+1979,water_and_waste_b_pj,0.3,0.3,Western Australia
+1980,water_and_waste_b_pj,0.3,0.3,Western Australia
+1981,water_and_waste_b_pj,0.3,0.3,Western Australia
+1982,water_and_waste_b_pj,0.3,0.3,Western Australia
+1983,water_and_waste_b_pj,0.3,0.3,Western Australia
+1984,water_and_waste_b_pj,0.3,0.3,Western Australia
+1985,water_and_waste_b_pj,0.3,0.3,Western Australia
+1986,water_and_waste_b_pj,0.3,0.3,Western Australia
+1987,water_and_waste_b_pj,0.4,0.3,Western Australia
+1988,water_and_waste_b_pj,0.4,0.3,Western Australia
+1989,water_and_waste_b_pj,0.4,0.3,Western Australia
+1990,water_and_waste_b_pj,0.4,0.3,Western Australia
+1991,water_and_waste_b_pj,0.5,0.3,Western Australia
+1992,water_and_waste_b_pj,0.5,0.3,Western Australia
+1993,water_and_waste_b_pj,0.5,0.3,Western Australia
+1994,water_and_waste_b_pj,0.5,0.3,Western Australia
+1995,water_and_waste_b_pj,0.6,0.3,Western Australia
+1996,water_and_waste_b_pj,0.6,0.3,Western Australia
+1997,water_and_waste_b_pj,0.6,0.3,Western Australia
+1998,water_and_waste_b_pj,0.6,0.3,Western Australia
+1999,water_and_waste_b_pj,0.7,0.3,Western Australia
+2000,water_and_waste_b_pj,0.7,0.3,Western Australia
+2001,water_and_waste_b_pj,0.7,0.3,Western Australia
+2002,water_and_waste_b_pj,0.501,0.3,Western Australia
+2003,water_and_waste_b_pj,0.543,0.3,Western Australia
+2004,water_and_waste_b_pj,0.528,0.3,Western Australia
+2005,water_and_waste_b_pj,0.573,0.3,Western Australia
+2006,water_and_waste_b_pj,0.599,0.3,Western Australia
+2007,water_and_waste_b_pj,2.06,0.3,Western Australia
+2008,water_and_waste_b_pj,2.237,0.3,Western Australia
+2009,water_and_waste_b_pj,2.27,0.3,Western Australia
+2010,water_and_waste_b_pj,3.544,0.3,Western Australia
+2011,water_and_waste_b_pj,4.682,0.3,Western Australia
+2012,water_and_waste_b_pj,3.191,0.3,Western Australia
+2013,water_and_waste_b_pj,3.78,0.3,Western Australia
+2014,water_and_waste_b_pj,3.9,0.3,Western Australia
+2015,water_and_waste_b_pj,3.891,0.3,Western Australia
+2016,water_and_waste_b_pj,4.219,0.3,Western Australia
+2017,water_and_waste_b_pj,4.125,0.3,Western Australia
+2018,water_and_waste_b_pj,3.076,0.3,Western Australia
+2019,water_and_waste_b_pj,4.031,0.3,Western Australia
+2020,water_and_waste_b_pj,4.065,0.3,Western Australia
+2021,water_and_waste_b_pj,3.565,0.3,Western Australia
+2022,water_and_waste_b_pj,3.292,0.3,Western Australia
+1974,commercial_and_services_c_pj,6.3,6.2,Western Australia
+1975,commercial_and_services_c_pj,6.8,6.2,Western Australia
+1976,commercial_and_services_c_pj,7.1,6.2,Western Australia
+1977,commercial_and_services_c_pj,7.6,6.2,Western Australia
+1978,commercial_and_services_c_pj,8,6.2,Western Australia
+1979,commercial_and_services_c_pj,8.6,6.2,Western Australia
+1980,commercial_and_services_c_pj,8.6,6.2,Western Australia
+1981,commercial_and_services_c_pj,8.7,6.2,Western Australia
+1982,commercial_and_services_c_pj,9.1,6.2,Western Australia
+1983,commercial_and_services_c_pj,9,6.2,Western Australia
+1984,commercial_and_services_c_pj,9.7,6.2,Western Australia
+1985,commercial_and_services_c_pj,9.8,6.2,Western Australia
+1986,commercial_and_services_c_pj,11,6.2,Western Australia
+1987,commercial_and_services_c_pj,11.8,6.2,Western Australia
+1988,commercial_and_services_c_pj,13.1,6.2,Western Australia
+1989,commercial_and_services_c_pj,14.2,6.2,Western Australia
+1990,commercial_and_services_c_pj,14.7,6.2,Western Australia
+1991,commercial_and_services_c_pj,14.9,6.2,Western Australia
+1992,commercial_and_services_c_pj,15.6,6.2,Western Australia
+1993,commercial_and_services_c_pj,16.7,6.2,Western Australia
+1994,commercial_and_services_c_pj,17.5,6.2,Western Australia
+1995,commercial_and_services_c_pj,18,6.2,Western Australia
+1996,commercial_and_services_c_pj,18.5,6.2,Western Australia
+1997,commercial_and_services_c_pj,19.3,6.2,Western Australia
+1998,commercial_and_services_c_pj,20.6,6.2,Western Australia
+1999,commercial_and_services_c_pj,21.1,6.2,Western Australia
+2000,commercial_and_services_c_pj,20.8,6.2,Western Australia
+2001,commercial_and_services_c_pj,22.5,6.2,Western Australia
+2002,commercial_and_services_c_pj,23.515,6.2,Western Australia
+2003,commercial_and_services_c_pj,23.976,6.2,Western Australia
+2004,commercial_and_services_c_pj,25.141,6.2,Western Australia
+2005,commercial_and_services_c_pj,25.535,6.2,Western Australia
+2006,commercial_and_services_c_pj,26.927,6.2,Western Australia
+2007,commercial_and_services_c_pj,27.582,6.2,Western Australia
+2008,commercial_and_services_c_pj,28.27,6.2,Western Australia
+2009,commercial_and_services_c_pj,27.379,6.2,Western Australia
+2010,commercial_and_services_c_pj,29.502,6.2,Western Australia
+2011,commercial_and_services_c_pj,30.44,6.2,Western Australia
+2012,commercial_and_services_c_pj,30.974,6.2,Western Australia
+2013,commercial_and_services_c_pj,31.768,6.2,Western Australia
+2014,commercial_and_services_c_pj,38.006,6.2,Western Australia
+2015,commercial_and_services_c_pj,37.687,6.2,Western Australia
+2016,commercial_and_services_c_pj,38.944,6.2,Western Australia
+2017,commercial_and_services_c_pj,39.476,6.2,Western Australia
+2018,commercial_and_services_c_pj,39.973,6.2,Western Australia
+2019,commercial_and_services_c_pj,39.866,6.2,Western Australia
+2020,commercial_and_services_c_pj,38.486,6.2,Western Australia
+2021,commercial_and_services_c_pj,41.299,6.2,Western Australia
+2022,commercial_and_services_c_pj,41.695,6.2,Western Australia
+1974,residential_pj,18.7,18.5,Western Australia
+1975,residential_pj,19,18.5,Western Australia
+1976,residential_pj,19.6,18.5,Western Australia
+1977,residential_pj,19.7,18.5,Western Australia
+1978,residential_pj,20.8,18.5,Western Australia
+1979,residential_pj,20.9,18.5,Western Australia
+1980,residential_pj,21.4,18.5,Western Australia
+1981,residential_pj,21.2,18.5,Western Australia
+1982,residential_pj,20.8,18.5,Western Australia
+1983,residential_pj,20.9,18.5,Western Australia
+1984,residential_pj,21.8,18.5,Western Australia
+1985,residential_pj,21.7,18.5,Western Australia
+1986,residential_pj,22.6,18.5,Western Australia
+1987,residential_pj,22.5,18.5,Western Australia
+1988,residential_pj,23.4,18.5,Western Australia
+1989,residential_pj,24.7,18.5,Western Australia
+1990,residential_pj,25.7,18.5,Western Australia
+1991,residential_pj,26.3,18.5,Western Australia
+1992,residential_pj,27.3,18.5,Western Australia
+1993,residential_pj,28.2,18.5,Western Australia
+1994,residential_pj,29.3,18.5,Western Australia
+1995,residential_pj,29.6,18.5,Western Australia
+1996,residential_pj,30.2,18.5,Western Australia
+1997,residential_pj,31.6,18.5,Western Australia
+1998,residential_pj,32.1,18.5,Western Australia
+1999,residential_pj,32.6,18.5,Western Australia
+2000,residential_pj,33.1,18.5,Western Australia
+2001,residential_pj,34.3,18.5,Western Australia
+2002,residential_pj,34.654,18.5,Western Australia
+2003,residential_pj,34.04,18.5,Western Australia
+2004,residential_pj,33.661,18.5,Western Australia
+2005,residential_pj,34.026,18.5,Western Australia
+2006,residential_pj,36.201,18.5,Western Australia
+2007,residential_pj,37.035,18.5,Western Australia
+2008,residential_pj,36.598,18.5,Western Australia
+2009,residential_pj,36.741,18.5,Western Australia
+2010,residential_pj,40.418,18.5,Western Australia
+2011,residential_pj,41.985,18.5,Western Australia
+2012,residential_pj,40.993,18.5,Western Australia
+2013,residential_pj,41.836,18.5,Western Australia
+2014,residential_pj,40.478,18.5,Western Australia
+2015,residential_pj,41.054,18.5,Western Australia
+2016,residential_pj,41.547,18.5,Western Australia
+2017,residential_pj,40.494,18.5,Western Australia
+2018,residential_pj,41.101,18.5,Western Australia
+2019,residential_pj,42.043,18.5,Western Australia
+2020,residential_pj,43.535,18.5,Western Australia
+2021,residential_pj,45.69,18.5,Western Australia
+2022,residential_pj,45.587,18.5,Western Australia
+1974,other_d_pj,4.7,5.4,Western Australia
+1975,other_d_pj,5.3,5.4,Western Australia
+1976,other_d_pj,5.2,5.4,Western Australia
+1977,other_d_pj,5.4,5.4,Western Australia
+1978,other_d_pj,5.4,5.4,Western Australia
+1979,other_d_pj,5.4,5.4,Western Australia
+1980,other_d_pj,5.1,5.4,Western Australia
+1981,other_d_pj,5.8,5.4,Western Australia
+1982,other_d_pj,5.2,5.4,Western Australia
+1983,other_d_pj,5.4,5.4,Western Australia
+1984,other_d_pj,5.8,5.4,Western Australia
+1985,other_d_pj,5.7,5.4,Western Australia
+1986,other_d_pj,5.9,5.4,Western Australia
+1987,other_d_pj,6.4,5.4,Western Australia
+1988,other_d_pj,7.1,5.4,Western Australia
+1989,other_d_pj,6.6,5.4,Western Australia
+1990,other_d_pj,5.8,5.4,Western Australia
+1991,other_d_pj,6.9,5.4,Western Australia
+1992,other_d_pj,8.1,5.4,Western Australia
+1993,other_d_pj,8.8,5.4,Western Australia
+1994,other_d_pj,10.5,5.4,Western Australia
+1995,other_d_pj,11.7,5.4,Western Australia
+1996,other_d_pj,11.7,5.4,Western Australia
+1997,other_d_pj,12.1,5.4,Western Australia
+1998,other_d_pj,12.2,5.4,Western Australia
+1999,other_d_pj,13.2,5.4,Western Australia
+2000,other_d_pj,7.7,5.4,Western Australia
+2001,other_d_pj,7.8,5.4,Western Australia
+2002,other_d_pj,8.44,5.4,Western Australia
+2003,other_d_pj,9.889,5.4,Western Australia
+2004,other_d_pj,7.856,5.4,Western Australia
+2005,other_d_pj,8.974,5.4,Western Australia
+2006,other_d_pj,7.316,5.4,Western Australia
+2007,other_d_pj,5.828,5.4,Western Australia
+2008,other_d_pj,6.68,5.4,Western Australia
+2009,other_d_pj,6.27,5.4,Western Australia
+2010,other_d_pj,6.55,5.4,Western Australia
+2011,other_d_pj,6.145,5.4,Western Australia
+2012,other_d_pj,7.189,5.4,Western Australia
+2013,other_d_pj,7.099,5.4,Western Australia
+2014,other_d_pj,7.218,5.4,Western Australia
+2015,other_d_pj,4.512,5.4,Western Australia
+2016,other_d_pj,4.55,5.4,Western Australia
+2017,other_d_pj,4.907,5.4,Western Australia
+2018,other_d_pj,6.959,5.4,Western Australia
+2019,other_d_pj,6.957,5.4,Western Australia
+2020,other_d_pj,6.307,5.4,Western Australia
+2021,other_d_pj,6.018,5.4,Western Australia
+2022,other_d_pj,5.98,5.4,Western Australia
+1974,total_pj,279.6,272.6,Western Australia
+1975,total_pj,296.5,272.6,Western Australia
+1976,total_pj,322.1,272.6,Western Australia
+1977,total_pj,328.4,272.6,Western Australia
+1978,total_pj,336,272.6,Western Australia
+1979,total_pj,334.1,272.6,Western Australia
+1980,total_pj,322,272.6,Western Australia
+1981,total_pj,300.1,272.6,Western Australia
+1982,total_pj,304.6,272.6,Western Australia
+1983,total_pj,313.9,272.6,Western Australia
+1984,total_pj,343.1,272.6,Western Australia
+1985,total_pj,344.8,272.6,Western Australia
+1986,total_pj,358.4,272.6,Western Australia
+1987,total_pj,391.1,272.6,Western Australia
+1988,total_pj,427.7,272.6,Western Australia
+1989,total_pj,473,272.6,Western Australia
+1990,total_pj,488.4,272.6,Western Australia
+1991,total_pj,496.4,272.6,Western Australia
+1992,total_pj,522,272.6,Western Australia
+1993,total_pj,554.1,272.6,Western Australia
+1994,total_pj,592.7,272.6,Western Australia
+1995,total_pj,630.2,272.6,Western Australia
+1996,total_pj,649.6,272.6,Western Australia
+1997,total_pj,662.6,272.6,Western Australia
+1998,total_pj,672.8,272.6,Western Australia
+1999,total_pj,688.5,272.6,Western Australia
+2000,total_pj,708.1,272.6,Western Australia
+2001,total_pj,722.9,272.6,Western Australia
+2002,total_pj,719.958,272.6,Western Australia
+2003,total_pj,730.333,272.6,Western Australia
+2004,total_pj,748.204,272.6,Western Australia
+2005,total_pj,757.067,272.6,Western Australia
+2006,total_pj,820.67,272.6,Western Australia
+2007,total_pj,827.963,272.6,Western Australia
+2008,total_pj,917.222,272.6,Western Australia
+2009,total_pj,905.748,272.6,Western Australia
+2010,total_pj,980.289,272.6,Western Australia
+2011,total_pj,982.163,272.6,Western Australia
+2012,total_pj,1019.454,272.6,Western Australia
+2013,total_pj,1066.563,272.6,Western Australia
+2014,total_pj,1045.337,272.6,Western Australia
+2015,total_pj,1123.903,272.6,Western Australia
+2016,total_pj,1176.761,272.6,Western Australia
+2017,total_pj,1209.656,272.6,Western Australia
+2018,total_pj,1261.191,272.6,Western Australia
+2019,total_pj,1264.935,272.6,Western Australia
+2020,total_pj,1238.945,272.6,Western Australia
+2021,total_pj,1257.883,272.6,Western Australia
+2022,total_pj,1293.628,272.6,Western Australia
+1974,agriculture_pj,0.7,0.7,Tasmania
+1975,agriculture_pj,1,0.7,Tasmania
+1976,agriculture_pj,1.2,0.7,Tasmania
+1977,agriculture_pj,1.2,0.7,Tasmania
+1978,agriculture_pj,1.2,0.7,Tasmania
+1979,agriculture_pj,1.3,0.7,Tasmania
+1980,agriculture_pj,1.4,0.7,Tasmania
+1981,agriculture_pj,1.4,0.7,Tasmania
+1982,agriculture_pj,1.4,0.7,Tasmania
+1983,agriculture_pj,1.5,0.7,Tasmania
+1984,agriculture_pj,1.5,0.7,Tasmania
+1985,agriculture_pj,1.4,0.7,Tasmania
+1986,agriculture_pj,1.6,0.7,Tasmania
+1987,agriculture_pj,1.9,0.7,Tasmania
+1988,agriculture_pj,1.8,0.7,Tasmania
+1989,agriculture_pj,1.9,0.7,Tasmania
+1990,agriculture_pj,2.1,0.7,Tasmania
+1991,agriculture_pj,2,0.7,Tasmania
+1992,agriculture_pj,2,0.7,Tasmania
+1993,agriculture_pj,2.2,0.7,Tasmania
+1994,agriculture_pj,2.4,0.7,Tasmania
+1995,agriculture_pj,2.4,0.7,Tasmania
+1996,agriculture_pj,2.1,0.7,Tasmania
+1997,agriculture_pj,2.3,0.7,Tasmania
+1998,agriculture_pj,2.4,0.7,Tasmania
+1999,agriculture_pj,2.4,0.7,Tasmania
+2000,agriculture_pj,2.6,0.7,Tasmania
+2001,agriculture_pj,2.7,0.7,Tasmania
+2002,agriculture_pj,3.611,0.7,Tasmania
+2003,agriculture_pj,3.606,0.7,Tasmania
+2004,agriculture_pj,3.569,0.7,Tasmania
+2005,agriculture_pj,3.593,0.7,Tasmania
+2006,agriculture_pj,3.566,0.7,Tasmania
+2007,agriculture_pj,3.562,0.7,Tasmania
+2008,agriculture_pj,3.701,0.7,Tasmania
+2009,agriculture_pj,3.696,0.7,Tasmania
+2010,agriculture_pj,3.027,0.7,Tasmania
+2011,agriculture_pj,3.034,0.7,Tasmania
+2012,agriculture_pj,3.47,0.7,Tasmania
+2013,agriculture_pj,3.772,0.7,Tasmania
+2014,agriculture_pj,4.353,0.7,Tasmania
+2015,agriculture_pj,4.198,0.7,Tasmania
+2016,agriculture_pj,3.974,0.7,Tasmania
+2017,agriculture_pj,4.027,0.7,Tasmania
+2018,agriculture_pj,4.347,0.7,Tasmania
+2019,agriculture_pj,3.469,0.7,Tasmania
+2020,agriculture_pj,4.811,0.7,Tasmania
+2021,agriculture_pj,4.507,0.7,Tasmania
+2022,agriculture_pj,4.456,0.7,Tasmania
+1974,mining_pj,4.4,4.4,Tasmania
+1975,mining_pj,4.2,4.4,Tasmania
+1976,mining_pj,4.3,4.4,Tasmania
+1977,mining_pj,4.5,4.4,Tasmania
+1978,mining_pj,4.4,4.4,Tasmania
+1979,mining_pj,4.4,4.4,Tasmania
+1980,mining_pj,4.4,4.4,Tasmania
+1981,mining_pj,4.1,4.4,Tasmania
+1982,mining_pj,4.4,4.4,Tasmania
+1983,mining_pj,4,4.4,Tasmania
+1984,mining_pj,4.2,4.4,Tasmania
+1985,mining_pj,4.5,4.4,Tasmania
+1986,mining_pj,4.2,4.4,Tasmania
+1987,mining_pj,4.3,4.4,Tasmania
+1988,mining_pj,4.5,4.4,Tasmania
+1989,mining_pj,4.5,4.4,Tasmania
+1990,mining_pj,3.5,4.4,Tasmania
+1991,mining_pj,3.6,4.4,Tasmania
+1992,mining_pj,3.7,4.4,Tasmania
+1993,mining_pj,3.8,4.4,Tasmania
+1994,mining_pj,3.6,4.4,Tasmania
+1995,mining_pj,3.9,4.4,Tasmania
+1996,mining_pj,3.7,4.4,Tasmania
+1997,mining_pj,4,4.4,Tasmania
+1998,mining_pj,4.1,4.4,Tasmania
+1999,mining_pj,4.1,4.4,Tasmania
+2000,mining_pj,5.7,4.4,Tasmania
+2001,mining_pj,4.7,4.4,Tasmania
+2002,mining_pj,1.807,4.4,Tasmania
+2003,mining_pj,2.292,4.4,Tasmania
+2004,mining_pj,2.425,4.4,Tasmania
+2005,mining_pj,2.524,4.4,Tasmania
+2006,mining_pj,2.728,4.4,Tasmania
+2007,mining_pj,3.585,4.4,Tasmania
+2008,mining_pj,3.117,4.4,Tasmania
+2009,mining_pj,3.005,4.4,Tasmania
+2010,mining_pj,3.208,4.4,Tasmania
+2011,mining_pj,3.576,4.4,Tasmania
+2012,mining_pj,3.438,4.4,Tasmania
+2013,mining_pj,3.306,4.4,Tasmania
+2014,mining_pj,2.934,4.4,Tasmania
+2015,mining_pj,2.644,4.4,Tasmania
+2016,mining_pj,2.649,4.4,Tasmania
+2017,mining_pj,3.156,4.4,Tasmania
+2018,mining_pj,3.337,4.4,Tasmania
+2019,mining_pj,3.484,4.4,Tasmania
+2020,mining_pj,3.56,4.4,Tasmania
+2021,mining_pj,3.746,4.4,Tasmania
+2022,mining_pj,4.14,4.4,Tasmania
+1974,manufacturing_pj,28.9,30.3,Tasmania
+1975,manufacturing_pj,27.7,30.3,Tasmania
+1976,manufacturing_pj,31.3,30.3,Tasmania
+1977,manufacturing_pj,32,30.3,Tasmania
+1978,manufacturing_pj,35.1,30.3,Tasmania
+1979,manufacturing_pj,37,30.3,Tasmania
+1980,manufacturing_pj,35,30.3,Tasmania
+1981,manufacturing_pj,36,30.3,Tasmania
+1982,manufacturing_pj,34,30.3,Tasmania
+1983,manufacturing_pj,33.7,30.3,Tasmania
+1984,manufacturing_pj,35.2,30.3,Tasmania
+1985,manufacturing_pj,35.2,30.3,Tasmania
+1986,manufacturing_pj,34.4,30.3,Tasmania
+1987,manufacturing_pj,38.1,30.3,Tasmania
+1988,manufacturing_pj,39.3,30.3,Tasmania
+1989,manufacturing_pj,39.6,30.3,Tasmania
+1990,manufacturing_pj,40.2,30.3,Tasmania
+1991,manufacturing_pj,38.2,30.3,Tasmania
+1992,manufacturing_pj,37,30.3,Tasmania
+1993,manufacturing_pj,38.5,30.3,Tasmania
+1994,manufacturing_pj,38,30.3,Tasmania
+1995,manufacturing_pj,37.9,30.3,Tasmania
+1996,manufacturing_pj,39.7,30.3,Tasmania
+1997,manufacturing_pj,40.3,30.3,Tasmania
+1998,manufacturing_pj,40.1,30.3,Tasmania
+1999,manufacturing_pj,39.8,30.3,Tasmania
+2000,manufacturing_pj,35.8,30.3,Tasmania
+2001,manufacturing_pj,37.2,30.3,Tasmania
+2002,manufacturing_pj,36.917,30.3,Tasmania
+2003,manufacturing_pj,37.14,30.3,Tasmania
+2004,manufacturing_pj,39.797,30.3,Tasmania
+2005,manufacturing_pj,38.533,30.3,Tasmania
+2006,manufacturing_pj,40.659,30.3,Tasmania
+2007,manufacturing_pj,40.479,30.3,Tasmania
+2008,manufacturing_pj,45.217,30.3,Tasmania
+2009,manufacturing_pj,44.091,30.3,Tasmania
+2010,manufacturing_pj,44.097,30.3,Tasmania
+2011,manufacturing_pj,40.754,30.3,Tasmania
+2012,manufacturing_pj,45.265,30.3,Tasmania
+2013,manufacturing_pj,44.75,30.3,Tasmania
+2014,manufacturing_pj,44.676,30.3,Tasmania
+2015,manufacturing_pj,42.884,30.3,Tasmania
+2016,manufacturing_pj,44.671,30.3,Tasmania
+2017,manufacturing_pj,45.797,30.3,Tasmania
+2018,manufacturing_pj,43.325,30.3,Tasmania
+2019,manufacturing_pj,39.914,30.3,Tasmania
+2020,manufacturing_pj,40.445,30.3,Tasmania
+2021,manufacturing_pj,42.157,30.3,Tasmania
+2022,manufacturing_pj,42.224,30.3,Tasmania
+1974,electricity_generation_pj,3.1,2.7,Tasmania
+1975,electricity_generation_pj,3.5,2.7,Tasmania
+1976,electricity_generation_pj,2.4,2.7,Tasmania
+1977,electricity_generation_pj,3.2,2.7,Tasmania
+1978,electricity_generation_pj,2.3,2.7,Tasmania
+1979,electricity_generation_pj,2.8,2.7,Tasmania
+1980,electricity_generation_pj,4,2.7,Tasmania
+1981,electricity_generation_pj,5.1,2.7,Tasmania
+1982,electricity_generation_pj,5,2.7,Tasmania
+1983,electricity_generation_pj,4.9,2.7,Tasmania
+1984,electricity_generation_pj,3.9,2.7,Tasmania
+1985,electricity_generation_pj,3.1,2.7,Tasmania
+1986,electricity_generation_pj,3.1,2.7,Tasmania
+1987,electricity_generation_pj,3,2.7,Tasmania
+1988,electricity_generation_pj,3.4,2.7,Tasmania
+1989,electricity_generation_pj,7.4,2.7,Tasmania
+1990,electricity_generation_pj,8.7,2.7,Tasmania
+1991,electricity_generation_pj,2.9,2.7,Tasmania
+1992,electricity_generation_pj,2.7,2.7,Tasmania
+1993,electricity_generation_pj,2.7,2.7,Tasmania
+1994,electricity_generation_pj,2.7,2.7,Tasmania
+1995,electricity_generation_pj,2.9,2.7,Tasmania
+1996,electricity_generation_pj,3,2.7,Tasmania
+1997,electricity_generation_pj,3,2.7,Tasmania
+1998,electricity_generation_pj,3.3,2.7,Tasmania
+1999,electricity_generation_pj,2.2,2.7,Tasmania
+2000,electricity_generation_pj,3.8,2.7,Tasmania
+2001,electricity_generation_pj,3.8,2.7,Tasmania
+2002,electricity_generation_pj,5.162,2.7,Tasmania
+2003,electricity_generation_pj,6.064,2.7,Tasmania
+2004,electricity_generation_pj,7.099,2.7,Tasmania
+2005,electricity_generation_pj,9.773,2.7,Tasmania
+2006,electricity_generation_pj,10.238,2.7,Tasmania
+2007,electricity_generation_pj,10.86,2.7,Tasmania
+2008,electricity_generation_pj,7.316,2.7,Tasmania
+2009,electricity_generation_pj,8.475,2.7,Tasmania
+2010,electricity_generation_pj,10.777,2.7,Tasmania
+2011,electricity_generation_pj,9.686,2.7,Tasmania
+2012,electricity_generation_pj,10.423,2.7,Tasmania
+2013,electricity_generation_pj,7.121,2.7,Tasmania
+2014,electricity_generation_pj,3.71,2.7,Tasmania
+2015,electricity_generation_pj,8.134,2.7,Tasmania
+2016,electricity_generation_pj,7.825,2.7,Tasmania
+2017,electricity_generation_pj,8.38,2.7,Tasmania
+2018,electricity_generation_pj,6.399,2.7,Tasmania
+2019,electricity_generation_pj,4.268,2.7,Tasmania
+2020,electricity_generation_pj,4.178,2.7,Tasmania
+2021,electricity_generation_pj,4.462,2.7,Tasmania
+2022,electricity_generation_pj,4.566,2.7,Tasmania
+1974,construction_pj,0.7,0.7,Tasmania
+1975,construction_pj,0.8,0.7,Tasmania
+1976,construction_pj,0.8,0.7,Tasmania
+1977,construction_pj,0.7,0.7,Tasmania
+1978,construction_pj,1.1,0.7,Tasmania
+1979,construction_pj,1.4,0.7,Tasmania
+1980,construction_pj,1.4,0.7,Tasmania
+1981,construction_pj,1.2,0.7,Tasmania
+1982,construction_pj,1.1,0.7,Tasmania
+1983,construction_pj,1.2,0.7,Tasmania
+1984,construction_pj,1.2,0.7,Tasmania
+1985,construction_pj,1.5,0.7,Tasmania
+1986,construction_pj,1.2,0.7,Tasmania
+1987,construction_pj,1.2,0.7,Tasmania
+1988,construction_pj,1.4,0.7,Tasmania
+1989,construction_pj,1.1,0.7,Tasmania
+1990,construction_pj,1.1,0.7,Tasmania
+1991,construction_pj,1.1,0.7,Tasmania
+1992,construction_pj,1.1,0.7,Tasmania
+1993,construction_pj,1,0.7,Tasmania
+1994,construction_pj,1,0.7,Tasmania
+1995,construction_pj,0.9,0.7,Tasmania
+1996,construction_pj,0.9,0.7,Tasmania
+1997,construction_pj,0.9,0.7,Tasmania
+1998,construction_pj,0.9,0.7,Tasmania
+1999,construction_pj,0.8,0.7,Tasmania
+2000,construction_pj,0.8,0.7,Tasmania
+2001,construction_pj,0.8,0.7,Tasmania
+2002,construction_pj,0.744,0.7,Tasmania
+2003,construction_pj,1.244,0.7,Tasmania
+2004,construction_pj,1.5,0.7,Tasmania
+2005,construction_pj,1.47,0.7,Tasmania
+2006,construction_pj,1.609,0.7,Tasmania
+2007,construction_pj,1.595,0.7,Tasmania
+2008,construction_pj,0.483,0.7,Tasmania
+2009,construction_pj,0.496,0.7,Tasmania
+2010,construction_pj,0.487,0.7,Tasmania
+2011,construction_pj,0.415,0.7,Tasmania
+2012,construction_pj,0.343,0.7,Tasmania
+2013,construction_pj,0.321,0.7,Tasmania
+2014,construction_pj,0.358,0.7,Tasmania
+2015,construction_pj,0.42,0.7,Tasmania
+2016,construction_pj,0.415,0.7,Tasmania
+2017,construction_pj,0.436,0.7,Tasmania
+2018,construction_pj,0.477,0.7,Tasmania
+2019,construction_pj,0.478,0.7,Tasmania
+2020,construction_pj,0.447,0.7,Tasmania
+2021,construction_pj,0.441,0.7,Tasmania
+2022,construction_pj,0.431,0.7,Tasmania
+1974,transport_pj,17.9,18,Tasmania
+1975,transport_pj,18.8,18,Tasmania
+1976,transport_pj,20.1,18,Tasmania
+1977,transport_pj,20,18,Tasmania
+1978,transport_pj,20.7,18,Tasmania
+1979,transport_pj,21.3,18,Tasmania
+1980,transport_pj,20.9,18,Tasmania
+1981,transport_pj,20.2,18,Tasmania
+1982,transport_pj,19.7,18,Tasmania
+1983,transport_pj,20.8,18,Tasmania
+1984,transport_pj,21.2,18,Tasmania
+1985,transport_pj,22.5,18,Tasmania
+1986,transport_pj,22.1,18,Tasmania
+1987,transport_pj,22.2,18,Tasmania
+1988,transport_pj,22.8,18,Tasmania
+1989,transport_pj,23,18,Tasmania
+1990,transport_pj,22.8,18,Tasmania
+1991,transport_pj,22.2,18,Tasmania
+1992,transport_pj,23.5,18,Tasmania
+1993,transport_pj,23.8,18,Tasmania
+1994,transport_pj,24.1,18,Tasmania
+1995,transport_pj,23.8,18,Tasmania
+1996,transport_pj,24.1,18,Tasmania
+1997,transport_pj,24.1,18,Tasmania
+1998,transport_pj,24,18,Tasmania
+1999,transport_pj,23.9,18,Tasmania
+2000,transport_pj,23,18,Tasmania
+2001,transport_pj,24,18,Tasmania
+2002,transport_pj,27.256,18,Tasmania
+2003,transport_pj,28.456,18,Tasmania
+2004,transport_pj,29.311,18,Tasmania
+2005,transport_pj,31.4,18,Tasmania
+2006,transport_pj,30.126,18,Tasmania
+2007,transport_pj,30.934,18,Tasmania
+2008,transport_pj,29.71,18,Tasmania
+2009,transport_pj,29.883,18,Tasmania
+2010,transport_pj,27.94,18,Tasmania
+2011,transport_pj,25.664,18,Tasmania
+2012,transport_pj,25.59,18,Tasmania
+2013,transport_pj,24.897,18,Tasmania
+2014,transport_pj,25.084,18,Tasmania
+2015,transport_pj,25.153,18,Tasmania
+2016,transport_pj,24.365,18,Tasmania
+2017,transport_pj,24.719,18,Tasmania
+2018,transport_pj,26.377,18,Tasmania
+2019,transport_pj,24.352,18,Tasmania
+2020,transport_pj,26.007,18,Tasmania
+2021,transport_pj,26.043,18,Tasmania
+2022,transport_pj,25.411,18,Tasmania
+1974,water_and_waste_b_pj,0.1,0.1,Tasmania
+1975,water_and_waste_b_pj,0.1,0.1,Tasmania
+1976,water_and_waste_b_pj,0.1,0.1,Tasmania
+1977,water_and_waste_b_pj,0.1,0.1,Tasmania
+1978,water_and_waste_b_pj,0.1,0.1,Tasmania
+1979,water_and_waste_b_pj,0.1,0.1,Tasmania
+1980,water_and_waste_b_pj,0.1,0.1,Tasmania
+1981,water_and_waste_b_pj,0.1,0.1,Tasmania
+1982,water_and_waste_b_pj,0.1,0.1,Tasmania
+1983,water_and_waste_b_pj,0.1,0.1,Tasmania
+1984,water_and_waste_b_pj,0.1,0.1,Tasmania
+1985,water_and_waste_b_pj,0.1,0.1,Tasmania
+1986,water_and_waste_b_pj,0.1,0.1,Tasmania
+1987,water_and_waste_b_pj,0.1,0.1,Tasmania
+1988,water_and_waste_b_pj,0.1,0.1,Tasmania
+1989,water_and_waste_b_pj,0.1,0.1,Tasmania
+1990,water_and_waste_b_pj,0.1,0.1,Tasmania
+1991,water_and_waste_b_pj,0.1,0.1,Tasmania
+1992,water_and_waste_b_pj,0.1,0.1,Tasmania
+1993,water_and_waste_b_pj,0.1,0.1,Tasmania
+1994,water_and_waste_b_pj,0.1,0.1,Tasmania
+1995,water_and_waste_b_pj,0.1,0.1,Tasmania
+1996,water_and_waste_b_pj,0.1,0.1,Tasmania
+1997,water_and_waste_b_pj,0.1,0.1,Tasmania
+1998,water_and_waste_b_pj,0.1,0.1,Tasmania
+1999,water_and_waste_b_pj,0.1,0.1,Tasmania
+2000,water_and_waste_b_pj,0.1,0.1,Tasmania
+2001,water_and_waste_b_pj,0.1,0.1,Tasmania
+2002,water_and_waste_b_pj,0.089,0.1,Tasmania
+2003,water_and_waste_b_pj,0.096,0.1,Tasmania
+2004,water_and_waste_b_pj,0.092,0.1,Tasmania
+2005,water_and_waste_b_pj,0.1,0.1,Tasmania
+2006,water_and_waste_b_pj,0.105,0.1,Tasmania
+2007,water_and_waste_b_pj,0.108,0.1,Tasmania
+2008,water_and_waste_b_pj,0.139,0.1,Tasmania
+2009,water_and_waste_b_pj,0.069,0.1,Tasmania
+2010,water_and_waste_b_pj,0.217,0.1,Tasmania
+2011,water_and_waste_b_pj,0.236,0.1,Tasmania
+2012,water_and_waste_b_pj,0.061,0.1,Tasmania
+2013,water_and_waste_b_pj,0.274,0.1,Tasmania
+2014,water_and_waste_b_pj,0.278,0.1,Tasmania
+2015,water_and_waste_b_pj,0.275,0.1,Tasmania
+2016,water_and_waste_b_pj,0.302,0.1,Tasmania
+2017,water_and_waste_b_pj,0.304,0.1,Tasmania
+2018,water_and_waste_b_pj,0.348,0.1,Tasmania
+2019,water_and_waste_b_pj,0.39,0.1,Tasmania
+2020,water_and_waste_b_pj,0.348,0.1,Tasmania
+2021,water_and_waste_b_pj,0.378,0.1,Tasmania
+2022,water_and_waste_b_pj,0.41,0.1,Tasmania
+1974,commercial_and_services_c_pj,3.1,3,Tasmania
+1975,commercial_and_services_c_pj,3.1,3,Tasmania
+1976,commercial_and_services_c_pj,3.4,3,Tasmania
+1977,commercial_and_services_c_pj,3.5,3,Tasmania
+1978,commercial_and_services_c_pj,3.6,3,Tasmania
+1979,commercial_and_services_c_pj,3.7,3,Tasmania
+1980,commercial_and_services_c_pj,3.8,3,Tasmania
+1981,commercial_and_services_c_pj,4,3,Tasmania
+1982,commercial_and_services_c_pj,3.9,3,Tasmania
+1983,commercial_and_services_c_pj,3.9,3,Tasmania
+1984,commercial_and_services_c_pj,3.9,3,Tasmania
+1985,commercial_and_services_c_pj,4.1,3,Tasmania
+1986,commercial_and_services_c_pj,4.1,3,Tasmania
+1987,commercial_and_services_c_pj,4.2,3,Tasmania
+1988,commercial_and_services_c_pj,4.2,3,Tasmania
+1989,commercial_and_services_c_pj,4.3,3,Tasmania
+1990,commercial_and_services_c_pj,4.3,3,Tasmania
+1991,commercial_and_services_c_pj,4.4,3,Tasmania
+1992,commercial_and_services_c_pj,4.4,3,Tasmania
+1993,commercial_and_services_c_pj,4.4,3,Tasmania
+1994,commercial_and_services_c_pj,5,3,Tasmania
+1995,commercial_and_services_c_pj,5.5,3,Tasmania
+1996,commercial_and_services_c_pj,5.6,3,Tasmania
+1997,commercial_and_services_c_pj,5.7,3,Tasmania
+1998,commercial_and_services_c_pj,5.7,3,Tasmania
+1999,commercial_and_services_c_pj,5.9,3,Tasmania
+2000,commercial_and_services_c_pj,6.4,3,Tasmania
+2001,commercial_and_services_c_pj,6.5,3,Tasmania
+2002,commercial_and_services_c_pj,7.53,3,Tasmania
+2003,commercial_and_services_c_pj,7.868,3,Tasmania
+2004,commercial_and_services_c_pj,7.004,3,Tasmania
+2005,commercial_and_services_c_pj,7.749,3,Tasmania
+2006,commercial_and_services_c_pj,8.194,3,Tasmania
+2007,commercial_and_services_c_pj,8.266,3,Tasmania
+2008,commercial_and_services_c_pj,8.227,3,Tasmania
+2009,commercial_and_services_c_pj,8.231,3,Tasmania
+2010,commercial_and_services_c_pj,8.586,3,Tasmania
+2011,commercial_and_services_c_pj,8.235,3,Tasmania
+2012,commercial_and_services_c_pj,8.41,3,Tasmania
+2013,commercial_and_services_c_pj,8.479,3,Tasmania
+2014,commercial_and_services_c_pj,9.987,3,Tasmania
+2015,commercial_and_services_c_pj,10.12,3,Tasmania
+2016,commercial_and_services_c_pj,9.806,3,Tasmania
+2017,commercial_and_services_c_pj,9.924,3,Tasmania
+2018,commercial_and_services_c_pj,9.584,3,Tasmania
+2019,commercial_and_services_c_pj,9.209,3,Tasmania
+2020,commercial_and_services_c_pj,8.82,3,Tasmania
+2021,commercial_and_services_c_pj,9.062,3,Tasmania
+2022,commercial_and_services_c_pj,9.179,3,Tasmania
+1974,residential_pj,11.5,10.9,Tasmania
+1975,residential_pj,11.6,10.9,Tasmania
+1976,residential_pj,12.2,10.9,Tasmania
+1977,residential_pj,12.1,10.9,Tasmania
+1978,residential_pj,12.1,10.9,Tasmania
+1979,residential_pj,11.4,10.9,Tasmania
+1980,residential_pj,11.1,10.9,Tasmania
+1981,residential_pj,11.4,10.9,Tasmania
+1982,residential_pj,11.5,10.9,Tasmania
+1983,residential_pj,11.9,10.9,Tasmania
+1984,residential_pj,12.4,10.9,Tasmania
+1985,residential_pj,12.9,10.9,Tasmania
+1986,residential_pj,13.4,10.9,Tasmania
+1987,residential_pj,13.4,10.9,Tasmania
+1988,residential_pj,13.6,10.9,Tasmania
+1989,residential_pj,13.6,10.9,Tasmania
+1990,residential_pj,13.7,10.9,Tasmania
+1991,residential_pj,13.7,10.9,Tasmania
+1992,residential_pj,14.1,10.9,Tasmania
+1993,residential_pj,14.1,10.9,Tasmania
+1994,residential_pj,14,10.9,Tasmania
+1995,residential_pj,14.1,10.9,Tasmania
+1996,residential_pj,14.2,10.9,Tasmania
+1997,residential_pj,14,10.9,Tasmania
+1998,residential_pj,13.7,10.9,Tasmania
+1999,residential_pj,13.9,10.9,Tasmania
+2000,residential_pj,13.7,10.9,Tasmania
+2001,residential_pj,15.8,10.9,Tasmania
+2002,residential_pj,14.815,10.9,Tasmania
+2003,residential_pj,15.122,10.9,Tasmania
+2004,residential_pj,14.969,10.9,Tasmania
+2005,residential_pj,14.862,10.9,Tasmania
+2006,residential_pj,14.689,10.9,Tasmania
+2007,residential_pj,14.786,10.9,Tasmania
+2008,residential_pj,14.711,10.9,Tasmania
+2009,residential_pj,14.868,10.9,Tasmania
+2010,residential_pj,14.542,10.9,Tasmania
+2011,residential_pj,14.45,10.9,Tasmania
+2012,residential_pj,14.452,10.9,Tasmania
+2013,residential_pj,14.296,10.9,Tasmania
+2014,residential_pj,12.717,10.9,Tasmania
+2015,residential_pj,13.025,10.9,Tasmania
+2016,residential_pj,13.173,10.9,Tasmania
+2017,residential_pj,13.35,10.9,Tasmania
+2018,residential_pj,13.307,10.9,Tasmania
+2019,residential_pj,13.716,10.9,Tasmania
+2020,residential_pj,13.82,10.9,Tasmania
+2021,residential_pj,14.001,10.9,Tasmania
+2022,residential_pj,14.071,10.9,Tasmania
+1974,other_d_pj,0.9,1.1,Tasmania
+1975,other_d_pj,1.1,1.1,Tasmania
+1976,other_d_pj,1.2,1.1,Tasmania
+1977,other_d_pj,1.1,1.1,Tasmania
+1978,other_d_pj,1.4,1.1,Tasmania
+1979,other_d_pj,1.2,1.1,Tasmania
+1980,other_d_pj,1.2,1.1,Tasmania
+1981,other_d_pj,1.1,1.1,Tasmania
+1982,other_d_pj,1.2,1.1,Tasmania
+1983,other_d_pj,1.3,1.1,Tasmania
+1984,other_d_pj,1.4,1.1,Tasmania
+1985,other_d_pj,1.1,1.1,Tasmania
+1986,other_d_pj,1.2,1.1,Tasmania
+1987,other_d_pj,1.1,1.1,Tasmania
+1988,other_d_pj,0.9,1.1,Tasmania
+1989,other_d_pj,1.1,1.1,Tasmania
+1990,other_d_pj,1.1,1.1,Tasmania
+1991,other_d_pj,1.1,1.1,Tasmania
+1992,other_d_pj,1.6,1.1,Tasmania
+1993,other_d_pj,1.4,1.1,Tasmania
+1994,other_d_pj,1.5,1.1,Tasmania
+1995,other_d_pj,1.5,1.1,Tasmania
+1996,other_d_pj,1.4,1.1,Tasmania
+1997,other_d_pj,1.4,1.1,Tasmania
+1998,other_d_pj,1.4,1.1,Tasmania
+1999,other_d_pj,2.7,1.1,Tasmania
+2000,other_d_pj,1.7,1.1,Tasmania
+2001,other_d_pj,1.6,1.1,Tasmania
+2002,other_d_pj,1.569,1.1,Tasmania
+2003,other_d_pj,1.511,1.1,Tasmania
+2004,other_d_pj,1.629,1.1,Tasmania
+2005,other_d_pj,1.57,1.1,Tasmania
+2006,other_d_pj,1.408,1.1,Tasmania
+2007,other_d_pj,1.331,1.1,Tasmania
+2008,other_d_pj,1.173,1.1,Tasmania
+2009,other_d_pj,0.93,1.1,Tasmania
+2010,other_d_pj,0.944,1.1,Tasmania
+2011,other_d_pj,0.92,1.1,Tasmania
+2012,other_d_pj,0.871,1.1,Tasmania
+2013,other_d_pj,0.786,1.1,Tasmania
+2014,other_d_pj,0.831,1.1,Tasmania
+2015,other_d_pj,0.207,1.1,Tasmania
+2016,other_d_pj,0.285,1.1,Tasmania
+2017,other_d_pj,0.447,1.1,Tasmania
+2018,other_d_pj,0.66,1.1,Tasmania
+2019,other_d_pj,0.798,1.1,Tasmania
+2020,other_d_pj,0.672,1.1,Tasmania
+2021,other_d_pj,0.578,1.1,Tasmania
+2022,other_d_pj,0.561,1.1,Tasmania
+1974,total_pj,71.3,71.9,Tasmania
+1975,total_pj,71.9,71.9,Tasmania
+1976,total_pj,77,71.9,Tasmania
+1977,total_pj,78.4,71.9,Tasmania
+1978,total_pj,82,71.9,Tasmania
+1979,total_pj,84.6,71.9,Tasmania
+1980,total_pj,83.3,71.9,Tasmania
+1981,total_pj,84.5,71.9,Tasmania
+1982,total_pj,82.3,71.9,Tasmania
+1983,total_pj,83.3,71.9,Tasmania
+1984,total_pj,85,71.9,Tasmania
+1985,total_pj,86.4,71.9,Tasmania
+1986,total_pj,85.4,71.9,Tasmania
+1987,total_pj,89.5,71.9,Tasmania
+1988,total_pj,92,71.9,Tasmania
+1989,total_pj,96.6,71.9,Tasmania
+1990,total_pj,97.6,71.9,Tasmania
+1991,total_pj,89.3,71.9,Tasmania
+1992,total_pj,90.1,71.9,Tasmania
+1993,total_pj,92,71.9,Tasmania
+1994,total_pj,92.4,71.9,Tasmania
+1995,total_pj,93,71.9,Tasmania
+1996,total_pj,94.8,71.9,Tasmania
+1997,total_pj,95.8,71.9,Tasmania
+1998,total_pj,95.7,71.9,Tasmania
+1999,total_pj,95.8,71.9,Tasmania
+2000,total_pj,93.6,71.9,Tasmania
+2001,total_pj,97.2,71.9,Tasmania
+2002,total_pj,99.5,71.9,Tasmania
+2003,total_pj,103.4,71.9,Tasmania
+2004,total_pj,107.395,71.9,Tasmania
+2005,total_pj,111.574,71.9,Tasmania
+2006,total_pj,113.322,71.9,Tasmania
+2007,total_pj,115.507,71.9,Tasmania
+2008,total_pj,113.795,71.9,Tasmania
+2009,total_pj,113.744,71.9,Tasmania
+2010,total_pj,113.825,71.9,Tasmania
+2011,total_pj,106.97,71.9,Tasmania
+2012,total_pj,112.322,71.9,Tasmania
+2013,total_pj,108.002,71.9,Tasmania
+2014,total_pj,104.927,71.9,Tasmania
+2015,total_pj,107.059,71.9,Tasmania
+2016,total_pj,107.463,71.9,Tasmania
+2017,total_pj,110.54,71.9,Tasmania
+2018,total_pj,108.161,71.9,Tasmania
+2019,total_pj,100.079,71.9,Tasmania
+2020,total_pj,103.108,71.9,Tasmania
+2021,total_pj,105.375,71.9,Tasmania
+2022,total_pj,105.451,71.9,Tasmania
+1974,agriculture_pj,0.6,0.4,Northern Territory
+1975,agriculture_pj,0.4,0.4,Northern Territory
+1976,agriculture_pj,0.4,0.4,Northern Territory
+1977,agriculture_pj,0.4,0.4,Northern Territory
+1978,agriculture_pj,0.7,0.4,Northern Territory
+1979,agriculture_pj,0.7,0.4,Northern Territory
+1980,agriculture_pj,0.8,0.4,Northern Territory
+1981,agriculture_pj,0.8,0.4,Northern Territory
+1982,agriculture_pj,0.8,0.4,Northern Territory
+1983,agriculture_pj,0.9,0.4,Northern Territory
+1984,agriculture_pj,0.7,0.4,Northern Territory
+1985,agriculture_pj,0.7,0.4,Northern Territory
+1986,agriculture_pj,0.7,0.4,Northern Territory
+1987,agriculture_pj,0.7,0.4,Northern Territory
+1988,agriculture_pj,0.9,0.4,Northern Territory
+1989,agriculture_pj,1.2,0.4,Northern Territory
+1990,agriculture_pj,1,0.4,Northern Territory
+1991,agriculture_pj,0.9,0.4,Northern Territory
+1992,agriculture_pj,0.9,0.4,Northern Territory
+1993,agriculture_pj,0.9,0.4,Northern Territory
+1994,agriculture_pj,0.9,0.4,Northern Territory
+1995,agriculture_pj,0.9,0.4,Northern Territory
+1996,agriculture_pj,1,0.4,Northern Territory
+1997,agriculture_pj,1.1,0.4,Northern Territory
+1998,agriculture_pj,1.3,0.4,Northern Territory
+1999,agriculture_pj,1.4,0.4,Northern Territory
+2000,agriculture_pj,1.4,0.4,Northern Territory
+2001,agriculture_pj,1.5,0.4,Northern Territory
+2002,agriculture_pj,1.266,0.4,Northern Territory
+2003,agriculture_pj,1.383,0.4,Northern Territory
+2004,agriculture_pj,1.371,0.4,Northern Territory
+2005,agriculture_pj,1.127,0.4,Northern Territory
+2006,agriculture_pj,1.097,0.4,Northern Territory
+2007,agriculture_pj,1.1,0.4,Northern Territory
+2008,agriculture_pj,1.261,0.4,Northern Territory
+2009,agriculture_pj,1.263,0.4,Northern Territory
+2010,agriculture_pj,1.26,0.4,Northern Territory
+2011,agriculture_pj,1.263,0.4,Northern Territory
+2012,agriculture_pj,1.28,0.4,Northern Territory
+2013,agriculture_pj,1.172,0.4,Northern Territory
+2014,agriculture_pj,1.21,0.4,Northern Territory
+2015,agriculture_pj,1.251,0.4,Northern Territory
+2016,agriculture_pj,1.67,0.4,Northern Territory
+2017,agriculture_pj,1.674,0.4,Northern Territory
+2018,agriculture_pj,1.853,0.4,Northern Territory
+2019,agriculture_pj,1.872,0.4,Northern Territory
+2020,agriculture_pj,2.266,0.4,Northern Territory
+2021,agriculture_pj,1.744,0.4,Northern Territory
+2022,agriculture_pj,0.728,0.4,Northern Territory
+1974,mining_pj,0.9,0.4,Northern Territory
+1975,mining_pj,0.8,0.4,Northern Territory
+1976,mining_pj,0.7,0.4,Northern Territory
+1977,mining_pj,0.7,0.4,Northern Territory
+1978,mining_pj,0.7,0.4,Northern Territory
+1979,mining_pj,1,0.4,Northern Territory
+1980,mining_pj,1.2,0.4,Northern Territory
+1981,mining_pj,1,0.4,Northern Territory
+1982,mining_pj,1,0.4,Northern Territory
+1983,mining_pj,1,0.4,Northern Territory
+1984,mining_pj,1.6,0.4,Northern Territory
+1985,mining_pj,1.5,0.4,Northern Territory
+1986,mining_pj,1.8,0.4,Northern Territory
+1987,mining_pj,1.9,0.4,Northern Territory
+1988,mining_pj,2.2,0.4,Northern Territory
+1989,mining_pj,2.6,0.4,Northern Territory
+1990,mining_pj,2.6,0.4,Northern Territory
+1991,mining_pj,2.3,0.4,Northern Territory
+1992,mining_pj,2.3,0.4,Northern Territory
+1993,mining_pj,2.3,0.4,Northern Territory
+1994,mining_pj,2.3,0.4,Northern Territory
+1995,mining_pj,3.2,0.4,Northern Territory
+1996,mining_pj,3.6,0.4,Northern Territory
+1997,mining_pj,4.3,0.4,Northern Territory
+1998,mining_pj,3.8,0.4,Northern Territory
+1999,mining_pj,3.9,0.4,Northern Territory
+2000,mining_pj,3,0.4,Northern Territory
+2001,mining_pj,3.4,0.4,Northern Territory
+2002,mining_pj,1.541,0.4,Northern Territory
+2003,mining_pj,3.429,0.4,Northern Territory
+2004,mining_pj,5.751,0.4,Northern Territory
+2005,mining_pj,16.492,0.4,Northern Territory
+2006,mining_pj,26.478,0.4,Northern Territory
+2007,mining_pj,24.496,0.4,Northern Territory
+2008,mining_pj,25.075,0.4,Northern Territory
+2009,mining_pj,20.024,0.4,Northern Territory
+2010,mining_pj,23.405,0.4,Northern Territory
+2011,mining_pj,21.464,0.4,Northern Territory
+2012,mining_pj,26.012,0.4,Northern Territory
+2013,mining_pj,26.144,0.4,Northern Territory
+2014,mining_pj,24.955,0.4,Northern Territory
+2015,mining_pj,26.866,0.4,Northern Territory
+2016,mining_pj,24.906,0.4,Northern Territory
+2017,mining_pj,27.987,0.4,Northern Territory
+2018,mining_pj,59.098,0.4,Northern Territory
+2019,mining_pj,78.182,0.4,Northern Territory
+2020,mining_pj,76.547,0.4,Northern Territory
+2021,mining_pj,78.481,0.4,Northern Territory
+2022,mining_pj,62.97,0.4,Northern Territory
+1974,manufacturing_pj,15.1,14.3,Northern Territory
+1975,manufacturing_pj,15.3,14.3,Northern Territory
+1976,manufacturing_pj,16.2,14.3,Northern Territory
+1977,manufacturing_pj,16.6,14.3,Northern Territory
+1978,manufacturing_pj,16,14.3,Northern Territory
+1979,manufacturing_pj,16.3,14.3,Northern Territory
+1980,manufacturing_pj,16.8,14.3,Northern Territory
+1981,manufacturing_pj,14.3,14.3,Northern Territory
+1982,manufacturing_pj,15.2,14.3,Northern Territory
+1983,manufacturing_pj,16.4,14.3,Northern Territory
+1984,manufacturing_pj,16.4,14.3,Northern Territory
+1985,manufacturing_pj,15.5,14.3,Northern Territory
+1986,manufacturing_pj,15.1,14.3,Northern Territory
+1987,manufacturing_pj,17.3,14.3,Northern Territory
+1988,manufacturing_pj,16.7,14.3,Northern Territory
+1989,manufacturing_pj,16.3,14.3,Northern Territory
+1990,manufacturing_pj,17.9,14.3,Northern Territory
+1991,manufacturing_pj,18.9,14.3,Northern Territory
+1992,manufacturing_pj,18.9,14.3,Northern Territory
+1993,manufacturing_pj,19.2,14.3,Northern Territory
+1994,manufacturing_pj,19.7,14.3,Northern Territory
+1995,manufacturing_pj,19.8,14.3,Northern Territory
+1996,manufacturing_pj,20.6,14.3,Northern Territory
+1997,manufacturing_pj,20.1,14.3,Northern Territory
+1998,manufacturing_pj,21.4,14.3,Northern Territory
+1999,manufacturing_pj,22.2,14.3,Northern Territory
+2000,manufacturing_pj,21.8,14.3,Northern Territory
+2001,manufacturing_pj,21.7,14.3,Northern Territory
+2002,manufacturing_pj,23.012,14.3,Northern Territory
+2003,manufacturing_pj,23.051,14.3,Northern Territory
+2004,manufacturing_pj,22.227,14.3,Northern Territory
+2005,manufacturing_pj,22.058,14.3,Northern Territory
+2006,manufacturing_pj,23.289,14.3,Northern Territory
+2007,manufacturing_pj,27.135,14.3,Northern Territory
+2008,manufacturing_pj,21.475,14.3,Northern Territory
+2009,manufacturing_pj,22.964,14.3,Northern Territory
+2010,manufacturing_pj,24.043,14.3,Northern Territory
+2011,manufacturing_pj,24.244,14.3,Northern Territory
+2012,manufacturing_pj,23.207,14.3,Northern Territory
+2013,manufacturing_pj,17.914,14.3,Northern Territory
+2014,manufacturing_pj,2.364,14.3,Northern Territory
+2015,manufacturing_pj,1.219,14.3,Northern Territory
+2016,manufacturing_pj,1.165,14.3,Northern Territory
+2017,manufacturing_pj,1.128,14.3,Northern Territory
+2018,manufacturing_pj,0.493,14.3,Northern Territory
+2019,manufacturing_pj,0.442,14.3,Northern Territory
+2020,manufacturing_pj,0.342,14.3,Northern Territory
+2021,manufacturing_pj,0.286,14.3,Northern Territory
+2022,manufacturing_pj,0.255,14.3,Northern Territory
+1974,electricity_generation_pj,4.3,4.2,Northern Territory
+1975,electricity_generation_pj,4.8,4.2,Northern Territory
+1976,electricity_generation_pj,5.2,4.2,Northern Territory
+1977,electricity_generation_pj,5.9,4.2,Northern Territory
+1978,electricity_generation_pj,5.7,4.2,Northern Territory
+1979,electricity_generation_pj,7.3,4.2,Northern Territory
+1980,electricity_generation_pj,7.1,4.2,Northern Territory
+1981,electricity_generation_pj,7.7,4.2,Northern Territory
+1982,electricity_generation_pj,8,4.2,Northern Territory
+1983,electricity_generation_pj,8.5,4.2,Northern Territory
+1984,electricity_generation_pj,9,4.2,Northern Territory
+1985,electricity_generation_pj,9.8,4.2,Northern Territory
+1986,electricity_generation_pj,10.5,4.2,Northern Territory
+1987,electricity_generation_pj,10.3,4.2,Northern Territory
+1988,electricity_generation_pj,10.4,4.2,Northern Territory
+1989,electricity_generation_pj,11.4,4.2,Northern Territory
+1990,electricity_generation_pj,11.8,4.2,Northern Territory
+1991,electricity_generation_pj,11.8,4.2,Northern Territory
+1992,electricity_generation_pj,11.5,4.2,Northern Territory
+1993,electricity_generation_pj,11.5,4.2,Northern Territory
+1994,electricity_generation_pj,12.4,4.2,Northern Territory
+1995,electricity_generation_pj,13.9,4.2,Northern Territory
+1996,electricity_generation_pj,14.4,4.2,Northern Territory
+1997,electricity_generation_pj,14.8,4.2,Northern Territory
+1998,electricity_generation_pj,16.5,4.2,Northern Territory
+1999,electricity_generation_pj,18.1,4.2,Northern Territory
+2000,electricity_generation_pj,15.6,4.2,Northern Territory
+2001,electricity_generation_pj,15.8,4.2,Northern Territory
+2002,electricity_generation_pj,4.787,4.2,Northern Territory
+2003,electricity_generation_pj,6.034,4.2,Northern Territory
+2004,electricity_generation_pj,7.037,4.2,Northern Territory
+2005,electricity_generation_pj,6.252,4.2,Northern Territory
+2006,electricity_generation_pj,5.811,4.2,Northern Territory
+2007,electricity_generation_pj,16.193,4.2,Northern Territory
+2008,electricity_generation_pj,21.276,4.2,Northern Territory
+2009,electricity_generation_pj,23.834,4.2,Northern Territory
+2010,electricity_generation_pj,22.368,4.2,Northern Territory
+2011,electricity_generation_pj,22.927,4.2,Northern Territory
+2012,electricity_generation_pj,22.138,4.2,Northern Territory
+2013,electricity_generation_pj,22.893,4.2,Northern Territory
+2014,electricity_generation_pj,24.184,4.2,Northern Territory
+2015,electricity_generation_pj,23.363,4.2,Northern Territory
+2016,electricity_generation_pj,24.48,4.2,Northern Territory
+2017,electricity_generation_pj,27.747,4.2,Northern Territory
+2018,electricity_generation_pj,33.279,4.2,Northern Territory
+2019,electricity_generation_pj,33.079,4.2,Northern Territory
+2020,electricity_generation_pj,32.579,4.2,Northern Territory
+2021,electricity_generation_pj,31.723,4.2,Northern Territory
+2022,electricity_generation_pj,30.307,4.2,Northern Territory
+1974,construction_pj,0.7,0.2,Northern Territory
+1975,construction_pj,0.3,0.2,Northern Territory
+1976,construction_pj,0.3,0.2,Northern Territory
+1977,construction_pj,0.3,0.2,Northern Territory
+1978,construction_pj,0.4,0.2,Northern Territory
+1979,construction_pj,0.4,0.2,Northern Territory
+1980,construction_pj,1.4,0.2,Northern Territory
+1981,construction_pj,0.4,0.2,Northern Territory
+1982,construction_pj,0.8,0.2,Northern Territory
+1983,construction_pj,0.9,0.2,Northern Territory
+1984,construction_pj,0.9,0.2,Northern Territory
+1985,construction_pj,1.3,0.2,Northern Territory
+1986,construction_pj,1.2,0.2,Northern Territory
+1987,construction_pj,1.1,0.2,Northern Territory
+1988,construction_pj,1.2,0.2,Northern Territory
+1989,construction_pj,0.9,0.2,Northern Territory
+1990,construction_pj,1,0.2,Northern Territory
+1991,construction_pj,1,0.2,Northern Territory
+1992,construction_pj,0.9,0.2,Northern Territory
+1993,construction_pj,0.9,0.2,Northern Territory
+1994,construction_pj,0.9,0.2,Northern Territory
+1995,construction_pj,0.8,0.2,Northern Territory
+1996,construction_pj,0.8,0.2,Northern Territory
+1997,construction_pj,0.8,0.2,Northern Territory
+1998,construction_pj,0.7,0.2,Northern Territory
+1999,construction_pj,0.7,0.2,Northern Territory
+2000,construction_pj,0.7,0.2,Northern Territory
+2001,construction_pj,0.7,0.2,Northern Territory
+2002,construction_pj,0.636,0.2,Northern Territory
+2003,construction_pj,0.542,0.2,Northern Territory
+2004,construction_pj,0.502,0.2,Northern Territory
+2005,construction_pj,0.388,0.2,Northern Territory
+2006,construction_pj,0.366,0.2,Northern Territory
+2007,construction_pj,0.36,0.2,Northern Territory
+2008,construction_pj,0.306,0.2,Northern Territory
+2009,construction_pj,0.318,0.2,Northern Territory
+2010,construction_pj,0.353,0.2,Northern Territory
+2011,construction_pj,0.431,0.2,Northern Territory
+2012,construction_pj,0.488,0.2,Northern Territory
+2013,construction_pj,0.568,0.2,Northern Territory
+2014,construction_pj,0.977,0.2,Northern Territory
+2015,construction_pj,0.775,0.2,Northern Territory
+2016,construction_pj,0.908,0.2,Northern Territory
+2017,construction_pj,0.457,0.2,Northern Territory
+2018,construction_pj,0.353,0.2,Northern Territory
+2019,construction_pj,0.239,0.2,Northern Territory
+2020,construction_pj,0.257,0.2,Northern Territory
+2021,construction_pj,0.259,0.2,Northern Territory
+2022,construction_pj,0.506,0.2,Northern Territory
+1974,transport_pj,8.2,7.6,Northern Territory
+1975,transport_pj,6.7,7.6,Northern Territory
+1976,transport_pj,7.9,7.6,Northern Territory
+1977,transport_pj,8.1,7.6,Northern Territory
+1978,transport_pj,8.9,7.6,Northern Territory
+1979,transport_pj,10.5,7.6,Northern Territory
+1980,transport_pj,9.8,7.6,Northern Territory
+1981,transport_pj,10.1,7.6,Northern Territory
+1982,transport_pj,10.7,7.6,Northern Territory
+1983,transport_pj,11.7,7.6,Northern Territory
+1984,transport_pj,12.4,7.6,Northern Territory
+1985,transport_pj,13.2,7.6,Northern Territory
+1986,transport_pj,14.9,7.6,Northern Territory
+1987,transport_pj,14.4,7.6,Northern Territory
+1988,transport_pj,14.3,7.6,Northern Territory
+1989,transport_pj,14.6,7.6,Northern Territory
+1990,transport_pj,15.2,7.6,Northern Territory
+1991,transport_pj,16.2,7.6,Northern Territory
+1992,transport_pj,16.7,7.6,Northern Territory
+1993,transport_pj,17.7,7.6,Northern Territory
+1994,transport_pj,19.2,7.6,Northern Territory
+1995,transport_pj,21.6,7.6,Northern Territory
+1996,transport_pj,21.8,7.6,Northern Territory
+1997,transport_pj,22,7.6,Northern Territory
+1998,transport_pj,22.1,7.6,Northern Territory
+1999,transport_pj,22.4,7.6,Northern Territory
+2000,transport_pj,21.9,7.6,Northern Territory
+2001,transport_pj,22,7.6,Northern Territory
+2002,transport_pj,15.516,7.6,Northern Territory
+2003,transport_pj,14.551,7.6,Northern Territory
+2004,transport_pj,15.419,7.6,Northern Territory
+2005,transport_pj,17.191,7.6,Northern Territory
+2006,transport_pj,15.833,7.6,Northern Territory
+2007,transport_pj,16.273,7.6,Northern Territory
+2008,transport_pj,14.828,7.6,Northern Territory
+2009,transport_pj,14.284,7.6,Northern Territory
+2010,transport_pj,18.81,7.6,Northern Territory
+2011,transport_pj,18.447,7.6,Northern Territory
+2012,transport_pj,18.23,7.6,Northern Territory
+2013,transport_pj,18.573,7.6,Northern Territory
+2014,transport_pj,21.06,7.6,Northern Territory
+2015,transport_pj,20.846,7.6,Northern Territory
+2016,transport_pj,20.518,7.6,Northern Territory
+2017,transport_pj,21.634,7.6,Northern Territory
+2018,transport_pj,28.748,7.6,Northern Territory
+2019,transport_pj,23.816,7.6,Northern Territory
+2020,transport_pj,24.353,7.6,Northern Territory
+2021,transport_pj,27.864,7.6,Northern Territory
+2022,transport_pj,25.576,7.6,Northern Territory
+1974,water_and_waste_b_pj,0.1,0.1,Northern Territory
+1975,water_and_waste_b_pj,0.1,0.1,Northern Territory
+1976,water_and_waste_b_pj,0.1,0.1,Northern Territory
+1977,water_and_waste_b_pj,0.1,0.1,Northern Territory
+1978,water_and_waste_b_pj,0.1,0.1,Northern Territory
+1979,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1980,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1981,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1982,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1983,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1984,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1985,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1986,water_and_waste_b_pj,0.1,0.1,Northern Territory
+1987,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1988,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1989,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1990,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1991,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1992,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1993,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1994,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1995,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1996,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1997,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1998,water_and_waste_b_pj,0.2,0.1,Northern Territory
+1999,water_and_waste_b_pj,0.2,0.1,Northern Territory
+2000,water_and_waste_b_pj,0.2,0.1,Northern Territory
+2001,water_and_waste_b_pj,0.2,0.1,Northern Territory
+2002,water_and_waste_b_pj,0.24,0.1,Northern Territory
+2003,water_and_waste_b_pj,0.26,0.1,Northern Territory
+2004,water_and_waste_b_pj,0.252,0.1,Northern Territory
+2005,water_and_waste_b_pj,0.195,0.1,Northern Territory
+2006,water_and_waste_b_pj,0.213,0.1,Northern Territory
+2007,water_and_waste_b_pj,0.211,0.1,Northern Territory
+2008,water_and_waste_b_pj,0.026,0.1,Northern Territory
+2009,water_and_waste_b_pj,0.172,0.1,Northern Territory
+2010,water_and_waste_b_pj,0.097,0.1,Northern Territory
+2011,water_and_waste_b_pj,0.059,0.1,Northern Territory
+2012,water_and_waste_b_pj,0.002,0.1,Northern Territory
+2013,water_and_waste_b_pj,0.282,0.1,Northern Territory
+2014,water_and_waste_b_pj,0.043,0.1,Northern Territory
+2015,water_and_waste_b_pj,0.102,0.1,Northern Territory
+2016,water_and_waste_b_pj,0.109,0.1,Northern Territory
+2017,water_and_waste_b_pj,0.13,0.1,Northern Territory
+2018,water_and_waste_b_pj,0.127,0.1,Northern Territory
+2019,water_and_waste_b_pj,0.129,0.1,Northern Territory
+2020,water_and_waste_b_pj,0.126,0.1,Northern Territory
+2021,water_and_waste_b_pj,0.129,0.1,Northern Territory
+2022,water_and_waste_b_pj,0.115,0.1,Northern Territory
+1974,commercial_and_services_c_pj,1.2,1.2,Northern Territory
+1975,commercial_and_services_c_pj,1.2,1.2,Northern Territory
+1976,commercial_and_services_c_pj,1.3,1.2,Northern Territory
+1977,commercial_and_services_c_pj,1.4,1.2,Northern Territory
+1978,commercial_and_services_c_pj,1.5,1.2,Northern Territory
+1979,commercial_and_services_c_pj,1.7,1.2,Northern Territory
+1980,commercial_and_services_c_pj,1.9,1.2,Northern Territory
+1981,commercial_and_services_c_pj,2,1.2,Northern Territory
+1982,commercial_and_services_c_pj,2,1.2,Northern Territory
+1983,commercial_and_services_c_pj,2,1.2,Northern Territory
+1984,commercial_and_services_c_pj,2.1,1.2,Northern Territory
+1985,commercial_and_services_c_pj,2.3,1.2,Northern Territory
+1986,commercial_and_services_c_pj,2.3,1.2,Northern Territory
+1987,commercial_and_services_c_pj,2.5,1.2,Northern Territory
+1988,commercial_and_services_c_pj,2.5,1.2,Northern Territory
+1989,commercial_and_services_c_pj,2.7,1.2,Northern Territory
+1990,commercial_and_services_c_pj,2.8,1.2,Northern Territory
+1991,commercial_and_services_c_pj,2.8,1.2,Northern Territory
+1992,commercial_and_services_c_pj,2.9,1.2,Northern Territory
+1993,commercial_and_services_c_pj,2.9,1.2,Northern Territory
+1994,commercial_and_services_c_pj,3.1,1.2,Northern Territory
+1995,commercial_and_services_c_pj,3.2,1.2,Northern Territory
+1996,commercial_and_services_c_pj,3.4,1.2,Northern Territory
+1997,commercial_and_services_c_pj,3.6,1.2,Northern Territory
+1998,commercial_and_services_c_pj,3.8,1.2,Northern Territory
+1999,commercial_and_services_c_pj,3.8,1.2,Northern Territory
+2000,commercial_and_services_c_pj,5.3,1.2,Northern Territory
+2001,commercial_and_services_c_pj,5.1,1.2,Northern Territory
+2002,commercial_and_services_c_pj,6.197,1.2,Northern Territory
+2003,commercial_and_services_c_pj,6.181,1.2,Northern Territory
+2004,commercial_and_services_c_pj,6.012,1.2,Northern Territory
+2005,commercial_and_services_c_pj,5.987,1.2,Northern Territory
+2006,commercial_and_services_c_pj,6.259,1.2,Northern Territory
+2007,commercial_and_services_c_pj,6.454,1.2,Northern Territory
+2008,commercial_and_services_c_pj,6.952,1.2,Northern Territory
+2009,commercial_and_services_c_pj,7.555,1.2,Northern Territory
+2010,commercial_and_services_c_pj,6.204,1.2,Northern Territory
+2011,commercial_and_services_c_pj,6.635,1.2,Northern Territory
+2012,commercial_and_services_c_pj,6.265,1.2,Northern Territory
+2013,commercial_and_services_c_pj,9.018,1.2,Northern Territory
+2014,commercial_and_services_c_pj,5.944,1.2,Northern Territory
+2015,commercial_and_services_c_pj,6.073,1.2,Northern Territory
+2016,commercial_and_services_c_pj,6.109,1.2,Northern Territory
+2017,commercial_and_services_c_pj,6.039,1.2,Northern Territory
+2018,commercial_and_services_c_pj,5.496,1.2,Northern Territory
+2019,commercial_and_services_c_pj,4.994,1.2,Northern Territory
+2020,commercial_and_services_c_pj,4.958,1.2,Northern Territory
+2021,commercial_and_services_c_pj,5.073,1.2,Northern Territory
+2022,commercial_and_services_c_pj,5.073,1.2,Northern Territory
+1974,residential_pj,1.1,1.1,Northern Territory
+1975,residential_pj,1.1,1.1,Northern Territory
+1976,residential_pj,1.1,1.1,Northern Territory
+1977,residential_pj,1.2,1.1,Northern Territory
+1978,residential_pj,1.3,1.1,Northern Territory
+1979,residential_pj,1.4,1.1,Northern Territory
+1980,residential_pj,1.5,1.1,Northern Territory
+1981,residential_pj,1.5,1.1,Northern Territory
+1982,residential_pj,1.5,1.1,Northern Territory
+1983,residential_pj,1.6,1.1,Northern Territory
+1984,residential_pj,1.7,1.1,Northern Territory
+1985,residential_pj,1.8,1.1,Northern Territory
+1986,residential_pj,1.8,1.1,Northern Territory
+1987,residential_pj,1.9,1.1,Northern Territory
+1988,residential_pj,2,1.1,Northern Territory
+1989,residential_pj,2,1.1,Northern Territory
+1990,residential_pj,2,1.1,Northern Territory
+1991,residential_pj,2.1,1.1,Northern Territory
+1992,residential_pj,2.2,1.1,Northern Territory
+1993,residential_pj,2.3,1.1,Northern Territory
+1994,residential_pj,2.3,1.1,Northern Territory
+1995,residential_pj,2.4,1.1,Northern Territory
+1996,residential_pj,2.5,1.1,Northern Territory
+1997,residential_pj,2.6,1.1,Northern Territory
+1998,residential_pj,2.4,1.1,Northern Territory
+1999,residential_pj,2.7,1.1,Northern Territory
+2000,residential_pj,2.3,1.1,Northern Territory
+2001,residential_pj,2.3,1.1,Northern Territory
+2002,residential_pj,2.789,1.1,Northern Territory
+2003,residential_pj,2.724,1.1,Northern Territory
+2004,residential_pj,2.464,1.1,Northern Territory
+2005,residential_pj,2.673,1.1,Northern Territory
+2006,residential_pj,2.838,1.1,Northern Territory
+2007,residential_pj,2.995,1.1,Northern Territory
+2008,residential_pj,3.185,1.1,Northern Territory
+2009,residential_pj,3.312,1.1,Northern Territory
+2010,residential_pj,2.686,1.1,Northern Territory
+2011,residential_pj,2.308,1.1,Northern Territory
+2012,residential_pj,2.077,1.1,Northern Territory
+2013,residential_pj,2.24,1.1,Northern Territory
+2014,residential_pj,2.956,1.1,Northern Territory
+2015,residential_pj,3.14,1.1,Northern Territory
+2016,residential_pj,3.222,1.1,Northern Territory
+2017,residential_pj,3.176,1.1,Northern Territory
+2018,residential_pj,3.446,1.1,Northern Territory
+2019,residential_pj,3.567,1.1,Northern Territory
+2020,residential_pj,3.76,1.1,Northern Territory
+2021,residential_pj,4.075,1.1,Northern Territory
+2022,residential_pj,3.915,1.1,Northern Territory
+1974,other_d_pj,0.6,0.6,Northern Territory
+1975,other_d_pj,0.5,0.6,Northern Territory
+1976,other_d_pj,0.4,0.6,Northern Territory
+1977,other_d_pj,0.4,0.6,Northern Territory
+1978,other_d_pj,0.4,0.6,Northern Territory
+1979,other_d_pj,0.5,0.6,Northern Territory
+1980,other_d_pj,0.7,0.6,Northern Territory
+1981,other_d_pj,0.6,0.6,Northern Territory
+1982,other_d_pj,0.6,0.6,Northern Territory
+1983,other_d_pj,0.7,0.6,Northern Territory
+1984,other_d_pj,0.8,0.6,Northern Territory
+1985,other_d_pj,0.8,0.6,Northern Territory
+1986,other_d_pj,0.8,0.6,Northern Territory
+1987,other_d_pj,0.9,0.6,Northern Territory
+1988,other_d_pj,0.7,0.6,Northern Territory
+1989,other_d_pj,0.6,0.6,Northern Territory
+1990,other_d_pj,0.6,0.6,Northern Territory
+1991,other_d_pj,0.7,0.6,Northern Territory
+1992,other_d_pj,0.7,0.6,Northern Territory
+1993,other_d_pj,0.6,0.6,Northern Territory
+1994,other_d_pj,0.8,0.6,Northern Territory
+1995,other_d_pj,1,0.6,Northern Territory
+1996,other_d_pj,1.4,0.6,Northern Territory
+1997,other_d_pj,0.8,0.6,Northern Territory
+1998,other_d_pj,1,0.6,Northern Territory
+1999,other_d_pj,1,0.6,Northern Territory
+2000,other_d_pj,0.9,0.6,Northern Territory
+2001,other_d_pj,0.7,0.6,Northern Territory
+2002,other_d_pj,0.8,0.6,Northern Territory
+2003,other_d_pj,0.5,0.6,Northern Territory
+2004,other_d_pj,0.5,0.6,Northern Territory
+2005,other_d_pj,0.635,0.6,Northern Territory
+2006,other_d_pj,0.605,0.6,Northern Territory
+2007,other_d_pj,0.779,0.6,Northern Territory
+2008,other_d_pj,0.66,0.6,Northern Territory
+2009,other_d_pj,0.448,0.6,Northern Territory
+2010,other_d_pj,0.561,0.6,Northern Territory
+2011,other_d_pj,0.416,0.6,Northern Territory
+2012,other_d_pj,0.456,0.6,Northern Territory
+2013,other_d_pj,0.338,0.6,Northern Territory
+2014,other_d_pj,0.294,0.6,Northern Territory
+2015,other_d_pj,0.284,0.6,Northern Territory
+2016,other_d_pj,0.233,0.6,Northern Territory
+2017,other_d_pj,0.191,0.6,Northern Territory
+2018,other_d_pj,0.129,0.6,Northern Territory
+2019,other_d_pj,0.179,0.6,Northern Territory
+2020,other_d_pj,0.152,0.6,Northern Territory
+2021,other_d_pj,0.139,0.6,Northern Territory
+2022,other_d_pj,0.149,0.6,Northern Territory
+1974,total_pj,32.8,30.1,Northern Territory
+1975,total_pj,31.2,30.1,Northern Territory
+1976,total_pj,33.6,30.1,Northern Territory
+1977,total_pj,35.1,30.1,Northern Territory
+1978,total_pj,35.7,30.1,Northern Territory
+1979,total_pj,40,30.1,Northern Territory
+1980,total_pj,41.3,30.1,Northern Territory
+1981,total_pj,38.6,30.1,Northern Territory
+1982,total_pj,40.8,30.1,Northern Territory
+1983,total_pj,43.8,30.1,Northern Territory
+1984,total_pj,45.8,30.1,Northern Territory
+1985,total_pj,47,30.1,Northern Territory
+1986,total_pj,49.3,30.1,Northern Territory
+1987,total_pj,51.1,30.1,Northern Territory
+1988,total_pj,51,30.1,Northern Territory
+1989,total_pj,52.5,30.1,Northern Territory
+1990,total_pj,55,30.1,Northern Territory
+1991,total_pj,56.9,30.1,Northern Territory
+1992,total_pj,57.2,30.1,Northern Territory
+1993,total_pj,58.5,30.1,Northern Territory
+1994,total_pj,61.8,30.1,Northern Territory
+1995,total_pj,67,30.1,Northern Territory
+1996,total_pj,69.7,30.1,Northern Territory
+1997,total_pj,70.4,30.1,Northern Territory
+1998,total_pj,73.2,30.1,Northern Territory
+1999,total_pj,76.4,30.1,Northern Territory
+2000,total_pj,73.2,30.1,Northern Territory
+2001,total_pj,73.4,30.1,Northern Territory
+2002,total_pj,56.783,30.1,Northern Territory
+2003,total_pj,58.655,30.1,Northern Territory
+2004,total_pj,61.536,30.1,Northern Territory
+2005,total_pj,72.998,30.1,Northern Territory
+2006,total_pj,82.787,30.1,Northern Territory
+2007,total_pj,95.995,30.1,Northern Territory
+2008,total_pj,95.044,30.1,Northern Territory
+2009,total_pj,94.174,30.1,Northern Territory
+2010,total_pj,99.786,30.1,Northern Territory
+2011,total_pj,98.194,30.1,Northern Territory
+2012,total_pj,100.156,30.1,Northern Territory
+2013,total_pj,99.141,30.1,Northern Territory
+2014,total_pj,83.987,30.1,Northern Territory
+2015,total_pj,83.919,30.1,Northern Territory
+2016,total_pj,83.32,30.1,Northern Territory
+2017,total_pj,90.161,30.1,Northern Territory
+2018,total_pj,133.022,30.1,Northern Territory
+2019,total_pj,146.499,30.1,Northern Territory
+2020,total_pj,145.341,30.1,Northern Territory
+2021,total_pj,149.773,30.1,Northern Territory
+2022,total_pj,129.592,30.1,Northern Territory
