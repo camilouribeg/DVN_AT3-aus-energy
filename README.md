@@ -63,14 +63,4 @@ The final dashboard presents:
 
 [🔗 View Dashboard Demo (https://public.tableau.com/app/profile/siqi.zhang2285/viz/AustraliasEnergyConsumptionTransition/Dashboard2)
 
-## 👩‍💻 Team & Roles
-
-| Name               | Role                 |
-|--------------------|----------------------|
-| Camilo Uribe       | Data Engineer / Analyst |
-| [Other Members]    | UX / Visual Design   |
-| [Other Members]    | Project Manager / Comms |
-
-## 📄 License
-
 This repository is for educational use only. Data is publicly available from DCCEEW.
