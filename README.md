@@ -1,3 +1,33 @@
+# DVN_AT3 - Australian Energy Storytelling Dashboard
+
+This project is part of a university data visualization assignment focused on building a compelling and human-centered data narrative using real-world datasets. We explore Australia’s renewable energy trends, consumption patterns, and industry-specific behaviors across states and time periods.
+
+## 📊 Project Objective
+
+To create an interactive dashboard that highlights:
+- The evolution and distribution of **renewable energy** in Australia.
+- **State-by-state comparisons** of energy generation and consumption.
+- **Industry-level insights** showing who consumes what type of energy—and how that’s shifting.
+
+## 🗂️ Dataset Source
+
+All datasets are sourced from the [Australian Energy Statistics 2024](https://www.energy.gov.au/publications/australian-energy-update-2024) published by the Department of Climate Change, Energy, the Environment and Water (DCCEEW).
+
+## 📁 Folder Structure
+
+
+DVN_AT3-aus-energy/
+├── data/
+│   ├── raw/            <- Original Excel files from the government release
+│   └── processed/      <- Cleaned CSVs used for analysis and visualization
+├── scripts/
+│   └── data_transf.ipynb <- All Python data cleaning and transformation logic
+├── assets/             <- Diagrams and presentation figures
+└── dashboard/          <- Final dashboard code and visual outputs
+
+
+
+
 ## 🔧 Data Processing
 
 All transformation scripts are written in **Python** using `pandas`. Key operations included:
