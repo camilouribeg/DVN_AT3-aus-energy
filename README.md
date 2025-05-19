@@ -61,7 +61,7 @@ The final dashboard presents:
 - Industry vs fuel consumption bars
 - Clear visual storytelling guided by UX principles
 
-[🔗 View Dashboard Demo (if applicable)](https://your-dashboard-link.com)
+[🔗 View Dashboard Demo (https://public.tableau.com/app/profile/siqi.zhang2285/viz/AustraliasEnergyConsumptionTransition/Dashboard2)
 
 ## 👩‍💻 Team & Roles
 
