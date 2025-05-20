@@ -1,0 +1,673 @@
+year,state,source,energy_pj
+1960,Australia,coal,0.0
+1961,Australia,coal,0.0
+1962,Australia,coal,0.0
+1963,Australia,coal,0.0
+1964,Australia,coal,0.0
+1965,Australia,coal,0.0
+1966,Australia,coal,0.0
+1967,Australia,coal,0.0
+1968,Australia,coal,0.0
+1969,Australia,coal,0.0
+1970,Australia,coal,0.0
+1971,Australia,coal,0.0
+1972,Australia,coal,0.0
+1973,Australia,coal,920.2
+1974,Australia,coal,981.1
+1975,Australia,coal,981.2
+1976,Australia,coal,1047.7
+1977,Australia,coal,1070.4
+1978,Australia,coal,1103.0
+1979,Australia,coal,1168.9
+1980,Australia,coal,1169.4
+1981,Australia,coal,1229.2
+1982,Australia,coal,1194.9
+1983,Australia,coal,1228.3
+1984,Australia,coal,1334.2
+1985,Australia,coal,1316.4
+1986,Australia,coal,1401.5
+1987,Australia,coal,1430.7
+1988,Australia,coal,1548.4
+1989,Australia,coal,1576.1
+1990,Australia,coal,1623.2
+1991,Australia,coal,1640.3
+1992,Australia,coal,1642.6
+1993,Australia,coal,1661.4
+1994,Australia,coal,1710.1
+1995,Australia,coal,1775.9
+1996,Australia,coal,1852.6
+1997,Australia,coal,1959.5
+1998,Australia,coal,2022.7
+1999,Australia,coal,2052.5
+2000,Australia,coal,2081.5
+2001,Australia,coal,2127.8
+2002,Australia,coal,2118.679
+2003,Australia,coal,2221.693
+2004,Australia,coal,2254.525
+2005,Australia,coal,2292.659
+2006,Australia,coal,2316.59
+2007,Australia,coal,2300.178
+2008,Australia,coal,2351.03
+2009,Australia,coal,2224.751
+2010,Australia,coal,2123.908
+2011,Australia,coal,2074.666
+2012,Australia,coal,1930.905
+2013,Australia,coal,1845.765
+2014,Australia,coal,1907.162
+2015,Australia,coal,1954.878
+2016,Australia,coal,1930.031
+2017,Australia,coal,1847.29
+2018,Australia,coal,1801.746
+2019,Australia,coal,1706.736
+2020,Australia,coal,1661.358
+2021,Australia,coal,1586.755
+2022,Australia,coal,1525.029
+2008,New South Wales,coal,800.912
+2009,New South Wales,coal,771.822
+2010,New South Wales,coal,732.238
+2011,New South Wales,coal,692.719
+2012,New South Wales,coal,642.979
+2013,New South Wales,coal,603.522
+2014,New South Wales,coal,587.811
+2015,New South Wales,coal,620.928
+2016,New South Wales,coal,625.937
+2017,New South Wales,coal,636.711
+2018,New South Wales,coal,640.327
+2019,New South Wales,coal,606.644
+2020,New South Wales,coal,579.756
+2021,New South Wales,coal,534.616
+2022,New South Wales,coal,525.444
+2008,Victoria,coal,695.335
+2009,Victoria,coal,688.721
+2010,Victoria,coal,681.172
+2011,Victoria,coal,705.717
+2012,Victoria,coal,622.004
+2013,Victoria,coal,605.605
+2014,Victoria,coal,641.152
+2015,Victoria,coal,617.413
+2016,Victoria,coal,577.323
+2017,Victoria,coal,467.386
+2018,Victoria,coal,444.1
+2019,Victoria,coal,423.205
+2020,Victoria,coal,427.708
+2021,Victoria,coal,410.709
+2022,Victoria,coal,398.198
+2008,Queensland,coal,629.212
+2009,Queensland,coal,547.51
+2010,Queensland,coal,497.209
+2011,Queensland,coal,481.546
+2012,Queensland,coal,473.41
+2013,Queensland,coal,442.851
+2014,Queensland,coal,485.277
+2015,Queensland,coal,517.791
+2016,Queensland,coal,544.167
+2017,Queensland,coal,570.59
+2018,Queensland,coal,554.152
+2019,Queensland,coal,524.384
+2020,Queensland,coal,506.121
+2021,Queensland,coal,485.647
+2022,Queensland,coal,471.089
+2008,South Australia,coal,80.189
+2009,South Australia,coal,79.659
+2010,South Australia,coal,72.576
+2011,South Australia,coal,60.859
+2012,South Australia,coal,50.709
+2013,South Australia,coal,46.68
+2014,South Australia,coal,53.961
+2015,South Australia,coal,52.624
+2016,South Australia,coal,26.064
+2017,South Australia,coal,25.889
+2018,South Australia,coal,26.337
+2019,South Australia,coal,24.729
+2020,South Australia,coal,25.392
+2021,South Australia,coal,25.939
+2022,South Australia,coal,22.004
+2008,Western Australia,coal,132.946
+2009,Western Australia,coal,125.583
+2010,Western Australia,coal,130.576
+2011,Western Australia,coal,124.969
+2012,Western Australia,coal,129.807
+2013,Western Australia,coal,136.09
+2014,Western Australia,coal,127.613
+2015,Western Australia,coal,136.413
+2016,Western Australia,coal,145.855
+2017,Western Australia,coal,136.243
+2018,Western Australia,coal,126.785
+2019,Western Australia,coal,119.508
+2020,Western Australia,coal,114.323
+2021,Western Australia,coal,121.076
+2022,Western Australia,coal,99.449
+2008,Tasmania,coal,12.437
+2009,Tasmania,coal,11.458
+2010,Tasmania,coal,10.137
+2011,Tasmania,coal,8.855
+2012,Tasmania,coal,11.996
+2013,Tasmania,coal,11.017
+2014,Tasmania,coal,11.348
+2015,Tasmania,coal,9.708
+2016,Tasmania,coal,10.684
+2017,Tasmania,coal,10.471
+2018,Tasmania,coal,10.045
+2019,Tasmania,coal,8.266
+2020,Tasmania,coal,8.058
+2021,Tasmania,coal,8.768
+2022,Tasmania,coal,8.845
+2008,Northern Territory,coal,0.0
+2009,Northern Territory,coal,0.0
+2010,Northern Territory,coal,0.0
+2011,Northern Territory,coal,0.0
+2012,Northern Territory,coal,0.0
+2013,Northern Territory,coal,0.0
+2014,Northern Territory,coal,0.0
+2015,Northern Territory,coal,0.0
+2016,Northern Territory,coal,0.0
+2017,Northern Territory,coal,0.0
+2018,Northern Territory,coal,0.0
+2019,Northern Territory,coal,0.0
+2020,Northern Territory,coal,0.0
+2021,Northern Territory,coal,0.0
+2022,Northern Territory,coal,0.0
+1960,Australia,oil,510.0
+1961,Australia,oil,537.3
+1962,Australia,oil,581.9
+1963,Australia,oil,656.8
+1964,Australia,oil,719.9
+1965,Australia,oil,784.7
+1966,Australia,oil,853.1
+1967,Australia,oil,932.3
+1968,Australia,oil,1029.2
+1969,Australia,oil,1098.6
+1970,Australia,oil,1134.1
+1971,Australia,oil,1189.1
+1972,Australia,oil,1217.6
+1973,Australia,oil,1333.2
+1974,Australia,oil,1327.7
+1975,Australia,oil,1339.7
+1976,Australia,oil,1410.6
+1977,Australia,oil,1438.3
+1978,Australia,oil,1440.9
+1979,Australia,oil,1411.6
+1980,Australia,oil,1358.6
+1981,Australia,oil,1339.0
+1982,Australia,oil,1262.7
+1983,Australia,oil,1306.7
+1984,Australia,oil,1306.6
+1985,Australia,oil,1304.9
+1986,Australia,oil,1315.8
+1987,Australia,oil,1369.3
+1988,Australia,oil,1433.2
+1989,Australia,oil,1452.7
+1990,Australia,oil,1440.9
+1991,Australia,oil,1444.5
+1992,Australia,oil,1491.7
+1993,Australia,oil,1532.5
+1994,Australia,oil,1606.3
+1995,Australia,oil,1663.9
+1996,Australia,oil,1660.6
+1997,Australia,oil,1680.1
+1998,Australia,oil,1698.2
+1999,Australia,oil,1722.9
+2000,Australia,oil,1701.5
+2001,Australia,oil,1750.0
+2002,Australia,oil,1801.856
+2003,Australia,oil,1810.489
+2004,Australia,oil,1869.026
+2005,Australia,oil,1969.749
+2006,Australia,oil,1988.3
+2007,Australia,oil,1984.072
+2008,Australia,oil,2000.72
+2009,Australia,oil,2057.962
+2010,Australia,oil,2211.984
+2011,Australia,oil,2184.155
+2012,Australia,oil,2277.953
+2013,Australia,oil,2297.183
+2014,Australia,oil,2236.646
+2015,Australia,oil,2279.486
+2016,Australia,oil,2318.013
+2017,Australia,oil,2404.055
+2018,Australia,oil,2424.419
+2019,Australia,oil,2251.769
+2020,Australia,oil,2082.155
+2021,Australia,oil,2106.89
+2022,Australia,oil,2285.489
+2008,New South Wales,oil,587.462
+2009,New South Wales,oil,638.865
+2010,New South Wales,oil,684.98
+2011,New South Wales,oil,687.369
+2012,New South Wales,oil,677.412
+2013,New South Wales,oil,666.561
+2014,New South Wales,oil,621.438
+2015,New South Wales,oil,633.633
+2016,New South Wales,oil,652.595
+2017,New South Wales,oil,672.427
+2018,New South Wales,oil,665.034
+2019,New South Wales,oil,611.402
+2020,New South Wales,oil,556.032
+2021,New South Wales,oil,547.492
+2022,New South Wales,oil,619.186
+2008,Victoria,oil,432.9
+2009,Victoria,oil,448.436
+2010,Victoria,oil,488.779
+2011,Victoria,oil,469.251
+2012,Victoria,oil,488.295
+2013,Victoria,oil,495.532
+2014,Victoria,oil,464.521
+2015,Victoria,oil,506.952
+2016,Victoria,oil,512.388
+2017,Victoria,oil,517.907
+2018,Victoria,oil,507.856
+2019,Victoria,oil,453.004
+2020,Victoria,oil,384.921
+2021,Victoria,oil,412.363
+2022,Victoria,oil,465.61
+2008,Queensland,oil,469.531
+2009,Queensland,oil,466.869
+2010,Queensland,oil,483.317
+2011,Queensland,oil,504.806
+2012,Queensland,oil,514.669
+2013,Queensland,oil,531.185
+2014,Queensland,oil,555.492
+2015,Queensland,oil,542.481
+2016,Queensland,oil,563.642
+2017,Queensland,oil,579.146
+2018,Queensland,oil,577.321
+2019,Queensland,oil,543.786
+2020,Queensland,oil,501.811
+2021,Queensland,oil,504.954
+2022,Queensland,oil,532.568
+2008,South Australia,oil,120.167
+2009,South Australia,oil,120.457
+2010,South Australia,oil,119.284
+2011,South Australia,oil,89.42
+2012,South Australia,oil,147.358
+2013,South Australia,oil,141.047
+2014,South Australia,oil,163.36
+2015,South Australia,oil,121.209
+2016,South Australia,oil,106.567
+2017,South Australia,oil,148.969
+2018,South Australia,oil,148.762
+2019,South Australia,oil,145.983
+2020,South Australia,oil,143.272
+2021,South Australia,oil,141.947
+2022,South Australia,oil,144.925
+2008,Western Australia,oil,294.343
+2009,Western Australia,oil,289.95
+2010,Western Australia,oil,341.495
+2011,Western Australia,oil,339.507
+2012,Western Australia,oil,357.523
+2013,Western Australia,oil,373.476
+2014,Western Australia,oil,355.581
+2015,Western Australia,oil,403.691
+2016,Western Australia,oil,411.384
+2017,Western Australia,oil,405.221
+2018,Western Australia,oil,439.361
+2019,Western Australia,oil,423.775
+2020,Western Australia,oil,418.539
+2021,Western Australia,oil,422.626
+2022,Western Australia,oil,447.131
+2008,Tasmania,oil,41.565
+2009,Tasmania,oil,41.527
+2010,Tasmania,oil,39.19
+2011,Tasmania,oil,38.099
+2012,Tasmania,oil,38.538
+2013,Tasmania,oil,38.177
+2014,Tasmania,oil,37.856
+2015,Tasmania,oil,38.098
+2016,Tasmania,oil,37.049
+2017,Tasmania,oil,38.099
+2018,Tasmania,oil,40.298
+2019,Tasmania,oil,37.323
+2020,Tasmania,oil,39.963
+2021,Tasmania,oil,39.885
+2022,Tasmania,oil,39.501
+2008,Northern Territory,oil,54.751
+2009,Northern Territory,oil,51.859
+2010,Northern Territory,oil,54.939
+2011,Northern Territory,oil,55.702
+2012,Northern Territory,oil,54.157
+2013,Northern Territory,oil,51.205
+2014,Northern Territory,oil,38.397
+2015,Northern Territory,oil,33.42
+2016,Northern Territory,oil,34.387
+2017,Northern Territory,oil,42.286
+2018,Northern Territory,oil,45.787
+2019,Northern Territory,oil,36.497
+2020,Northern Territory,oil,37.615
+2021,Northern Territory,oil,37.623
+2022,Northern Territory,oil,36.569
+1960,Australia,gas,0.0
+1961,Australia,gas,0.0
+1962,Australia,gas,0.1
+1963,Australia,gas,0.1
+1964,Australia,gas,0.1
+1965,Australia,gas,0.2
+1966,Australia,gas,0.2
+1967,Australia,gas,0.2
+1968,Australia,gas,2.1
+1969,Australia,gas,29.5
+1970,Australia,gas,74.4
+1971,Australia,gas,102.2
+1972,Australia,gas,144.1
+1973,Australia,gas,172.5
+1974,Australia,gas,189.2
+1975,Australia,gas,211.2
+1976,Australia,gas,256.2
+1977,Australia,gas,283.0
+1978,Australia,gas,314.9
+1979,Australia,gas,362.6
+1980,Australia,gas,416.0
+1981,Australia,gas,462.0
+1982,Australia,gas,466.2
+1983,Australia,gas,490.0
+1984,Australia,gas,523.3
+1985,Australia,gas,570.7
+1986,Australia,gas,588.4
+1987,Australia,gas,610.5
+1988,Australia,gas,627.8
+1989,Australia,gas,688.1
+1990,Australia,gas,655.4
+1991,Australia,gas,678.6
+1992,Australia,gas,707.0
+1993,Australia,gas,736.8
+1994,Australia,gas,793.1
+1995,Australia,gas,797.0
+1996,Australia,gas,818.4
+1997,Australia,gas,859.3
+1998,Australia,gas,887.4
+1999,Australia,gas,921.5
+2000,Australia,gas,959.9
+2001,Australia,gas,974.7
+2002,Australia,gas,942.133
+2003,Australia,gas,973.985
+2004,Australia,gas,996.442
+2005,Australia,gas,1000.854
+2006,Australia,gas,1131.909
+2007,Australia,gas,1168.703
+2008,Australia,gas,1252.872
+2009,Australia,gas,1257.834
+2010,Australia,gas,1274.207
+2011,Australia,gas,1338.544
+2012,Australia,gas,1376.47
+2013,Australia,gas,1383.756
+2014,Australia,gas,1406.951
+2015,Australia,gas,1440.327
+2016,Australia,gas,1477.62
+2017,Australia,gas,1534.393
+2018,Australia,gas,1561.924
+2019,Australia,gas,1623.785
+2020,Australia,gas,1561.075
+2021,Australia,gas,1559.345
+2022,Australia,gas,1518.128
+2008,New South Wales,gas,131.649
+2009,New South Wales,gas,148.728
+2010,New South Wales,gas,146.544
+2011,New South Wales,gas,142.148
+2012,New South Wales,gas,157.355
+2013,New South Wales,gas,166.986
+2014,New South Wales,gas,163.48
+2015,New South Wales,gas,164.803
+2016,New South Wales,gas,143.64
+2017,New South Wales,gas,144.058
+2018,New South Wales,gas,139.224
+2019,New South Wales,gas,141.888
+2020,New South Wales,gas,135.833
+2021,New South Wales,gas,145.271
+2022,New South Wales,gas,134.318
+2008,Victoria,gas,273.499
+2009,Victoria,gas,263.452
+2010,Victoria,gas,258.585
+2011,Victoria,gas,263.602
+2012,Victoria,gas,276.166
+2013,Victoria,gas,252.831
+2014,Victoria,gas,257.655
+2015,Victoria,gas,253.883
+2016,Victoria,gas,258.676
+2017,Victoria,gas,263.553
+2018,Victoria,gas,255.891
+2019,Victoria,gas,256.517
+2020,Victoria,gas,236.287
+2021,Victoria,gas,237.504
+2022,Victoria,gas,215.167
+2008,Queensland,gas,187.938
+2009,Queensland,gas,195.803
+2010,Queensland,gas,190.552
+2011,Queensland,gas,246.145
+2012,Queensland,gas,239.824
+2013,Queensland,gas,257.996
+2014,Queensland,gas,294.916
+2015,Queensland,gas,296.399
+2016,Queensland,gas,309.582
+2017,Queensland,gas,302.269
+2018,Queensland,gas,294.018
+2019,Queensland,gas,312.968
+2020,Queensland,gas,313.028
+2021,Queensland,gas,305.693
+2022,Queensland,gas,290.533
+2008,South Australia,gas,134.012
+2009,South Australia,gas,119.466
+2010,South Australia,gas,121.81
+2011,South Australia,gas,125.182
+2012,South Australia,gas,124.634
+2013,South Australia,gas,110.085
+2014,South Australia,gas,99.515
+2015,South Australia,gas,100.574
+2016,South Australia,gas,109.573
+2017,South Australia,gas,120.394
+2018,South Australia,gas,108.318
+2019,South Australia,gas,103.724
+2020,South Australia,gas,92.21
+2021,South Australia,gas,80.164
+2022,South Australia,gas,74.762
+2008,Western Australia,gas,474.676
+2009,Western Australia,gas,474.864
+2010,Western Australia,gas,494.908
+2011,Western Australia,gas,503.352
+2012,Western Australia,gas,515.484
+2013,Western Australia,gas,536.073
+2014,Western Australia,gas,539.857
+2015,Western Australia,gas,561.91
+2016,Western Australia,gas,594.861
+2017,Western Australia,gas,643.291
+2018,Western Australia,gas,667.756
+2019,Western Australia,gas,692.598
+2020,Western Australia,gas,670.147
+2021,Western Australia,gas,673.08
+2022,Western Australia,gas,704.829
+2008,Tasmania,gas,11.178
+2009,Tasmania,gas,13.567
+2010,Tasmania,gas,17.685
+2011,Tasmania,gas,16.157
+2012,Tasmania,gas,17.707
+2013,Tasmania,gas,12.417
+2014,Tasmania,gas,6.584
+2015,Tasmania,gas,12.944
+2016,Tasmania,gas,13.165
+2017,Tasmania,gas,13.92
+2018,Tasmania,gas,10.591
+2019,Tasmania,gas,7.398
+2020,Tasmania,gas,7.324
+2021,Tasmania,gas,7.064
+2022,Tasmania,gas,7.238
+2008,Northern Territory,gas,39.919
+2009,Northern Territory,gas,41.954
+2010,Northern Territory,gas,44.122
+2011,Northern Territory,gas,41.958
+2012,Northern Territory,gas,45.3
+2013,Northern Territory,gas,47.367
+2014,Northern Territory,gas,44.943
+2015,Northern Territory,gas,49.815
+2016,Northern Territory,gas,48.124
+2017,Northern Territory,gas,46.908
+2018,Northern Territory,gas,86.125
+2019,Northern Territory,gas,108.691
+2020,Northern Territory,gas,106.246
+2021,Northern Territory,gas,110.567
+2022,Northern Territory,gas,91.281
+1960,Australia,renewables,189.1
+1961,Australia,renewables,185.6
+1962,Australia,renewables,194.6
+1963,Australia,renewables,188.9
+1964,Australia,renewables,198.2
+1965,Australia,renewables,186.5
+1966,Australia,renewables,192.0
+1967,Australia,renewables,187.7
+1968,Australia,renewables,189.8
+1969,Australia,renewables,180.9
+1970,Australia,renewables,191.4
+1971,Australia,renewables,194.2
+1972,Australia,renewables,190.6
+1973,Australia,renewables,197.4
+1974,Australia,renewables,204.0
+1975,Australia,renewables,206.2
+1976,Australia,renewables,199.3
+1977,Australia,renewables,201.2
+1978,Australia,renewables,199.6
+1979,Australia,renewables,193.6
+1980,Australia,renewables,206.0
+1981,Australia,renewables,210.7
+1982,Australia,renewables,203.5
+1983,Australia,renewables,200.9
+1984,Australia,renewables,212.9
+1985,Australia,renewables,214.9
+1986,Australia,renewables,214.5
+1987,Australia,renewables,218.4
+1988,Australia,renewables,228.7
+1989,Australia,renewables,233.0
+1990,Australia,renewables,236.3
+1991,Australia,renewables,221.9
+1992,Australia,renewables,243.8
+1993,Australia,renewables,252.3
+1994,Australia,renewables,258.8
+1995,Australia,renewables,267.2
+1996,Australia,renewables,280.1
+1997,Australia,renewables,278.2
+1998,Australia,renewables,278.3
+1999,Australia,renewables,274.1
+2000,Australia,renewables,268.9
+2001,Australia,renewables,244.5
+2002,Australia,renewables,214.41
+2003,Australia,renewables,217.522
+2004,Australia,renewables,220.544
+2005,Australia,renewables,220.292
+2006,Australia,renewables,226.245
+2007,Australia,renewables,231.449
+2008,Australia,renewables,239.941
+2009,Australia,renewables,282.626
+2010,Australia,renewables,294.58
+2011,Australia,renewables,293.827
+2012,Australia,renewables,333.541
+2013,Australia,renewables,344.246
+2014,Australia,renewables,347.666
+2015,Australia,renewables,360.187
+2016,Australia,renewables,379.078
+2017,Australia,renewables,382.453
+2018,Australia,renewables,400.194
+2019,Australia,renewables,418.758
+2020,Australia,renewables,464.63
+2021,Australia,renewables,512.147
+2022,Australia,renewables,553.559
+2008,New South Wales,renewables,54.708
+2009,New South Wales,renewables,63.757
+2010,New South Wales,renewables,68.593
+2011,New South Wales,renewables,71.058
+2012,New South Wales,renewables,70.889
+2013,New South Wales,renewables,72.762
+2014,New South Wales,renewables,70.998
+2015,New South Wales,renewables,82.431
+2016,New South Wales,renewables,84.453
+2017,New South Wales,renewables,86.6
+2018,New South Wales,renewables,90.366
+2019,New South Wales,renewables,95.63
+2020,New South Wales,renewables,110.572
+2021,New South Wales,renewables,125.055
+2022,New South Wales,renewables,138.761
+2008,Victoria,renewables,33.595
+2009,Victoria,renewables,35.963
+2010,Victoria,renewables,44.662
+2011,Victoria,renewables,40.988
+2012,Victoria,renewables,55.457
+2013,Victoria,renewables,57.159
+2014,Victoria,renewables,59.221
+2015,Victoria,renewables,62.325
+2016,Victoria,renewables,65.626
+2017,Victoria,renewables,66.068
+2018,Victoria,renewables,72.017
+2019,Victoria,renewables,77.397
+2020,Victoria,renewables,89.349
+2021,Victoria,renewables,104.796
+2022,Victoria,renewables,111.765
+2008,Queensland,renewables,77.402
+2009,Queensland,renewables,107.377
+2010,Queensland,renewables,98.739
+2011,Queensland,renewables,99.737
+2012,Queensland,renewables,114.237
+2013,Queensland,renewables,109.563
+2014,Queensland,renewables,122.537
+2015,Queensland,renewables,120.39
+2016,Queensland,renewables,129.588
+2017,Queensland,renewables,120.629
+2018,Queensland,renewables,123.899
+2019,Queensland,renewables,127.023
+2020,Queensland,renewables,139.606
+2021,Queensland,renewables,143.158
+2022,Queensland,renewables,162.23
+2008,South Australia,renewables,21.189
+2009,South Australia,renewables,20.431
+2010,South Australia,renewables,23.78
+2011,South Australia,renewables,24.702
+2012,South Australia,renewables,25.109
+2013,South Australia,renewables,29.096
+2014,South Australia,renewables,30.693
+2015,South Australia,renewables,31.594
+2016,South Australia,renewables,31.926
+2017,South Australia,renewables,37.254
+2018,South Australia,renewables,38.955
+2019,South Australia,renewables,40.932
+2020,South Australia,renewables,44.25
+2021,South Australia,renewables,48.085
+2022,South Australia,renewables,52.962
+2008,Western Australia,renewables,15.59
+2009,Western Australia,renewables,14.61
+2010,Western Australia,renewables,15.274
+2011,Western Australia,renewables,17.044
+2012,Western Australia,renewables,18.843
+2013,Western Australia,renewables,20.925
+2014,Western Australia,renewables,22.292
+2015,Western Australia,renewables,21.894
+2016,Western Australia,renewables,24.751
+2017,Western Australia,renewables,24.999
+2018,Western Australia,renewables,27.289
+2019,Western Australia,renewables,29.054
+2020,Western Australia,renewables,35.936
+2021,Western Australia,renewables,41.101
+2022,Western Australia,renewables,42.218
+2008,Tasmania,renewables,37.086
+2009,Tasmania,renewables,40.015
+2010,Tasmania,renewables,43.05
+2011,Tasmania,renewables,39.809
+2012,Tasmania,renewables,48.479
+2013,Tasmania,renewables,54.173
+2014,Tasmania,renewables,41.278
+2015,Tasmania,renewables,40.869
+2016,Tasmania,renewables,41.925
+2017,Tasmania,renewables,45.937
+2018,Tasmania,renewables,46.559
+2019,Tasmania,renewables,47.412
+2020,Tasmania,renewables,43.438
+2021,Tasmania,renewables,48.37
+2022,Tasmania,renewables,43.88
+2008,Northern Territory,renewables,0.372
+2009,Northern Territory,renewables,0.472
+2010,Northern Territory,renewables,0.481
+2011,Northern Territory,renewables,0.489
+2012,Northern Territory,renewables,0.526
+2013,Northern Territory,renewables,0.569
+2014,Northern Territory,renewables,0.647
+2015,Northern Territory,renewables,0.684
+2016,Northern Territory,renewables,0.809
+2017,Northern Territory,renewables,0.967
+2018,Northern Territory,renewables,1.11
+2019,Northern Territory,renewables,1.311
+2020,Northern Territory,renewables,1.48
+2021,Northern Territory,renewables,1.582
+2022,Northern Territory,renewables,1.742
